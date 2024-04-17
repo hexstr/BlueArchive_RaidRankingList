@@ -164,7 +164,7 @@
   {
     "AccountId": 2476490,
     "Level": 87,
-    "Nickname": "爱歌",
+    "Nickname": "愛歌",
     "Tier": 4,
     "Rank": 19,
     "BestRankingPoint": 38676404,
@@ -191,7 +191,7 @@
   {
     "AccountId": 12496202,
     "Level": 87,
-    "Nickname": "残梦",
+    "Nickname": "殘夢",
     "Tier": 4,
     "Rank": 22,
     "BestRankingPoint": 38671524,
@@ -317,7 +317,7 @@
   {
     "AccountId": 10531354,
     "Level": 87,
-    "Nickname": "韭菜",
+    "Nickname": "韭菜（想当时雨的暖水袋）",
     "Tier": 4,
     "Rank": 36,
     "BestRankingPoint": 38609604,
@@ -443,7 +443,7 @@
   {
     "AccountId": 11910259,
     "Level": 87,
-    "Nickname": "小柊#要懂享受凹炸票这个过程",
+    "Nickname": "小柊#可是她請我進被窩誒",
     "Tier": 4,
     "Rank": 50,
     "BestRankingPoint": 38574485,
@@ -911,7 +911,7 @@
   {
     "AccountId": 36359,
     "Level": 87,
-    "Nickname": "念頭通達柚子泡糕手",
+    "Nickname": "糖糖だよ",
     "Tier": 4,
     "Rank": 102,
     "BestRankingPoint": 38386481,
@@ -1037,7 +1037,7 @@
   {
     "AccountId": 10646245,
     "Level": 87,
-    "Nickname": "嗦九月小男娘的下面",
+    "Nickname": "hayaki",
     "Tier": 4,
     "Rank": 116,
     "BestRankingPoint": 38349684,
@@ -1388,7 +1388,7 @@
   {
     "AccountId": 94329,
     "Level": 87,
-    "Nickname": "感谢柚子助我无局长无和纱第一",
+    "Nickname": "摩卡",
     "Tier": 4,
     "Rank": 155,
     "BestRankingPoint": 38243523,
@@ -1775,7 +1775,7 @@
   {
     "AccountId": 11987630,
     "Level": 87,
-    "Nickname": "我咬浅夕乄下面",
+    "Nickname": "立华奏",
     "Tier": 4,
     "Rank": 198,
     "BestRankingPoint": 38140083,
@@ -3152,7 +3152,7 @@
   {
     "AccountId": 12776123,
     "Level": 87,
-    "Nickname": "TK",
+    "Nickname": "TK-她能打总力战吗",
     "Tier": 4,
     "Rank": 351,
     "BestRankingPoint": 37883681,
@@ -3206,7 +3206,7 @@
   {
     "AccountId": 12569197,
     "Level": 87,
-    "Nickname": "美咕嚕跟兄弟借位子",
+    "Nickname": "美咕嚕剩一個月跟兄弟相處了",
     "Tier": 4,
     "Rank": 357,
     "BestRankingPoint": 37877681,
@@ -3359,7 +3359,7 @@
   {
     "AccountId": 12792544,
     "Level": 87,
-    "Nickname": "星奈出了就專三",
+    "Nickname": "我不是南通我有專三時雨",
     "Tier": 4,
     "Rank": 374,
     "BestRankingPoint": 37857680,
@@ -5645,7 +5645,7 @@
   {
     "AccountId": 8807078,
     "Level": 87,
-    "Nickname": "身无彩凤双飞翼怀里心奈一抹红",
+    "Nickname": "花去春还在草飞小心奈",
     "Tier": 4,
     "Rank": 628,
     "BestRankingPoint": 37484640,
@@ -5762,7 +5762,7 @@
   {
     "AccountId": 8735174,
     "Level": 87,
-    "Nickname": "柚子有戴表",
+    "Nickname": "桌子",
     "Tier": 4,
     "Rank": 641,
     "BestRankingPoint": 37461684,
@@ -7391,7 +7391,7 @@
   {
     "AccountId": 14655144,
     "Level": 87,
-    "Nickname": "記憶如可惜",
+    "Nickname": "連一刻都沒有為天龍的隕落哀悼",
     "Tier": 4,
     "Rank": 822,
     "BestRankingPoint": 37048642,
@@ -8613,20 +8613,11 @@
     "BestRankingPointDetail": 35087693.2400538
   },
   {
-    "AccountId": 8638433,
-    "Level": 87,
-    "Nickname": "燭陰",
-    "Tier": 4,
-    "Rank": 958,
-    "BestRankingPoint": 26038848,
-    "BestRankingPointDetail": 26038848.2077937
-  },
-  {
     "AccountId": 13698280,
     "Level": 87,
     "Nickname": "極光uwu",
     "Tier": 4,
-    "Rank": 959,
+    "Rank": 958,
     "BestRankingPoint": 26032065,
     "BestRankingPointDetail": 26032065.2479936
   },
@@ -8635,7 +8626,7 @@
     "Level": 87,
     "Nickname": "IcyLanLing",
     "Tier": 4,
-    "Rank": 960,
+    "Rank": 959,
     "BestRankingPoint": 26032000,
     "BestRankingPointDetail": 26032000.2319869
   },
@@ -8644,7 +8635,7 @@
     "Level": 87,
     "Nickname": "虚灬無",
     "Tier": 4,
-    "Rank": 961,
+    "Rank": 960,
     "BestRankingPoint": 26031873,
     "BestRankingPointDetail": 26031873.2232715
   },
@@ -8653,7 +8644,7 @@
     "Level": 87,
     "Nickname": "秋風蕭瑟天氣涼時寶屋內暖我床",
     "Tier": 4,
-    "Rank": 962,
+    "Rank": 961,
     "BestRankingPoint": 26031681,
     "BestRankingPointDetail": 26031681.2401649
   },
@@ -8662,7 +8653,7 @@
     "Level": 87,
     "Nickname": "Akari丶Krito",
     "Tier": 4,
-    "Rank": 963,
+    "Rank": 962,
     "BestRankingPoint": 26031616,
     "BestRankingPointDetail": 26031616.2277771
   },
@@ -8671,7 +8662,7 @@
     "Level": 87,
     "Nickname": "Yuukasuki",
     "Tier": 4,
-    "Rank": 964,
+    "Rank": 963,
     "BestRankingPoint": 26031616,
     "BestRankingPointDetail": 26031616.201771
   },
@@ -8680,16 +8671,16 @@
     "Level": 87,
     "Nickname": "dark80426",
     "Tier": 4,
-    "Rank": 965,
+    "Rank": 964,
     "BestRankingPoint": 26031552,
     "BestRankingPointDetail": 26031552.2362492
   },
   {
     "AccountId": 10637340,
     "Level": 87,
-    "Nickname": "手抖没点到auto哼哼哼啊啊",
+    "Nickname": "ない",
     "Tier": 4,
-    "Rank": 966,
+    "Rank": 965,
     "BestRankingPoint": 26030529,
     "BestRankingPointDetail": 26030529.2247113
   },
@@ -8698,7 +8689,7 @@
     "Level": 87,
     "Nickname": "櫻星世",
     "Tier": 4,
-    "Rank": 967,
+    "Rank": 966,
     "BestRankingPoint": 26029440,
     "BestRankingPointDetail": 26029440.2376654
   },
@@ -8707,7 +8698,7 @@
     "Level": 87,
     "Nickname": "Link",
     "Tier": 4,
-    "Rank": 968,
+    "Rank": 967,
     "BestRankingPoint": 26029248,
     "BestRankingPointDetail": 26029248.2259379
   },
@@ -8716,7 +8707,7 @@
     "Level": 87,
     "Nickname": "卡古",
     "Tier": 4,
-    "Rank": 969,
+    "Rank": 968,
     "BestRankingPoint": 26027392,
     "BestRankingPointDetail": 26027392.2430187
   },
@@ -8725,7 +8716,7 @@
     "Level": 87,
     "Nickname": "武碳極哞哞絞肉丸",
     "Tier": 4,
-    "Rank": 970,
+    "Rank": 969,
     "BestRankingPoint": 26025792,
     "BestRankingPointDetail": 26025792.2149207
   },
@@ -8734,7 +8725,7 @@
     "Level": 87,
     "Nickname": "バナナ味噌汁",
     "Tier": 4,
-    "Rank": 971,
+    "Rank": 970,
     "BestRankingPoint": 26025472,
     "BestRankingPointDetail": 26025472.2230683
   },
@@ -8743,7 +8734,7 @@
     "Level": 87,
     "Nickname": "Kotoryter",
     "Tier": 4,
-    "Rank": 972,
+    "Rank": 971,
     "BestRankingPoint": 26023041,
     "BestRankingPointDetail": 26023041.2136249
   },
@@ -8752,25 +8743,16 @@
     "Level": 87,
     "Nickname": "Rinko",
     "Tier": 4,
-    "Rank": 973,
+    "Rank": 972,
     "BestRankingPoint": 26020032,
     "BestRankingPointDetail": 26020032.2196178
-  },
-  {
-    "AccountId": 13568956,
-    "Level": 87,
-    "Nickname": "夜宮",
-    "Tier": 4,
-    "Rank": 974,
-    "BestRankingPoint": 26019264,
-    "BestRankingPointDetail": 26019264.207317
   },
   {
     "AccountId": 13821724,
     "Level": 87,
     "Nickname": "BK-201",
     "Tier": 4,
-    "Rank": 975,
+    "Rank": 973,
     "BestRankingPoint": 26017920,
     "BestRankingPointDetail": 26017920.2104273
   },
@@ -8779,7 +8761,7 @@
     "Level": 87,
     "Nickname": "幻色幽海",
     "Tier": 4,
-    "Rank": 976,
+    "Rank": 974,
     "BestRankingPoint": 26017665,
     "BestRankingPointDetail": 26017665.2279706
   },
@@ -8788,7 +8770,7 @@
     "Level": 87,
     "Nickname": "柳丁",
     "Tier": 4,
-    "Rank": 977,
+    "Rank": 975,
     "BestRankingPoint": 26014017,
     "BestRankingPointDetail": 26014017.2369583
   },
@@ -8797,7 +8779,7 @@
     "Level": 87,
     "Nickname": "早川家的大狐狸",
     "Tier": 4,
-    "Rank": 978,
+    "Rank": 976,
     "BestRankingPoint": 26013312,
     "BestRankingPointDetail": 26013312.2306303
   },
@@ -8806,7 +8788,7 @@
     "Level": 87,
     "Nickname": "楓",
     "Tier": 4,
-    "Rank": 979,
+    "Rank": 977,
     "BestRankingPoint": 26012481,
     "BestRankingPointDetail": 26012481.2419935
   },
@@ -8815,7 +8797,7 @@
     "Level": 87,
     "Nickname": "旅雲",
     "Tier": 4,
-    "Rank": 980,
+    "Rank": 978,
     "BestRankingPoint": 26012352,
     "BestRankingPointDetail": 26012352.2403918
   },
@@ -8824,7 +8806,7 @@
     "Level": 87,
     "Nickname": "訪",
     "Tier": 4,
-    "Rank": 981,
+    "Rank": 979,
     "BestRankingPoint": 26011648,
     "BestRankingPointDetail": 26011648.2364546
   },
@@ -8833,7 +8815,7 @@
     "Level": 87,
     "Nickname": "人在做天在看陽葵在我身上喘",
     "Tier": 4,
-    "Rank": 982,
+    "Rank": 980,
     "BestRankingPoint": 26011456,
     "BestRankingPointDetail": 26011456.2114553
   },
@@ -8842,7 +8824,7 @@
     "Level": 87,
     "Nickname": "我推の小鈎ハレ",
     "Tier": 4,
-    "Rank": 983,
+    "Rank": 981,
     "BestRankingPoint": 26011264,
     "BestRankingPointDetail": 26011264.2218761
   },
@@ -8851,7 +8833,7 @@
     "Level": 87,
     "Nickname": "无风叶存",
     "Tier": 4,
-    "Rank": 984,
+    "Rank": 982,
     "BestRankingPoint": 26011137,
     "BestRankingPointDetail": 26011137.2231352
   },
@@ -8860,7 +8842,7 @@
     "Level": 87,
     "Nickname": "呼噗噗",
     "Tier": 4,
-    "Rank": 985,
+    "Rank": 983,
     "BestRankingPoint": 26011008,
     "BestRankingPointDetail": 26011008.229195
   },
@@ -8869,7 +8851,7 @@
     "Level": 87,
     "Nickname": "夵丶",
     "Tier": 4,
-    "Rank": 986,
+    "Rank": 984,
     "BestRankingPoint": 26010177,
     "BestRankingPointDetail": 26010177.2528092
   },
@@ -8878,7 +8860,7 @@
     "Level": 87,
     "Nickname": "雪乃",
     "Tier": 4,
-    "Rank": 987,
+    "Rank": 985,
     "BestRankingPoint": 26010177,
     "BestRankingPointDetail": 26010177.2527643
   },
@@ -8887,7 +8869,7 @@
     "Level": 87,
     "Nickname": "修狱",
     "Tier": 4,
-    "Rank": 988,
+    "Rank": 986,
     "BestRankingPoint": 26010177,
     "BestRankingPointDetail": 26010177.2508509
   },
@@ -8896,7 +8878,7 @@
     "Level": 87,
     "Nickname": "WBGAzusa",
     "Tier": 4,
-    "Rank": 989,
+    "Rank": 987,
     "BestRankingPoint": 26010177,
     "BestRankingPointDetail": 26010177.2501271
   },
@@ -8905,7 +8887,7 @@
     "Level": 87,
     "Nickname": "最愛小鳥遊ホシノ",
     "Tier": 4,
-    "Rank": 990,
+    "Rank": 988,
     "BestRankingPoint": 26010177,
     "BestRankingPointDetail": 26010177.2495206
   },
@@ -8914,7 +8896,7 @@
     "Level": 87,
     "Nickname": "小羽",
     "Tier": 4,
-    "Rank": 991,
+    "Rank": 989,
     "BestRankingPoint": 26010177,
     "BestRankingPointDetail": 26010177.2494214
   },
@@ -8923,7 +8905,7 @@
     "Level": 87,
     "Nickname": "咿呀",
     "Tier": 4,
-    "Rank": 992,
+    "Rank": 990,
     "BestRankingPoint": 26010177,
     "BestRankingPointDetail": 26010177.2488779
   },
@@ -8932,7 +8914,7 @@
     "Level": 87,
     "Nickname": "Air4",
     "Tier": 4,
-    "Rank": 993,
+    "Rank": 991,
     "BestRankingPoint": 26010177,
     "BestRankingPointDetail": 26010177.248218
   },
@@ -8941,7 +8923,7 @@
     "Level": 87,
     "Nickname": "朝雀555",
     "Tier": 4,
-    "Rank": 994,
+    "Rank": 992,
     "BestRankingPoint": 26010177,
     "BestRankingPointDetail": 26010177.2468441
   },
@@ -8950,7 +8932,7 @@
     "Level": 87,
     "Nickname": "浅草才能没马蹄日奈在我被窝里",
     "Tier": 4,
-    "Rank": 995,
+    "Rank": 993,
     "BestRankingPoint": 26010177,
     "BestRankingPointDetail": 26010177.2464952
   },
@@ -8959,16 +8941,16 @@
     "Level": 87,
     "Nickname": "尘逸",
     "Tier": 4,
-    "Rank": 996,
+    "Rank": 994,
     "BestRankingPoint": 26010177,
     "BestRankingPointDetail": 26010177.2462859
   },
   {
     "AccountId": 6873052,
     "Level": 87,
-    "Nickname": "菜佳承",
+    "Nickname": "你跟一檔過一輩子吧",
     "Tier": 4,
-    "Rank": 997,
+    "Rank": 995,
     "BestRankingPoint": 26010177,
     "BestRankingPointDetail": 26010177.244182
   },
@@ -8977,7 +8959,7 @@
     "Level": 87,
     "Nickname": "Kirito",
     "Tier": 4,
-    "Rank": 998,
+    "Rank": 996,
     "BestRankingPoint": 26010177,
     "BestRankingPointDetail": 26010177.2439877
   },
@@ -8986,7 +8968,7 @@
     "Level": 87,
     "Nickname": "王者荣耀高手",
     "Tier": 4,
-    "Rank": 999,
+    "Rank": 997,
     "BestRankingPoint": 26010177,
     "BestRankingPointDetail": 26010177.2413999
   },
@@ -8995,8 +8977,26 @@
     "Level": 87,
     "Nickname": "不要小看精灵",
     "Tier": 4,
-    "Rank": 1000,
+    "Rank": 998,
     "BestRankingPoint": 26010177,
     "BestRankingPointDetail": 26010177.2412745
+  },
+  {
+    "AccountId": 12962447,
+    "Level": 87,
+    "Nickname": "星",
+    "Tier": 4,
+    "Rank": 999,
+    "BestRankingPoint": 26010177,
+    "BestRankingPointDetail": 26010177.240118
+  },
+  {
+    "AccountId": 15365385,
+    "Level": 87,
+    "Nickname": "月社妃",
+    "Tier": 4,
+    "Rank": 1000,
+    "BestRankingPoint": 26010177,
+    "BestRankingPointDetail": 26010177.2395441
   }
 ]
