@@ -1,9 +1,26 @@
 {
+  "RaidTeamSettingDB": {
+    "AccountId": 18441575,
+    "MainCharacterDBs": [
+      {
+        "ServerId": 477094471,
+        "UniqueId": 10063,
+        "StarGrade": 3,
+        "Level": 36,
+        "SlotIndex": 0,
+        "AccountId": 0,
+        "IsAssist": false,
+        "HasWeapon": false
+      }
+    ],
+    "SupportCharacterDBs": []
+  },
   "AccountId": 18441575,
+  "RepresentCharacterUniqueId": 10063,
   "Level": 39,
-  "Nickname": "嗚~嗚嗚......XDXD",
+  "Nickname": "尼哈哈最後一名是小雪XDXD",
   "Tier": 1,
-  "Rank": 153216,
+  "Rank": 153213,
   "BestRankingPoint": 757584,
   "BestRankingPointDetail": 757584.2484212,
   "Timestamp": 0
