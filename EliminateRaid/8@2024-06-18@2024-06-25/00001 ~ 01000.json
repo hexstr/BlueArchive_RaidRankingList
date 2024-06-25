@@ -1,0 +1,9002 @@
+[
+  {
+    "AccountId": 2476490,
+    "Level": 87,
+    "Nickname": "爱歌",
+    "Tier": 4,
+    "Rank": 1,
+    "BestRankingPoint": 95026895,
+    "BestRankingPointDetail": 95026895.2025863
+  },
+  {
+    "AccountId": 13116315,
+    "Level": 87,
+    "Nickname": "え?",
+    "Tier": 4,
+    "Rank": 2,
+    "BestRankingPoint": 95012292,
+    "BestRankingPointDetail": 95012292.2037705
+  },
+  {
+    "AccountId": 17430,
+    "Level": 87,
+    "Nickname": "正如梨花开遍了天涯",
+    "Tier": 4,
+    "Rank": 3,
+    "BestRankingPoint": 95011443,
+    "BestRankingPointDetail": 95011443.2034016
+  },
+  {
+    "AccountId": 13684172,
+    "Level": 87,
+    "Nickname": "フランドール",
+    "Tier": 4,
+    "Rank": 4,
+    "BestRankingPoint": 95002050,
+    "BestRankingPointDetail": 95002050.220548
+  },
+  {
+    "AccountId": 9673872,
+    "Level": 87,
+    "Nickname": "ammina",
+    "Tier": 4,
+    "Rank": 5,
+    "BestRankingPoint": 95000514,
+    "BestRankingPointDetail": 95000514.203242
+  },
+  {
+    "AccountId": 53022,
+    "Level": 87,
+    "Nickname": "RAY",
+    "Tier": 4,
+    "Rank": 6,
+    "BestRankingPoint": 94999570,
+    "BestRankingPointDetail": 94999570.2097429
+  },
+  {
+    "AccountId": 1881286,
+    "Level": 87,
+    "Nickname": "唯一老婆早瀨優香",
+    "Tier": 4,
+    "Rank": 7,
+    "BestRankingPoint": 94994274,
+    "BestRankingPointDetail": 94994274.2039107
+  },
+  {
+    "AccountId": 12804893,
+    "Level": 87,
+    "Nickname": "猫猫头赛高ovo",
+    "Tier": 4,
+    "Rank": 8,
+    "BestRankingPoint": 94976033,
+    "BestRankingPointDetail": 94976033.202122
+  },
+  {
+    "AccountId": 36359,
+    "Level": 87,
+    "Nickname": "糖糖だよ",
+    "Tier": 4,
+    "Rank": 9,
+    "BestRankingPoint": 94973504,
+    "BestRankingPointDetail": 94973504.2227599
+  },
+  {
+    "AccountId": 2379114,
+    "Level": 87,
+    "Nickname": "璃茉",
+    "Tier": 4,
+    "Rank": 10,
+    "BestRankingPoint": 94973491,
+    "BestRankingPointDetail": 94973491.205988
+  },
+  {
+    "AccountId": 12048563,
+    "Level": 87,
+    "Nickname": "厚燒海苔餅",
+    "Tier": 4,
+    "Rank": 11,
+    "BestRankingPoint": 94973202,
+    "BestRankingPointDetail": 94973202.2023771
+  },
+  {
+    "AccountId": 8688777,
+    "Level": 87,
+    "Nickname": "G3",
+    "Tier": 4,
+    "Rank": 12,
+    "BestRankingPoint": 94968161,
+    "BestRankingPointDetail": 94968161.2028247
+  },
+  {
+    "AccountId": 398458,
+    "Level": 87,
+    "Nickname": "西瓜",
+    "Tier": 4,
+    "Rank": 13,
+    "BestRankingPoint": 94967313,
+    "BestRankingPointDetail": 94967313.2024454
+  },
+  {
+    "AccountId": 11847751,
+    "Level": 87,
+    "Nickname": "由乃の玖",
+    "Tier": 4,
+    "Rank": 14,
+    "BestRankingPoint": 94967219,
+    "BestRankingPointDetail": 94967219.2030669
+  },
+  {
+    "AccountId": 6983433,
+    "Level": 87,
+    "Nickname": "豆包",
+    "Tier": 4,
+    "Rank": 15,
+    "BestRankingPoint": 94966960,
+    "BestRankingPointDetail": 94966960.2045152
+  },
+  {
+    "AccountId": 10707103,
+    "Level": 87,
+    "Nickname": "宇宙花火",
+    "Tier": 4,
+    "Rank": 16,
+    "BestRankingPoint": 94958785,
+    "BestRankingPointDetail": 94958785.2292314
+  },
+  {
+    "AccountId": 12454202,
+    "Level": 87,
+    "Nickname": "一抽通行",
+    "Tier": 4,
+    "Rank": 17,
+    "BestRankingPoint": 94956801,
+    "BestRankingPointDetail": 94956801.2072468
+  },
+  {
+    "AccountId": 10989002,
+    "Level": 87,
+    "Nickname": "paizhang",
+    "Tier": 4,
+    "Rank": 18,
+    "BestRankingPoint": 94953202,
+    "BestRankingPointDetail": 94953202.2020354
+  },
+  {
+    "AccountId": 12732729,
+    "Level": 87,
+    "Nickname": "無涯",
+    "Tier": 4,
+    "Rank": 19,
+    "BestRankingPoint": 94948801,
+    "BestRankingPointDetail": 94948801.206237
+  },
+  {
+    "AccountId": 5989680,
+    "Level": 87,
+    "Nickname": "野生大叔",
+    "Tier": 4,
+    "Rank": 20,
+    "BestRankingPoint": 94947553,
+    "BestRankingPointDetail": 94947553.2076797
+  },
+  {
+    "AccountId": 10588229,
+    "Level": 87,
+    "Nickname": "Clue",
+    "Tier": 4,
+    "Rank": 21,
+    "BestRankingPoint": 94946914,
+    "BestRankingPointDetail": 94946914.2091018
+  },
+  {
+    "AccountId": 232944,
+    "Level": 87,
+    "Nickname": "粉粉",
+    "Tier": 4,
+    "Rank": 22,
+    "BestRankingPoint": 94942289,
+    "BestRankingPointDetail": 94942289.2442033
+  },
+  {
+    "AccountId": 7984713,
+    "Level": 87,
+    "Nickname": "烏丸千歲",
+    "Tier": 4,
+    "Rank": 23,
+    "BestRankingPoint": 94939345,
+    "BestRankingPointDetail": 94939345.2179698
+  },
+  {
+    "AccountId": 11318808,
+    "Level": 87,
+    "Nickname": "空落落",
+    "Tier": 4,
+    "Rank": 24,
+    "BestRankingPoint": 94938913,
+    "BestRankingPointDetail": 94938913.2038271
+  },
+  {
+    "AccountId": 14358579,
+    "Level": 87,
+    "Nickname": "院長Alphargo",
+    "Tier": 4,
+    "Rank": 25,
+    "BestRankingPoint": 94938673,
+    "BestRankingPointDetail": 94938673.2015878
+  },
+  {
+    "AccountId": 9404772,
+    "Level": 87,
+    "Nickname": "世凪",
+    "Tier": 4,
+    "Rank": 26,
+    "BestRankingPoint": 94937504,
+    "BestRankingPointDetail": 94937504.2041713
+  },
+  {
+    "AccountId": 8099116,
+    "Level": 87,
+    "Nickname": "真紅",
+    "Tier": 4,
+    "Rank": 27,
+    "BestRankingPoint": 94935972,
+    "BestRankingPointDetail": 94935972.205799
+  },
+  {
+    "AccountId": 13082990,
+    "Level": 87,
+    "Nickname": "小巫琴",
+    "Tier": 4,
+    "Rank": 28,
+    "BestRankingPoint": 94931216,
+    "BestRankingPointDetail": 94931216.2048439
+  },
+  {
+    "AccountId": 194972,
+    "Level": 87,
+    "Nickname": "空冥",
+    "Tier": 4,
+    "Rank": 29,
+    "BestRankingPoint": 94931137,
+    "BestRankingPointDetail": 94931137.2021209
+  },
+  {
+    "AccountId": 427781,
+    "Level": 87,
+    "Nickname": "Altarf",
+    "Tier": 4,
+    "Rank": 30,
+    "BestRankingPoint": 94929825,
+    "BestRankingPointDetail": 94929825.2367871
+  },
+  {
+    "AccountId": 13108167,
+    "Level": 87,
+    "Nickname": "SPYCE",
+    "Tier": 4,
+    "Rank": 31,
+    "BestRankingPoint": 94928641,
+    "BestRankingPointDetail": 94928641.2016025
+  },
+  {
+    "AccountId": 9660951,
+    "Level": 87,
+    "Nickname": "玓珏",
+    "Tier": 4,
+    "Rank": 32,
+    "BestRankingPoint": 94927249,
+    "BestRankingPointDetail": 94927249.2023493
+  },
+  {
+    "AccountId": 9558857,
+    "Level": 87,
+    "Nickname": "椎名-摯心",
+    "Tier": 4,
+    "Rank": 33,
+    "BestRankingPoint": 94924032,
+    "BestRankingPointDetail": 94924032.2035471
+  },
+  {
+    "AccountId": 8387967,
+    "Level": 87,
+    "Nickname": "吸溜星野的小脚脚",
+    "Tier": 4,
+    "Rank": 34,
+    "BestRankingPoint": 94919088,
+    "BestRankingPointDetail": 94919088.2051662
+  },
+  {
+    "AccountId": 12603710,
+    "Level": 87,
+    "Nickname": "老盒子",
+    "Tier": 4,
+    "Rank": 35,
+    "BestRankingPoint": 94906913,
+    "BestRankingPointDetail": 94906913.211577
+  },
+  {
+    "AccountId": 193203,
+    "Level": 87,
+    "Nickname": "萬聖節萬聖節",
+    "Tier": 4,
+    "Rank": 36,
+    "BestRankingPoint": 94906404,
+    "BestRankingPointDetail": 94906404.2052954
+  },
+  {
+    "AccountId": 14447722,
+    "Level": 87,
+    "Nickname": "红糖",
+    "Tier": 4,
+    "Rank": 37,
+    "BestRankingPoint": 94904785,
+    "BestRankingPointDetail": 94904785.240436
+  },
+  {
+    "AccountId": 5471643,
+    "Level": 87,
+    "Nickname": "貓娘樂園",
+    "Tier": 4,
+    "Rank": 38,
+    "BestRankingPoint": 94899153,
+    "BestRankingPointDetail": 94899153.209458
+  },
+  {
+    "AccountId": 8473609,
+    "Level": 87,
+    "Nickname": "Xenfo",
+    "Tier": 4,
+    "Rank": 39,
+    "BestRankingPoint": 94898833,
+    "BestRankingPointDetail": 94898833.2120106
+  },
+  {
+    "AccountId": 393772,
+    "Level": 87,
+    "Nickname": "鸢鸢",
+    "Tier": 4,
+    "Rank": 40,
+    "BestRankingPoint": 94897935,
+    "BestRankingPointDetail": 94897935.2034459
+  },
+  {
+    "AccountId": 12921526,
+    "Level": 87,
+    "Nickname": "懶懶",
+    "Tier": 4,
+    "Rank": 41,
+    "BestRankingPoint": 94897280,
+    "BestRankingPointDetail": 94897280.2117908
+  },
+  {
+    "AccountId": 8550806,
+    "Level": 87,
+    "Nickname": "葉落滿庭",
+    "Tier": 4,
+    "Rank": 42,
+    "BestRankingPoint": 94891009,
+    "BestRankingPointDetail": 94891009.2442428
+  },
+  {
+    "AccountId": 11545295,
+    "Level": 87,
+    "Nickname": "琴音",
+    "Tier": 4,
+    "Rank": 43,
+    "BestRankingPoint": 94890292,
+    "BestRankingPointDetail": 94890292.2147987
+  },
+  {
+    "AccountId": 12181875,
+    "Level": 87,
+    "Nickname": "伯樂",
+    "Tier": 4,
+    "Rank": 44,
+    "BestRankingPoint": 94890159,
+    "BestRankingPointDetail": 94890159.2045678
+  },
+  {
+    "AccountId": 9086735,
+    "Level": 87,
+    "Nickname": "Fairy",
+    "Tier": 4,
+    "Rank": 45,
+    "BestRankingPoint": 94889584,
+    "BestRankingPointDetail": 94889584.2371405
+  },
+  {
+    "AccountId": 8019694,
+    "Level": 87,
+    "Nickname": "芙莉蓮",
+    "Tier": 4,
+    "Rank": 46,
+    "BestRankingPoint": 94889393,
+    "BestRankingPointDetail": 94889393.2039367
+  },
+  {
+    "AccountId": 206620,
+    "Level": 87,
+    "Nickname": "霖",
+    "Tier": 4,
+    "Rank": 47,
+    "BestRankingPoint": 94885631,
+    "BestRankingPointDetail": 94885631.2069688
+  },
+  {
+    "AccountId": 2709144,
+    "Level": 87,
+    "Nickname": "咸菜",
+    "Tier": 4,
+    "Rank": 48,
+    "BestRankingPoint": 94884610,
+    "BestRankingPointDetail": 94884610.2466162
+  },
+  {
+    "AccountId": 11325257,
+    "Level": 87,
+    "Nickname": "ロリコン",
+    "Tier": 4,
+    "Rank": 49,
+    "BestRankingPoint": 94884448,
+    "BestRankingPointDetail": 94884448.2021728
+  },
+  {
+    "AccountId": 8519517,
+    "Level": 87,
+    "Nickname": "马忽悠",
+    "Tier": 4,
+    "Rank": 50,
+    "BestRankingPoint": 94882352,
+    "BestRankingPointDetail": 94882352.2150381
+  },
+  {
+    "AccountId": 12602749,
+    "Level": 87,
+    "Nickname": "緋色禁花",
+    "Tier": 4,
+    "Rank": 51,
+    "BestRankingPoint": 94881600,
+    "BestRankingPointDetail": 94881600.2480239
+  },
+  {
+    "AccountId": 11992598,
+    "Level": 87,
+    "Nickname": "銀河天使菈菈醬",
+    "Tier": 4,
+    "Rank": 52,
+    "BestRankingPoint": 94880369,
+    "BestRankingPointDetail": 94880369.2361353
+  },
+  {
+    "AccountId": 14898315,
+    "Level": 87,
+    "Nickname": "施憶憶",
+    "Tier": 4,
+    "Rank": 53,
+    "BestRankingPoint": 94878783,
+    "BestRankingPointDetail": 94878783.2310709
+  },
+  {
+    "AccountId": 1530000,
+    "Level": 87,
+    "Nickname": "是，幸运的乌莎哈正护佑着你",
+    "Tier": 4,
+    "Rank": 54,
+    "BestRankingPoint": 94875186,
+    "BestRankingPointDetail": 94875186.2114013
+  },
+  {
+    "AccountId": 988768,
+    "Level": 87,
+    "Nickname": "理",
+    "Tier": 4,
+    "Rank": 55,
+    "BestRankingPoint": 94874965,
+    "BestRankingPointDetail": 94874965.203659
+  },
+  {
+    "AccountId": 675683,
+    "Level": 87,
+    "Nickname": "Noa",
+    "Tier": 4,
+    "Rank": 56,
+    "BestRankingPoint": 94873744,
+    "BestRankingPointDetail": 94873744.2209845
+  },
+  {
+    "AccountId": 14072994,
+    "Level": 87,
+    "Nickname": "蜜瓜王",
+    "Tier": 4,
+    "Rank": 57,
+    "BestRankingPoint": 94868542,
+    "BestRankingPointDetail": 94868542.205337
+  },
+  {
+    "AccountId": 10731888,
+    "Level": 87,
+    "Nickname": "落花茵",
+    "Tier": 4,
+    "Rank": 58,
+    "BestRankingPoint": 94865264,
+    "BestRankingPointDetail": 94865264.2091026
+  },
+  {
+    "AccountId": 8425566,
+    "Level": 87,
+    "Nickname": "云",
+    "Tier": 4,
+    "Rank": 59,
+    "BestRankingPoint": 94864915,
+    "BestRankingPointDetail": 94864915.2311592
+  },
+  {
+    "AccountId": 11910259,
+    "Level": 87,
+    "Nickname": "小柊#向高茲投降",
+    "Tier": 4,
+    "Rank": 60,
+    "BestRankingPoint": 94863042,
+    "BestRankingPointDetail": 94863042.2022381
+  },
+  {
+    "AccountId": 15322798,
+    "Level": 87,
+    "Nickname": "夜羽真白",
+    "Tier": 4,
+    "Rank": 61,
+    "BestRankingPoint": 94861344,
+    "BestRankingPointDetail": 94861344.2070394
+  },
+  {
+    "AccountId": 14337020,
+    "Level": 87,
+    "Nickname": "人间",
+    "Tier": 4,
+    "Rank": 62,
+    "BestRankingPoint": 94859009,
+    "BestRankingPointDetail": 94859009.2031089
+  },
+  {
+    "AccountId": 15501473,
+    "Level": 87,
+    "Nickname": "key",
+    "Tier": 4,
+    "Rank": 63,
+    "BestRankingPoint": 94857186,
+    "BestRankingPointDetail": 94857186.2017362
+  },
+  {
+    "AccountId": 10948268,
+    "Level": 87,
+    "Nickname": "burntcirno",
+    "Tier": 4,
+    "Rank": 64,
+    "BestRankingPoint": 94856451,
+    "BestRankingPointDetail": 94856451.2021222
+  },
+  {
+    "AccountId": 11017411,
+    "Level": 87,
+    "Nickname": "予天繁星",
+    "Tier": 4,
+    "Rank": 65,
+    "BestRankingPoint": 94854545,
+    "BestRankingPointDetail": 94854545.2070205
+  },
+  {
+    "AccountId": 9585933,
+    "Level": 87,
+    "Nickname": "小諾原",
+    "Tier": 4,
+    "Rank": 66,
+    "BestRankingPoint": 94852244,
+    "BestRankingPointDetail": 94852244.2030153
+  },
+  {
+    "AccountId": 94329,
+    "Level": 87,
+    "Nickname": "摩卡",
+    "Tier": 4,
+    "Rank": 67,
+    "BestRankingPoint": 94851617,
+    "BestRankingPointDetail": 94851617.2104301
+  },
+  {
+    "AccountId": 815001,
+    "Level": 87,
+    "Nickname": "❥❦დৡ有۵栖ོꦿ❧࿐",
+    "Tier": 4,
+    "Rank": 68,
+    "BestRankingPoint": 94851312,
+    "BestRankingPointDetail": 94851312.2022176
+  },
+  {
+    "AccountId": 1827157,
+    "Level": 87,
+    "Nickname": "༄ོྂ༊࿆樹꧔寶꧔ꦿོྂ࿐",
+    "Tier": 4,
+    "Rank": 69,
+    "BestRankingPoint": 94850242,
+    "BestRankingPointDetail": 94850242.2039921
+  },
+  {
+    "AccountId": 15069857,
+    "Level": 87,
+    "Nickname": "nanami",
+    "Tier": 4,
+    "Rank": 70,
+    "BestRankingPoint": 94848929,
+    "BestRankingPointDetail": 94848929.2020862
+  },
+  {
+    "AccountId": 13862996,
+    "Level": 87,
+    "Nickname": "旧梦",
+    "Tier": 4,
+    "Rank": 71,
+    "BestRankingPoint": 94848498,
+    "BestRankingPointDetail": 94848498.2026524
+  },
+  {
+    "AccountId": 13411811,
+    "Level": 87,
+    "Nickname": "BlackTea",
+    "Tier": 4,
+    "Rank": 72,
+    "BestRankingPoint": 94846112,
+    "BestRankingPointDetail": 94846112.2152406
+  },
+  {
+    "AccountId": 12684691,
+    "Level": 87,
+    "Nickname": "bα魂殿长老",
+    "Tier": 4,
+    "Rank": 73,
+    "BestRankingPoint": 94844384,
+    "BestRankingPointDetail": 94844384.2057833
+  },
+  {
+    "AccountId": 13696031,
+    "Level": 87,
+    "Nickname": "兔田",
+    "Tier": 4,
+    "Rank": 74,
+    "BestRankingPoint": 94842287,
+    "BestRankingPointDetail": 94842287.2134519
+  },
+  {
+    "AccountId": 13234029,
+    "Level": 87,
+    "Nickname": "若葉祥子",
+    "Tier": 4,
+    "Rank": 75,
+    "BestRankingPoint": 94840225,
+    "BestRankingPointDetail": 94840225.2516226
+  },
+  {
+    "AccountId": 4810698,
+    "Level": 87,
+    "Nickname": "人間",
+    "Tier": 4,
+    "Rank": 76,
+    "BestRankingPoint": 94839985,
+    "BestRankingPointDetail": 94839985.203876
+  },
+  {
+    "AccountId": 14896104,
+    "Level": 87,
+    "Nickname": "溜溜",
+    "Tier": 4,
+    "Rank": 77,
+    "BestRankingPoint": 94837601,
+    "BestRankingPointDetail": 94837601.2114136
+  },
+  {
+    "AccountId": 1502154,
+    "Level": 87,
+    "Nickname": "KRISTA",
+    "Tier": 4,
+    "Rank": 78,
+    "BestRankingPoint": 94837234,
+    "BestRankingPointDetail": 94837234.214969
+  },
+  {
+    "AccountId": 13953008,
+    "Level": 87,
+    "Nickname": "細菌人",
+    "Tier": 4,
+    "Rank": 79,
+    "BestRankingPoint": 94835280,
+    "BestRankingPointDetail": 94835280.2077881
+  },
+  {
+    "AccountId": 8677288,
+    "Level": 87,
+    "Nickname": "眠眠の昼",
+    "Tier": 4,
+    "Rank": 80,
+    "BestRankingPoint": 94835027,
+    "BestRankingPointDetail": 94835027.2239334
+  },
+  {
+    "AccountId": 10699484,
+    "Level": 87,
+    "Nickname": "風妖精",
+    "Tier": 4,
+    "Rank": 81,
+    "BestRankingPoint": 94834868,
+    "BestRankingPointDetail": 94834868.2137012
+  },
+  {
+    "AccountId": 12624264,
+    "Level": 87,
+    "Nickname": "百折不挠",
+    "Tier": 4,
+    "Rank": 82,
+    "BestRankingPoint": 94834624,
+    "BestRankingPointDetail": 94834624.226918
+  },
+  {
+    "AccountId": 8184863,
+    "Level": 87,
+    "Nickname": "hotcake",
+    "Tier": 4,
+    "Rank": 83,
+    "BestRankingPoint": 94832958,
+    "BestRankingPointDetail": 94832958.2240997
+  },
+  {
+    "AccountId": 13060187,
+    "Level": 87,
+    "Nickname": "憋在这理发店",
+    "Tier": 4,
+    "Rank": 84,
+    "BestRankingPoint": 94831634,
+    "BestRankingPointDetail": 94831634.236457
+  },
+  {
+    "AccountId": 13740600,
+    "Level": 87,
+    "Nickname": "聖園小鐵",
+    "Tier": 4,
+    "Rank": 85,
+    "BestRankingPoint": 94830192,
+    "BestRankingPointDetail": 94830192.2113216
+  },
+  {
+    "AccountId": 12400933,
+    "Level": 87,
+    "Nickname": "賴比（筑波的下僕）",
+    "Tier": 4,
+    "Rank": 86,
+    "BestRankingPoint": 94828769,
+    "BestRankingPointDetail": 94828769.2481445
+  },
+  {
+    "AccountId": 11783325,
+    "Level": 87,
+    "Nickname": "xx",
+    "Tier": 4,
+    "Rank": 87,
+    "BestRankingPoint": 94826705,
+    "BestRankingPointDetail": 94826705.20196
+  },
+  {
+    "AccountId": 12366209,
+    "Level": 87,
+    "Nickname": "左彧",
+    "Tier": 4,
+    "Rank": 88,
+    "BestRankingPoint": 94826226,
+    "BestRankingPointDetail": 94826226.2044252
+  },
+  {
+    "AccountId": 926194,
+    "Level": 87,
+    "Nickname": "ネコ",
+    "Tier": 4,
+    "Rank": 89,
+    "BestRankingPoint": 94824288,
+    "BestRankingPointDetail": 94824288.2038766
+  },
+  {
+    "AccountId": 11009665,
+    "Level": 87,
+    "Nickname": "浅黄雾枝",
+    "Tier": 4,
+    "Rank": 90,
+    "BestRankingPoint": 94820081,
+    "BestRankingPointDetail": 94820081.20377
+  },
+  {
+    "AccountId": 6325891,
+    "Level": 87,
+    "Nickname": "AL-1SSprings",
+    "Tier": 4,
+    "Rank": 91,
+    "BestRankingPoint": 94819779,
+    "BestRankingPointDetail": 94819779.2121361
+  },
+  {
+    "AccountId": 10690799,
+    "Level": 87,
+    "Nickname": "幻櫻Akari",
+    "Tier": 4,
+    "Rank": 92,
+    "BestRankingPoint": 94819458,
+    "BestRankingPointDetail": 94819458.2174586
+  },
+  {
+    "AccountId": 12012548,
+    "Level": 87,
+    "Nickname": "路人",
+    "Tier": 4,
+    "Rank": 93,
+    "BestRankingPoint": 94815506,
+    "BestRankingPointDetail": 94815506.2370093
+  },
+  {
+    "AccountId": 12907624,
+    "Level": 87,
+    "Nickname": "zero",
+    "Tier": 4,
+    "Rank": 94,
+    "BestRankingPoint": 94815488,
+    "BestRankingPointDetail": 94815488.2401638
+  },
+  {
+    "AccountId": 11661706,
+    "Level": 87,
+    "Nickname": "❥ৡ饅頭ོꦿ࿐",
+    "Tier": 4,
+    "Rank": 95,
+    "BestRankingPoint": 94813023,
+    "BestRankingPointDetail": 94813023.2280296
+  },
+  {
+    "AccountId": 13503515,
+    "Level": 87,
+    "Nickname": "网友高顺兹",
+    "Tier": 4,
+    "Rank": 96,
+    "BestRankingPoint": 94804065,
+    "BestRankingPointDetail": 94804065.2119136
+  },
+  {
+    "AccountId": 13755631,
+    "Level": 87,
+    "Nickname": "宵宮",
+    "Tier": 4,
+    "Rank": 97,
+    "BestRankingPoint": 94802545,
+    "BestRankingPointDetail": 94802545.2269829
+  },
+  {
+    "AccountId": 12693173,
+    "Level": 87,
+    "Nickname": "uonbichi",
+    "Tier": 4,
+    "Rank": 98,
+    "BestRankingPoint": 94801777,
+    "BestRankingPointDetail": 94801777.201871
+  },
+  {
+    "AccountId": 13510123,
+    "Level": 87,
+    "Nickname": "LEAF",
+    "Tier": 4,
+    "Rank": 99,
+    "BestRankingPoint": 94801328,
+    "BestRankingPointDetail": 94801328.2071546
+  },
+  {
+    "AccountId": 154468,
+    "Level": 87,
+    "Nickname": "小蜘蛛",
+    "Tier": 4,
+    "Rank": 100,
+    "BestRankingPoint": 94800752,
+    "BestRankingPointDetail": 94800752.202846
+  },
+  {
+    "AccountId": 14884124,
+    "Level": 87,
+    "Nickname": "Euo2",
+    "Tier": 4,
+    "Rank": 101,
+    "BestRankingPoint": 94797584,
+    "BestRankingPointDetail": 94797584.2017177
+  },
+  {
+    "AccountId": 1341746,
+    "Level": 87,
+    "Nickname": "已老实求放过",
+    "Tier": 4,
+    "Rank": 102,
+    "BestRankingPoint": 94796271,
+    "BestRankingPointDetail": 94796271.2048301
+  },
+  {
+    "AccountId": 14464539,
+    "Level": 87,
+    "Nickname": "二条院羽月",
+    "Tier": 4,
+    "Rank": 103,
+    "BestRankingPoint": 94796258,
+    "BestRankingPointDetail": 94796258.2076448
+  },
+  {
+    "AccountId": 12711036,
+    "Level": 87,
+    "Nickname": "Magnet",
+    "Tier": 4,
+    "Rank": 104,
+    "BestRankingPoint": 94795616,
+    "BestRankingPointDetail": 94795616.2022229
+  },
+  {
+    "AccountId": 10531354,
+    "Level": 87,
+    "Nickname": "韭菜",
+    "Tier": 4,
+    "Rank": 105,
+    "BestRankingPoint": 94792959,
+    "BestRankingPointDetail": 94792959.222644
+  },
+  {
+    "AccountId": 3304141,
+    "Level": 87,
+    "Nickname": "柳鼠",
+    "Tier": 4,
+    "Rank": 106,
+    "BestRankingPoint": 94792465,
+    "BestRankingPointDetail": 94792465.2017703
+  },
+  {
+    "AccountId": 12068128,
+    "Level": 87,
+    "Nickname": "青丶尘",
+    "Tier": 4,
+    "Rank": 107,
+    "BestRankingPoint": 94790272,
+    "BestRankingPointDetail": 94790272.222055
+  },
+  {
+    "AccountId": 12360976,
+    "Level": 87,
+    "Nickname": "ee82ee",
+    "Tier": 4,
+    "Rank": 108,
+    "BestRankingPoint": 94788161,
+    "BestRankingPointDetail": 94788161.2417554
+  },
+  {
+    "AccountId": 12496202,
+    "Level": 87,
+    "Nickname": "殘夢",
+    "Tier": 4,
+    "Rank": 109,
+    "BestRankingPoint": 94787696,
+    "BestRankingPointDetail": 94787696.2563855
+  },
+  {
+    "AccountId": 14394754,
+    "Level": 87,
+    "Nickname": "HDCU",
+    "Tier": 4,
+    "Rank": 110,
+    "BestRankingPoint": 94783954,
+    "BestRankingPointDetail": 94783954.2030184
+  },
+  {
+    "AccountId": 12709690,
+    "Level": 87,
+    "Nickname": "irelia",
+    "Tier": 4,
+    "Rank": 111,
+    "BestRankingPoint": 94777072,
+    "BestRankingPointDetail": 94777072.2028924
+  },
+  {
+    "AccountId": 12404016,
+    "Level": 87,
+    "Nickname": "枯木樹枝",
+    "Tier": 4,
+    "Rank": 112,
+    "BestRankingPoint": 94775794,
+    "BestRankingPointDetail": 94775794.23175
+  },
+  {
+    "AccountId": 269827,
+    "Level": 87,
+    "Nickname": "SPLTKing",
+    "Tier": 4,
+    "Rank": 113,
+    "BestRankingPoint": 94775729,
+    "BestRankingPointDetail": 94775729.247785
+  },
+  {
+    "AccountId": 13093951,
+    "Level": 87,
+    "Nickname": "沙勒教職工（四連井）",
+    "Tier": 4,
+    "Rank": 114,
+    "BestRankingPoint": 94773394,
+    "BestRankingPointDetail": 94773394.2032832
+  },
+  {
+    "AccountId": 13985576,
+    "Level": 87,
+    "Nickname": "娜",
+    "Tier": 4,
+    "Rank": 115,
+    "BestRankingPoint": 94773104,
+    "BestRankingPointDetail": 94773104.2297089
+  },
+  {
+    "AccountId": 12978306,
+    "Level": 87,
+    "Nickname": "竹光丸",
+    "Tier": 4,
+    "Rank": 116,
+    "BestRankingPoint": 94770881,
+    "BestRankingPointDetail": 94770881.2039941
+  },
+  {
+    "AccountId": 386944,
+    "Level": 87,
+    "Nickname": "海岩青茶",
+    "Tier": 4,
+    "Rank": 117,
+    "BestRankingPoint": 94764161,
+    "BestRankingPointDetail": 94764161.2377063
+  },
+  {
+    "AccountId": 4330517,
+    "Level": 87,
+    "Nickname": "青山墨樱",
+    "Tier": 4,
+    "Rank": 118,
+    "BestRankingPoint": 94761601,
+    "BestRankingPointDetail": 94761601.2152382
+  },
+  {
+    "AccountId": 305560,
+    "Level": 87,
+    "Nickname": "星野大叔的抱枕",
+    "Tier": 4,
+    "Rank": 119,
+    "BestRankingPoint": 94757856,
+    "BestRankingPointDetail": 94757856.2232089
+  },
+  {
+    "AccountId": 8419772,
+    "Level": 87,
+    "Nickname": "嘿喵",
+    "Tier": 4,
+    "Rank": 120,
+    "BestRankingPoint": 94754784,
+    "BestRankingPointDetail": 94754784.2089918
+  },
+  {
+    "AccountId": 8453406,
+    "Level": 87,
+    "Nickname": "笑了，和我玩在线换防？",
+    "Tier": 4,
+    "Rank": 121,
+    "BestRankingPoint": 94754451,
+    "BestRankingPointDetail": 94754451.220376
+  },
+  {
+    "AccountId": 12751078,
+    "Level": 87,
+    "Nickname": "(>﹏<)不可以铯铯awa",
+    "Tier": 4,
+    "Rank": 122,
+    "BestRankingPoint": 94753457,
+    "BestRankingPointDetail": 94753457.2134569
+  },
+  {
+    "AccountId": 1585502,
+    "Level": 87,
+    "Nickname": "索菲",
+    "Tier": 4,
+    "Rank": 123,
+    "BestRankingPoint": 94749777,
+    "BestRankingPointDetail": 94749777.2197475
+  },
+  {
+    "AccountId": 8954519,
+    "Level": 87,
+    "Nickname": "J",
+    "Tier": 4,
+    "Rank": 124,
+    "BestRankingPoint": 94749346,
+    "BestRankingPointDetail": 94749346.212114
+  },
+  {
+    "AccountId": 15117717,
+    "Level": 87,
+    "Nickname": "春花秋月",
+    "Tier": 4,
+    "Rank": 125,
+    "BestRankingPoint": 94741877,
+    "BestRankingPointDetail": 94741877.2193186
+  },
+  {
+    "AccountId": 12605458,
+    "Level": 87,
+    "Nickname": "Timdictionary",
+    "Tier": 4,
+    "Rank": 126,
+    "BestRankingPoint": 94739988,
+    "BestRankingPointDetail": 94739988.2301092
+  },
+  {
+    "AccountId": 12208228,
+    "Level": 87,
+    "Nickname": "白羽",
+    "Tier": 4,
+    "Rank": 127,
+    "BestRankingPoint": 94738289,
+    "BestRankingPointDetail": 94738289.2306407
+  },
+  {
+    "AccountId": 14372589,
+    "Level": 87,
+    "Nickname": "Ren",
+    "Tier": 4,
+    "Rank": 128,
+    "BestRankingPoint": 94736019,
+    "BestRankingPointDetail": 94736019.2102191
+  },
+  {
+    "AccountId": 12270528,
+    "Level": 87,
+    "Nickname": "彼岸花羽待归期",
+    "Tier": 4,
+    "Rank": 129,
+    "BestRankingPoint": 94731762,
+    "BestRankingPointDetail": 94731762.2293646
+  },
+  {
+    "AccountId": 10535432,
+    "Level": 87,
+    "Nickname": "绯想天",
+    "Tier": 4,
+    "Rank": 130,
+    "BestRankingPoint": 94730801,
+    "BestRankingPointDetail": 94730801.2018305
+  },
+  {
+    "AccountId": 116962,
+    "Level": 87,
+    "Nickname": "BORING",
+    "Tier": 4,
+    "Rank": 131,
+    "BestRankingPoint": 94730417,
+    "BestRankingPointDetail": 94730417.2026784
+  },
+  {
+    "AccountId": 6304842,
+    "Level": 87,
+    "Nickname": "毛二力",
+    "Tier": 4,
+    "Rank": 132,
+    "BestRankingPoint": 94729285,
+    "BestRankingPointDetail": 94729285.2035407
+  },
+  {
+    "AccountId": 4658197,
+    "Level": 87,
+    "Nickname": "DarkBlack",
+    "Tier": 4,
+    "Rank": 133,
+    "BestRankingPoint": 94728353,
+    "BestRankingPointDetail": 94728353.2476963
+  },
+  {
+    "AccountId": 11464231,
+    "Level": 87,
+    "Nickname": "永雛塔菲喵",
+    "Tier": 4,
+    "Rank": 134,
+    "BestRankingPoint": 94728273,
+    "BestRankingPointDetail": 94728273.2414555
+  },
+  {
+    "AccountId": 13903660,
+    "Level": 87,
+    "Nickname": "c3ns0r3d",
+    "Tier": 4,
+    "Rank": 135,
+    "BestRankingPoint": 94728161,
+    "BestRankingPointDetail": 94728161.20474
+  },
+  {
+    "AccountId": 10854571,
+    "Level": 87,
+    "Nickname": "小埋",
+    "Tier": 4,
+    "Rank": 136,
+    "BestRankingPoint": 94727394,
+    "BestRankingPointDetail": 94727394.232215
+  },
+  {
+    "AccountId": 8117047,
+    "Level": 87,
+    "Nickname": "幻嵐",
+    "Tier": 4,
+    "Rank": 137,
+    "BestRankingPoint": 94724384,
+    "BestRankingPointDetail": 94724384.2379183
+  },
+  {
+    "AccountId": 2666757,
+    "Level": 87,
+    "Nickname": "悠木",
+    "Tier": 4,
+    "Rank": 138,
+    "BestRankingPoint": 94720992,
+    "BestRankingPointDetail": 94720992.2396384
+  },
+  {
+    "AccountId": 14382791,
+    "Level": 87,
+    "Nickname": "纷纷枝叶乱如麻双飞和紗与一花",
+    "Tier": 4,
+    "Rank": 139,
+    "BestRankingPoint": 94717375,
+    "BestRankingPointDetail": 94717375.2021903
+  },
+  {
+    "AccountId": 11199527,
+    "Level": 87,
+    "Nickname": "Ulazis",
+    "Tier": 4,
+    "Rank": 140,
+    "BestRankingPoint": 94717138,
+    "BestRankingPointDetail": 94717138.2105256
+  },
+  {
+    "AccountId": 8472125,
+    "Level": 87,
+    "Nickname": "夏宝",
+    "Tier": 4,
+    "Rank": 141,
+    "BestRankingPoint": 94714433,
+    "BestRankingPointDetail": 94714433.2224601
+  },
+  {
+    "AccountId": 242548,
+    "Level": 87,
+    "Nickname": "肥尾巴雪貂",
+    "Tier": 4,
+    "Rank": 142,
+    "BestRankingPoint": 94713073,
+    "BestRankingPointDetail": 94713073.2481289
+  },
+  {
+    "AccountId": 10729108,
+    "Level": 87,
+    "Nickname": "卸反羊今",
+    "Tier": 4,
+    "Rank": 143,
+    "BestRankingPoint": 94712367,
+    "BestRankingPointDetail": 94712367.2305967
+  },
+  {
+    "AccountId": 11099646,
+    "Level": 87,
+    "Nickname": "Lilylove",
+    "Tier": 4,
+    "Rank": 144,
+    "BestRankingPoint": 94707697,
+    "BestRankingPointDetail": 94707697.214673
+  },
+  {
+    "AccountId": 11072799,
+    "Level": 87,
+    "Nickname": "风回云断雨初停抱着忧宝闻不停",
+    "Tier": 4,
+    "Rank": 145,
+    "BestRankingPoint": 94701872,
+    "BestRankingPointDetail": 94701872.2031935
+  },
+  {
+    "AccountId": 8013055,
+    "Level": 87,
+    "Nickname": "Elaria",
+    "Tier": 4,
+    "Rank": 146,
+    "BestRankingPoint": 94700624,
+    "BestRankingPointDetail": 94700624.2021054
+  },
+  {
+    "AccountId": 1787534,
+    "Level": 87,
+    "Nickname": "佐倉藍山山",
+    "Tier": 4,
+    "Rank": 147,
+    "BestRankingPoint": 94698543,
+    "BestRankingPointDetail": 94698543.2336758
+  },
+  {
+    "AccountId": 11008708,
+    "Level": 87,
+    "Nickname": "汐山凉音",
+    "Tier": 4,
+    "Rank": 148,
+    "BestRankingPoint": 94693280,
+    "BestRankingPointDetail": 94693280.2403249
+  },
+  {
+    "AccountId": 273187,
+    "Level": 87,
+    "Nickname": "琪卡樂",
+    "Tier": 4,
+    "Rank": 149,
+    "BestRankingPoint": 94688227,
+    "BestRankingPointDetail": 94688227.2023797
+  },
+  {
+    "AccountId": 8521592,
+    "Level": 87,
+    "Nickname": "nope",
+    "Tier": 4,
+    "Rank": 150,
+    "BestRankingPoint": 94684913,
+    "BestRankingPointDetail": 94684913.2188811
+  },
+  {
+    "AccountId": 10662576,
+    "Level": 87,
+    "Nickname": "炼狱揉奶师",
+    "Tier": 4,
+    "Rank": 151,
+    "BestRankingPoint": 94684639,
+    "BestRankingPointDetail": 94684639.2193974
+  },
+  {
+    "AccountId": 4223272,
+    "Level": 87,
+    "Nickname": "花坂",
+    "Tier": 4,
+    "Rank": 152,
+    "BestRankingPoint": 94683663,
+    "BestRankingPointDetail": 94683663.212308
+  },
+  {
+    "AccountId": 8305692,
+    "Level": 87,
+    "Nickname": "❥ৡSuB⁂aོꦿ࿐",
+    "Tier": 4,
+    "Rank": 153,
+    "BestRankingPoint": 94676305,
+    "BestRankingPointDetail": 94676305.2131315
+  },
+  {
+    "AccountId": 11905185,
+    "Level": 87,
+    "Nickname": "LuckyEOvO",
+    "Tier": 4,
+    "Rank": 154,
+    "BestRankingPoint": 94676288,
+    "BestRankingPointDetail": 94676288.2136797
+  },
+  {
+    "AccountId": 7934483,
+    "Level": 87,
+    "Nickname": "星月",
+    "Tier": 4,
+    "Rank": 155,
+    "BestRankingPoint": 94676243,
+    "BestRankingPointDetail": 94676243.2408075
+  },
+  {
+    "AccountId": 13792386,
+    "Level": 87,
+    "Nickname": "hhhj",
+    "Tier": 4,
+    "Rank": 156,
+    "BestRankingPoint": 94675375,
+    "BestRankingPointDetail": 94675375.2047325
+  },
+  {
+    "AccountId": 3596669,
+    "Level": 87,
+    "Nickname": "ybykls",
+    "Tier": 4,
+    "Rank": 157,
+    "BestRankingPoint": 94674497,
+    "BestRankingPointDetail": 94674497.2235633
+  },
+  {
+    "AccountId": 13923769,
+    "Level": 87,
+    "Nickname": "清悠不纯",
+    "Tier": 4,
+    "Rank": 158,
+    "BestRankingPoint": 94669215,
+    "BestRankingPointDetail": 94669215.2188394
+  },
+  {
+    "AccountId": 11010739,
+    "Level": 87,
+    "Nickname": "小男娘九月未柒♡男童Kes",
+    "Tier": 4,
+    "Rank": 159,
+    "BestRankingPoint": 94659665,
+    "BestRankingPointDetail": 94659665.2406887
+  },
+  {
+    "AccountId": 12594832,
+    "Level": 87,
+    "Nickname": "四零四零四",
+    "Tier": 4,
+    "Rank": 160,
+    "BestRankingPoint": 94656673,
+    "BestRankingPointDetail": 94656673.2123091
+  },
+  {
+    "AccountId": 14475200,
+    "Level": 87,
+    "Nickname": "棠溪",
+    "Tier": 4,
+    "Rank": 161,
+    "BestRankingPoint": 94654752,
+    "BestRankingPointDetail": 94654752.215952
+  },
+  {
+    "AccountId": 13521247,
+    "Level": 87,
+    "Nickname": "米可米可米",
+    "Tier": 4,
+    "Rank": 162,
+    "BestRankingPoint": 94654225,
+    "BestRankingPointDetail": 94654225.2105486
+  },
+  {
+    "AccountId": 1365681,
+    "Level": 87,
+    "Nickname": "用春奈业障重（退坑了再见）",
+    "Tier": 4,
+    "Rank": 163,
+    "BestRankingPoint": 94653281,
+    "BestRankingPointDetail": 94653281.2028823
+  },
+  {
+    "AccountId": 11690436,
+    "Level": 87,
+    "Nickname": "请收下玲纱的挑战书吧！",
+    "Tier": 4,
+    "Rank": 164,
+    "BestRankingPoint": 94651522,
+    "BestRankingPointDetail": 94651522.2298545
+  },
+  {
+    "AccountId": 8230836,
+    "Level": 87,
+    "Nickname": "L",
+    "Tier": 4,
+    "Rank": 165,
+    "BestRankingPoint": 94646324,
+    "BestRankingPointDetail": 94646324.223761
+  },
+  {
+    "AccountId": 795846,
+    "Level": 87,
+    "Nickname": "皮魚犇命",
+    "Tier": 4,
+    "Rank": 166,
+    "BestRankingPoint": 94642848,
+    "BestRankingPointDetail": 94642848.2022435
+  },
+  {
+    "AccountId": 8692863,
+    "Level": 87,
+    "Nickname": "璐璐安",
+    "Tier": 4,
+    "Rank": 167,
+    "BestRankingPoint": 94642256,
+    "BestRankingPointDetail": 94642256.2045277
+  },
+  {
+    "AccountId": 12794708,
+    "Level": 87,
+    "Nickname": "謙謙",
+    "Tier": 4,
+    "Rank": 168,
+    "BestRankingPoint": 94641345,
+    "BestRankingPointDetail": 94641345.2214637
+  },
+  {
+    "AccountId": 8626608,
+    "Level": 87,
+    "Nickname": "YOSHINO",
+    "Tier": 4,
+    "Rank": 169,
+    "BestRankingPoint": 94640386,
+    "BestRankingPointDetail": 94640386.2493525
+  },
+  {
+    "AccountId": 4252919,
+    "Level": 87,
+    "Nickname": "龍宇",
+    "Tier": 4,
+    "Rank": 170,
+    "BestRankingPoint": 94640259,
+    "BestRankingPointDetail": 94640259.238608
+  },
+  {
+    "AccountId": 7562714,
+    "Level": 87,
+    "Nickname": "神使",
+    "Tier": 4,
+    "Rank": 171,
+    "BestRankingPoint": 94638291,
+    "BestRankingPointDetail": 94638291.2017572
+  },
+  {
+    "AccountId": 12650120,
+    "Level": 87,
+    "Nickname": "泽",
+    "Tier": 4,
+    "Rank": 172,
+    "BestRankingPoint": 94637890,
+    "BestRankingPointDetail": 94637890.2105121
+  },
+  {
+    "AccountId": 243717,
+    "Level": 87,
+    "Nickname": "如如貓兒",
+    "Tier": 4,
+    "Rank": 173,
+    "BestRankingPoint": 94636527,
+    "BestRankingPointDetail": 94636527.2293372
+  },
+  {
+    "AccountId": 12957211,
+    "Level": 87,
+    "Nickname": "七⁷月",
+    "Tier": 4,
+    "Rank": 174,
+    "BestRankingPoint": 94634384,
+    "BestRankingPointDetail": 94634384.2316385
+  },
+  {
+    "AccountId": 13823345,
+    "Level": 87,
+    "Nickname": "橘-R4",
+    "Tier": 4,
+    "Rank": 175,
+    "BestRankingPoint": 94633395,
+    "BestRankingPointDetail": 94633395.2029442
+  },
+  {
+    "AccountId": 66722,
+    "Level": 87,
+    "Nickname": "寧寧",
+    "Tier": 4,
+    "Rank": 176,
+    "BestRankingPoint": 94633071,
+    "BestRankingPointDetail": 94633071.2477831
+  },
+  {
+    "AccountId": 7588776,
+    "Level": 87,
+    "Nickname": "火神",
+    "Tier": 4,
+    "Rank": 177,
+    "BestRankingPoint": 94631939,
+    "BestRankingPointDetail": 94631939.2403392
+  },
+  {
+    "AccountId": 9628654,
+    "Level": 87,
+    "Nickname": "因幡巡",
+    "Tier": 4,
+    "Rank": 178,
+    "BestRankingPoint": 94630402,
+    "BestRankingPointDetail": 94630402.2064525
+  },
+  {
+    "AccountId": 13441634,
+    "Level": 87,
+    "Nickname": "彩羽",
+    "Tier": 4,
+    "Rank": 179,
+    "BestRankingPoint": 94629504,
+    "BestRankingPointDetail": 94629504.2159264
+  },
+  {
+    "AccountId": 1621928,
+    "Level": 87,
+    "Nickname": "氵袞狼",
+    "Tier": 4,
+    "Rank": 180,
+    "BestRankingPoint": 94627920,
+    "BestRankingPointDetail": 94627920.2206186
+  },
+  {
+    "AccountId": 12979738,
+    "Level": 87,
+    "Nickname": "莫比烏斯情人",
+    "Tier": 4,
+    "Rank": 181,
+    "BestRankingPoint": 94624255,
+    "BestRankingPointDetail": 94624255.2068349
+  },
+  {
+    "AccountId": 13552159,
+    "Level": 87,
+    "Nickname": "李滇滇大魔王",
+    "Tier": 4,
+    "Rank": 182,
+    "BestRankingPoint": 94622304,
+    "BestRankingPointDetail": 94622304.2544422
+  },
+  {
+    "AccountId": 14692031,
+    "Level": 87,
+    "Nickname": "渚",
+    "Tier": 4,
+    "Rank": 183,
+    "BestRankingPoint": 94621649,
+    "BestRankingPointDetail": 94621649.2021302
+  },
+  {
+    "AccountId": 13857252,
+    "Level": 87,
+    "Nickname": "Snowsong",
+    "Tier": 4,
+    "Rank": 184,
+    "BestRankingPoint": 94621506,
+    "BestRankingPointDetail": 94621506.206343
+  },
+  {
+    "AccountId": 644384,
+    "Level": 87,
+    "Nickname": "小春高手",
+    "Tier": 4,
+    "Rank": 185,
+    "BestRankingPoint": 94620481,
+    "BestRankingPointDetail": 94620481.255879
+  },
+  {
+    "AccountId": 8605173,
+    "Level": 87,
+    "Nickname": "日照香炉生紫烟未花坐我脸上面",
+    "Tier": 4,
+    "Rank": 186,
+    "BestRankingPoint": 94620178,
+    "BestRankingPointDetail": 94620178.2183426
+  },
+  {
+    "AccountId": 13573554,
+    "Level": 87,
+    "Nickname": "wingk",
+    "Tier": 4,
+    "Rank": 187,
+    "BestRankingPoint": 94619696,
+    "BestRankingPointDetail": 94619696.2312033
+  },
+  {
+    "AccountId": 12617216,
+    "Level": 87,
+    "Nickname": "枝鳥不倦",
+    "Tier": 4,
+    "Rank": 188,
+    "BestRankingPoint": 94619456,
+    "BestRankingPointDetail": 94619456.2343887
+  },
+  {
+    "AccountId": 14645906,
+    "Level": 87,
+    "Nickname": "未聞花名",
+    "Tier": 4,
+    "Rank": 189,
+    "BestRankingPoint": 94619441,
+    "BestRankingPointDetail": 94619441.2428749
+  },
+  {
+    "AccountId": 121281,
+    "Level": 87,
+    "Nickname": "歐歐",
+    "Tier": 4,
+    "Rank": 190,
+    "BestRankingPoint": 94616638,
+    "BestRankingPointDetail": 94616638.2160364
+  },
+  {
+    "AccountId": 12032102,
+    "Level": 87,
+    "Nickname": "桐藤殿下",
+    "Tier": 4,
+    "Rank": 191,
+    "BestRankingPoint": 94615168,
+    "BestRankingPointDetail": 94615168.203218
+  },
+  {
+    "AccountId": 1205301,
+    "Level": 87,
+    "Nickname": "呼呼呼~",
+    "Tier": 4,
+    "Rank": 192,
+    "BestRankingPoint": 94614159,
+    "BestRankingPointDetail": 94614159.2373394
+  },
+  {
+    "AccountId": 14859019,
+    "Level": 87,
+    "Nickname": "輪回之風的輕吟",
+    "Tier": 4,
+    "Rank": 193,
+    "BestRankingPoint": 94613717,
+    "BestRankingPointDetail": 94613717.2294774
+  },
+  {
+    "AccountId": 14004764,
+    "Level": 87,
+    "Nickname": "梁酸且碱烯",
+    "Tier": 4,
+    "Rank": 194,
+    "BestRankingPoint": 94610960,
+    "BestRankingPointDetail": 94610960.2032562
+  },
+  {
+    "AccountId": 8735174,
+    "Level": 87,
+    "Nickname": "桌子",
+    "Tier": 4,
+    "Rank": 195,
+    "BestRankingPoint": 94610480,
+    "BestRankingPointDetail": 94610480.2282423
+  },
+  {
+    "AccountId": 13156392,
+    "Level": 87,
+    "Nickname": "四季夏目",
+    "Tier": 4,
+    "Rank": 196,
+    "BestRankingPoint": 94607408,
+    "BestRankingPointDetail": 94607408.2015175
+  },
+  {
+    "AccountId": 10189005,
+    "Level": 87,
+    "Nickname": "口渴不喝水，掰开小绿腿",
+    "Tier": 4,
+    "Rank": 197,
+    "BestRankingPoint": 94606431,
+    "BestRankingPointDetail": 94606431.2143893
+  },
+  {
+    "AccountId": 12887583,
+    "Level": 87,
+    "Nickname": "LaoHer",
+    "Tier": 4,
+    "Rank": 198,
+    "BestRankingPoint": 94606146,
+    "BestRankingPointDetail": 94606146.2395718
+  },
+  {
+    "AccountId": 1573040,
+    "Level": 87,
+    "Nickname": "橫掃後輩做回自己",
+    "Tier": 4,
+    "Rank": 199,
+    "BestRankingPoint": 94604513,
+    "BestRankingPointDetail": 94604513.2209028
+  },
+  {
+    "AccountId": 10762451,
+    "Level": 87,
+    "Nickname": "김태연",
+    "Tier": 4,
+    "Rank": 200,
+    "BestRankingPoint": 94603457,
+    "BestRankingPointDetail": 94603457.2110031
+  },
+  {
+    "AccountId": 12725522,
+    "Level": 87,
+    "Nickname": "JasonLu",
+    "Tier": 4,
+    "Rank": 201,
+    "BestRankingPoint": 94602128,
+    "BestRankingPointDetail": 94602128.2025723
+  },
+  {
+    "AccountId": 13770491,
+    "Level": 87,
+    "Nickname": "沙發馬鈴薯",
+    "Tier": 4,
+    "Rank": 202,
+    "BestRankingPoint": 94600816,
+    "BestRankingPointDetail": 94600816.2198895
+  },
+  {
+    "AccountId": 11234220,
+    "Level": 87,
+    "Nickname": "FoRanger",
+    "Tier": 4,
+    "Rank": 203,
+    "BestRankingPoint": 94599601,
+    "BestRankingPointDetail": 94599601.2019998
+  },
+  {
+    "AccountId": 8302364,
+    "Level": 87,
+    "Nickname": "雪落",
+    "Tier": 4,
+    "Rank": 204,
+    "BestRankingPoint": 94598865,
+    "BestRankingPointDetail": 94598865.215552
+  },
+  {
+    "AccountId": 14464882,
+    "Level": 87,
+    "Nickname": "Kirakira",
+    "Tier": 4,
+    "Rank": 205,
+    "BestRankingPoint": 94598321,
+    "BestRankingPointDetail": 94598321.2283702
+  },
+  {
+    "AccountId": 13720528,
+    "Level": 87,
+    "Nickname": "QQAQ",
+    "Tier": 4,
+    "Rank": 206,
+    "BestRankingPoint": 94597616,
+    "BestRankingPointDetail": 94597616.2074617
+  },
+  {
+    "AccountId": 12468917,
+    "Level": 87,
+    "Nickname": "嘎朗",
+    "Tier": 4,
+    "Rank": 207,
+    "BestRankingPoint": 94596178,
+    "BestRankingPointDetail": 94596178.2132339
+  },
+  {
+    "AccountId": 10834035,
+    "Level": 87,
+    "Nickname": "Jagger-Lennon",
+    "Tier": 4,
+    "Rank": 208,
+    "BestRankingPoint": 94595345,
+    "BestRankingPointDetail": 94595345.2451323
+  },
+  {
+    "AccountId": 5010533,
+    "Level": 87,
+    "Nickname": "cat0808",
+    "Tier": 4,
+    "Rank": 209,
+    "BestRankingPoint": 94594834,
+    "BestRankingPointDetail": 94594834.2526499
+  },
+  {
+    "AccountId": 11808567,
+    "Level": 87,
+    "Nickname": "我的没胃口",
+    "Tier": 4,
+    "Rank": 210,
+    "BestRankingPoint": 94594623,
+    "BestRankingPointDetail": 94594623.2377275
+  },
+  {
+    "AccountId": 35377,
+    "Level": 87,
+    "Nickname": "有栖",
+    "Tier": 4,
+    "Rank": 211,
+    "BestRankingPoint": 94593569,
+    "BestRankingPointDetail": 94593569.219927
+  },
+  {
+    "AccountId": 4085047,
+    "Level": 87,
+    "Nickname": "辰月",
+    "Tier": 4,
+    "Rank": 212,
+    "BestRankingPoint": 94593090,
+    "BestRankingPointDetail": 94593090.2203387
+  },
+  {
+    "AccountId": 12839014,
+    "Level": 87,
+    "Nickname": "FlatWhite",
+    "Tier": 4,
+    "Rank": 213,
+    "BestRankingPoint": 94589314,
+    "BestRankingPointDetail": 94589314.2027445
+  },
+  {
+    "AccountId": 14193968,
+    "Level": 87,
+    "Nickname": "小无忧",
+    "Tier": 4,
+    "Rank": 214,
+    "BestRankingPoint": 94587761,
+    "BestRankingPointDetail": 94587761.2041597
+  },
+  {
+    "AccountId": 14485219,
+    "Level": 87,
+    "Nickname": "筱楽",
+    "Tier": 4,
+    "Rank": 215,
+    "BestRankingPoint": 94587695,
+    "BestRankingPointDetail": 94587695.2120253
+  },
+  {
+    "AccountId": 10864263,
+    "Level": 87,
+    "Nickname": "白子榨我要寶寶",
+    "Tier": 4,
+    "Rank": 216,
+    "BestRankingPoint": 94587152,
+    "BestRankingPointDetail": 94587152.2320656
+  },
+  {
+    "AccountId": 8118858,
+    "Level": 87,
+    "Nickname": "碎空",
+    "Tier": 4,
+    "Rank": 217,
+    "BestRankingPoint": 94586290,
+    "BestRankingPointDetail": 94586290.2542267
+  },
+  {
+    "AccountId": 1555018,
+    "Level": 87,
+    "Nickname": "空",
+    "Tier": 4,
+    "Rank": 218,
+    "BestRankingPoint": 94585681,
+    "BestRankingPointDetail": 94585681.2312081
+  },
+  {
+    "AccountId": 12853721,
+    "Level": 87,
+    "Nickname": "Nagisa",
+    "Tier": 4,
+    "Rank": 219,
+    "BestRankingPoint": 94584832,
+    "BestRankingPointDetail": 94584832.2193555
+  },
+  {
+    "AccountId": 13674342,
+    "Level": 87,
+    "Nickname": "Asumi",
+    "Tier": 4,
+    "Rank": 220,
+    "BestRankingPoint": 94584688,
+    "BestRankingPointDetail": 94584688.2046875
+  },
+  {
+    "AccountId": 13698280,
+    "Level": 87,
+    "Nickname": "極光uwu",
+    "Tier": 4,
+    "Rank": 221,
+    "BestRankingPoint": 94583983,
+    "BestRankingPointDetail": 94583983.2370291
+  },
+  {
+    "AccountId": 11987630,
+    "Level": 87,
+    "Nickname": "立华奏",
+    "Tier": 4,
+    "Rank": 222,
+    "BestRankingPoint": 94583137,
+    "BestRankingPointDetail": 94583137.2499207
+  },
+  {
+    "AccountId": 175269,
+    "Level": 87,
+    "Nickname": "长长长生",
+    "Tier": 4,
+    "Rank": 223,
+    "BestRankingPoint": 94582865,
+    "BestRankingPointDetail": 94582865.2206404
+  },
+  {
+    "AccountId": 213385,
+    "Level": 87,
+    "Nickname": "lin",
+    "Tier": 4,
+    "Rank": 224,
+    "BestRankingPoint": 94581423,
+    "BestRankingPointDetail": 94581423.2477895
+  },
+  {
+    "AccountId": 12205885,
+    "Level": 87,
+    "Nickname": "Aletheia",
+    "Tier": 4,
+    "Rank": 225,
+    "BestRankingPoint": 94577409,
+    "BestRankingPointDetail": 94577409.2153311
+  },
+  {
+    "AccountId": 14468290,
+    "Level": 87,
+    "Nickname": "谷風天音",
+    "Tier": 4,
+    "Rank": 226,
+    "BestRankingPoint": 94576976,
+    "BestRankingPointDetail": 94576976.2550632
+  },
+  {
+    "AccountId": 11321777,
+    "Level": 87,
+    "Nickname": "s3jb",
+    "Tier": 4,
+    "Rank": 227,
+    "BestRankingPoint": 94576367,
+    "BestRankingPointDetail": 94576367.22015
+  },
+  {
+    "AccountId": 13201699,
+    "Level": 87,
+    "Nickname": "Hitori",
+    "Tier": 4,
+    "Rank": 228,
+    "BestRankingPoint": 94576097,
+    "BestRankingPointDetail": 94576097.2048133
+  },
+  {
+    "AccountId": 8212780,
+    "Level": 87,
+    "Nickname": "夜气辉",
+    "Tier": 4,
+    "Rank": 229,
+    "BestRankingPoint": 94575214,
+    "BestRankingPointDetail": 94575214.2019029
+  },
+  {
+    "AccountId": 8465267,
+    "Level": 87,
+    "Nickname": "帰ってきたウルトラマン",
+    "Tier": 4,
+    "Rank": 230,
+    "BestRankingPoint": 94574465,
+    "BestRankingPointDetail": 94574465.2025632
+  },
+  {
+    "AccountId": 11474261,
+    "Level": 87,
+    "Nickname": "枬枫",
+    "Tier": 4,
+    "Rank": 231,
+    "BestRankingPoint": 94573920,
+    "BestRankingPointDetail": 94573920.2523846
+  },
+  {
+    "AccountId": 10957251,
+    "Level": 87,
+    "Nickname": "徇子",
+    "Tier": 4,
+    "Rank": 232,
+    "BestRankingPoint": 94572097,
+    "BestRankingPointDetail": 94572097.2296979
+  },
+  {
+    "AccountId": 8567354,
+    "Level": 87,
+    "Nickname": "夏目藍",
+    "Tier": 4,
+    "Rank": 233,
+    "BestRankingPoint": 94572032,
+    "BestRankingPointDetail": 94572032.2111202
+  },
+  {
+    "AccountId": 12854140,
+    "Level": 87,
+    "Nickname": "shilefei",
+    "Tier": 4,
+    "Rank": 234,
+    "BestRankingPoint": 94571728,
+    "BestRankingPointDetail": 94571728.2152035
+  },
+  {
+    "AccountId": 8699929,
+    "Level": 87,
+    "Nickname": "南有喬木,不可休思",
+    "Tier": 4,
+    "Rank": 235,
+    "BestRankingPoint": 94571168,
+    "BestRankingPointDetail": 94571168.2061454
+  },
+  {
+    "AccountId": 13510614,
+    "Level": 87,
+    "Nickname": "鳶寶",
+    "Tier": 4,
+    "Rank": 236,
+    "BestRankingPoint": 94570785,
+    "BestRankingPointDetail": 94570785.2421443
+  },
+  {
+    "AccountId": 13174247,
+    "Level": 87,
+    "Nickname": "昨夜小樓又東風愛麗絲睡我懷中",
+    "Tier": 4,
+    "Rank": 237,
+    "BestRankingPoint": 94569775,
+    "BestRankingPointDetail": 94569775.2504521
+  },
+  {
+    "AccountId": 2396640,
+    "Level": 87,
+    "Nickname": "春风得意马蹄疾妃咲绝顶没个停",
+    "Tier": 4,
+    "Rank": 238,
+    "BestRankingPoint": 94569104,
+    "BestRankingPointDetail": 94569104.2027946
+  },
+  {
+    "AccountId": 7551845,
+    "Level": 87,
+    "Nickname": "貓頭",
+    "Tier": 4,
+    "Rank": 239,
+    "BestRankingPoint": 94568367,
+    "BestRankingPointDetail": 94568367.2163205
+  },
+  {
+    "AccountId": 13505550,
+    "Level": 87,
+    "Nickname": "王往网",
+    "Tier": 4,
+    "Rank": 240,
+    "BestRankingPoint": 94567697,
+    "BestRankingPointDetail": 94567697.2196543
+  },
+  {
+    "AccountId": 13113460,
+    "Level": 87,
+    "Nickname": "蘿貝",
+    "Tier": 4,
+    "Rank": 241,
+    "BestRankingPoint": 94566386,
+    "BestRankingPointDetail": 94566386.2371086
+  },
+  {
+    "AccountId": 142037,
+    "Level": 87,
+    "Nickname": "TN緹恩(當兵中)",
+    "Tier": 4,
+    "Rank": 242,
+    "BestRankingPoint": 94563569,
+    "BestRankingPointDetail": 94563569.2142537
+  },
+  {
+    "AccountId": 11390062,
+    "Level": 87,
+    "Nickname": "mortal",
+    "Tier": 4,
+    "Rank": 243,
+    "BestRankingPoint": 94563313,
+    "BestRankingPointDetail": 94563313.2491715
+  },
+  {
+    "AccountId": 2652099,
+    "Level": 87,
+    "Nickname": "初夏また",
+    "Tier": 4,
+    "Rank": 244,
+    "BestRankingPoint": 94563237,
+    "BestRankingPointDetail": 94563237.250104
+  },
+  {
+    "AccountId": 13964701,
+    "Level": 87,
+    "Nickname": "asaka",
+    "Tier": 4,
+    "Rank": 245,
+    "BestRankingPoint": 94562896,
+    "BestRankingPointDetail": 94562896.2121557
+  },
+  {
+    "AccountId": 11183143,
+    "Level": 87,
+    "Nickname": "Jackson",
+    "Tier": 4,
+    "Rank": 246,
+    "BestRankingPoint": 94561376,
+    "BestRankingPointDetail": 94561376.2313576
+  },
+  {
+    "AccountId": 8173861,
+    "Level": 87,
+    "Nickname": "折纸",
+    "Tier": 4,
+    "Rank": 247,
+    "BestRankingPoint": 94559889,
+    "BestRankingPointDetail": 94559889.2467247
+  },
+  {
+    "AccountId": 15873179,
+    "Level": 87,
+    "Nickname": "三狼白字儿",
+    "Tier": 4,
+    "Rank": 248,
+    "BestRankingPoint": 94559358,
+    "BestRankingPointDetail": 94559358.2498536
+  },
+  {
+    "AccountId": 8770614,
+    "Level": 87,
+    "Nickname": "德玛西亚及",
+    "Tier": 4,
+    "Rank": 249,
+    "BestRankingPoint": 94557569,
+    "BestRankingPointDetail": 94557569.2132114
+  },
+  {
+    "AccountId": 12237294,
+    "Level": 87,
+    "Nickname": "火龜",
+    "Tier": 4,
+    "Rank": 250,
+    "BestRankingPoint": 94557123,
+    "BestRankingPointDetail": 94557123.2263725
+  },
+  {
+    "AccountId": 13532226,
+    "Level": 87,
+    "Nickname": "雨櫻美咲",
+    "Tier": 4,
+    "Rank": 251,
+    "BestRankingPoint": 94554305,
+    "BestRankingPointDetail": 94554305.2148012
+  },
+  {
+    "AccountId": 2120241,
+    "Level": 87,
+    "Nickname": "蕾蒂西亚德克雷亚",
+    "Tier": 4,
+    "Rank": 252,
+    "BestRankingPoint": 94552896,
+    "BestRankingPointDetail": 94552896.2015111
+  },
+  {
+    "AccountId": 12402015,
+    "Level": 87,
+    "Nickname": "視覺殘留",
+    "Tier": 4,
+    "Rank": 253,
+    "BestRankingPoint": 94552224,
+    "BestRankingPointDetail": 94552224.2192151
+  },
+  {
+    "AccountId": 250902,
+    "Level": 87,
+    "Nickname": "Shiori",
+    "Tier": 4,
+    "Rank": 254,
+    "BestRankingPoint": 94551808,
+    "BestRankingPointDetail": 94551808.2295492
+  },
+  {
+    "AccountId": 12723236,
+    "Level": 87,
+    "Nickname": "基沃托斯第一梓厨",
+    "Tier": 4,
+    "Rank": 255,
+    "BestRankingPoint": 94551137,
+    "BestRankingPointDetail": 94551137.2556181
+  },
+  {
+    "AccountId": 10625605,
+    "Level": 87,
+    "Nickname": "蝦斗",
+    "Tier": 4,
+    "Rank": 256,
+    "BestRankingPoint": 94551073,
+    "BestRankingPointDetail": 94551073.2253111
+  },
+  {
+    "AccountId": 13936349,
+    "Level": 87,
+    "Nickname": "末影",
+    "Tier": 4,
+    "Rank": 257,
+    "BestRankingPoint": 94550276,
+    "BestRankingPointDetail": 94550276.2144709
+  },
+  {
+    "AccountId": 12244659,
+    "Level": 87,
+    "Nickname": "Nah",
+    "Tier": 4,
+    "Rank": 258,
+    "BestRankingPoint": 94549025,
+    "BestRankingPointDetail": 94549025.2518412
+  },
+  {
+    "AccountId": 12648138,
+    "Level": 87,
+    "Nickname": "呱呱123",
+    "Tier": 4,
+    "Rank": 259,
+    "BestRankingPoint": 94548385,
+    "BestRankingPointDetail": 94548385.2139006
+  },
+  {
+    "AccountId": 3802685,
+    "Level": 87,
+    "Nickname": "越冷穿越少",
+    "Tier": 4,
+    "Rank": 260,
+    "BestRankingPoint": 94546594,
+    "BestRankingPointDetail": 94546594.2027311
+  },
+  {
+    "AccountId": 14473726,
+    "Level": 87,
+    "Nickname": "星野的水鲸鱼",
+    "Tier": 4,
+    "Rank": 261,
+    "BestRankingPoint": 94545809,
+    "BestRankingPointDetail": 94545809.2491327
+  },
+  {
+    "AccountId": 16718826,
+    "Level": 87,
+    "Nickname": "Karma",
+    "Tier": 4,
+    "Rank": 262,
+    "BestRankingPoint": 94542989,
+    "BestRankingPointDetail": 94542989.214627
+  },
+  {
+    "AccountId": 10641255,
+    "Level": 87,
+    "Nickname": "嘟嘟",
+    "Tier": 4,
+    "Rank": 263,
+    "BestRankingPoint": 94542128,
+    "BestRankingPointDetail": 94542128.2298831
+  },
+  {
+    "AccountId": 14558753,
+    "Level": 87,
+    "Nickname": "浅夕乄",
+    "Tier": 4,
+    "Rank": 264,
+    "BestRankingPoint": 94541710,
+    "BestRankingPointDetail": 94541710.2111068
+  },
+  {
+    "AccountId": 13838534,
+    "Level": 87,
+    "Nickname": "小鸟游星野",
+    "Tier": 4,
+    "Rank": 265,
+    "BestRankingPoint": 94539697,
+    "BestRankingPointDetail": 94539697.2319384
+  },
+  {
+    "AccountId": 11453741,
+    "Level": 87,
+    "Nickname": "Kong放捏",
+    "Tier": 4,
+    "Rank": 266,
+    "BestRankingPoint": 94538179,
+    "BestRankingPointDetail": 94538179.2053475
+  },
+  {
+    "AccountId": 13623224,
+    "Level": 87,
+    "Nickname": "阿巴的巴阿",
+    "Tier": 4,
+    "Rank": 267,
+    "BestRankingPoint": 94535247,
+    "BestRankingPointDetail": 94535247.2051546
+  },
+  {
+    "AccountId": 12551512,
+    "Level": 87,
+    "Nickname": "赤羽夜夜",
+    "Tier": 4,
+    "Rank": 268,
+    "BestRankingPoint": 94533408,
+    "BestRankingPointDetail": 94533408.2195607
+  },
+  {
+    "AccountId": 15810093,
+    "Level": 87,
+    "Nickname": "木霆",
+    "Tier": 4,
+    "Rank": 269,
+    "BestRankingPoint": 94532864,
+    "BestRankingPointDetail": 94532864.213138
+  },
+  {
+    "AccountId": 14319748,
+    "Level": 87,
+    "Nickname": "水底",
+    "Tier": 4,
+    "Rank": 270,
+    "BestRankingPoint": 94532688,
+    "BestRankingPointDetail": 94532688.2049029
+  },
+  {
+    "AccountId": 12271973,
+    "Level": 87,
+    "Nickname": "aeugh",
+    "Tier": 4,
+    "Rank": 271,
+    "BestRankingPoint": 94531697,
+    "BestRankingPointDetail": 94531697.2552491
+  },
+  {
+    "AccountId": 12382640,
+    "Level": 87,
+    "Nickname": "春潮帶雨晚來急我與日奈共雲雨",
+    "Tier": 4,
+    "Rank": 272,
+    "BestRankingPoint": 94530977,
+    "BestRankingPointDetail": 94530977.2179837
+  },
+  {
+    "AccountId": 8721605,
+    "Level": 87,
+    "Nickname": "能30s不用佐仓的都是神人了",
+    "Tier": 4,
+    "Rank": 273,
+    "BestRankingPoint": 94530384,
+    "BestRankingPointDetail": 94530384.2034812
+  },
+  {
+    "AccountId": 15086951,
+    "Level": 87,
+    "Nickname": "吞吞吐吐投胎",
+    "Tier": 4,
+    "Rank": 274,
+    "BestRankingPoint": 94530048,
+    "BestRankingPointDetail": 94530048.2156405
+  },
+  {
+    "AccountId": 11993172,
+    "Level": 87,
+    "Nickname": "淡泊名利",
+    "Tier": 4,
+    "Rank": 275,
+    "BestRankingPoint": 94529135,
+    "BestRankingPointDetail": 94529135.2048374
+  },
+  {
+    "AccountId": 8000580,
+    "Level": 87,
+    "Nickname": "丨",
+    "Tier": 4,
+    "Rank": 276,
+    "BestRankingPoint": 94528607,
+    "BestRankingPointDetail": 94528607.2460607
+  },
+  {
+    "AccountId": 280614,
+    "Level": 87,
+    "Nickname": "零次",
+    "Tier": 4,
+    "Rank": 277,
+    "BestRankingPoint": 94527727,
+    "BestRankingPointDetail": 94527727.2122294
+  },
+  {
+    "AccountId": 14178126,
+    "Level": 87,
+    "Nickname": "void",
+    "Tier": 4,
+    "Rank": 278,
+    "BestRankingPoint": 94526865,
+    "BestRankingPointDetail": 94526865.2545201
+  },
+  {
+    "AccountId": 12730308,
+    "Level": 87,
+    "Nickname": "真白真白啊",
+    "Tier": 4,
+    "Rank": 279,
+    "BestRankingPoint": 94526130,
+    "BestRankingPointDetail": 94526130.2369292
+  },
+  {
+    "AccountId": 14357720,
+    "Level": 87,
+    "Nickname": "桜帆ちゃん",
+    "Tier": 4,
+    "Rank": 280,
+    "BestRankingPoint": 94524465,
+    "BestRankingPointDetail": 94524465.2314385
+  },
+  {
+    "AccountId": 12672623,
+    "Level": 87,
+    "Nickname": "夜羽小猫",
+    "Tier": 4,
+    "Rank": 281,
+    "BestRankingPoint": 94523424,
+    "BestRankingPointDetail": 94523424.2095659
+  },
+  {
+    "AccountId": 13340838,
+    "Level": 87,
+    "Nickname": "あさくら",
+    "Tier": 4,
+    "Rank": 282,
+    "BestRankingPoint": 94523184,
+    "BestRankingPointDetail": 94523184.2028538
+  },
+  {
+    "AccountId": 13984197,
+    "Level": 87,
+    "Nickname": "B站搜佑米子看男娘",
+    "Tier": 4,
+    "Rank": 283,
+    "BestRankingPoint": 94522770,
+    "BestRankingPointDetail": 94522770.2074455
+  },
+  {
+    "AccountId": 15813878,
+    "Level": 87,
+    "Nickname": "dark80426",
+    "Tier": 4,
+    "Rank": 284,
+    "BestRankingPoint": 94520880,
+    "BestRankingPointDetail": 94520880.2117809
+  },
+  {
+    "AccountId": 12585653,
+    "Level": 87,
+    "Nickname": "霏",
+    "Tier": 4,
+    "Rank": 285,
+    "BestRankingPoint": 94520608,
+    "BestRankingPointDetail": 94520608.202029
+  },
+  {
+    "AccountId": 12792544,
+    "Level": 87,
+    "Nickname": "專三11歲",
+    "Tier": 4,
+    "Rank": 286,
+    "BestRankingPoint": 94520145,
+    "BestRankingPointDetail": 94520145.23335
+  },
+  {
+    "AccountId": 300763,
+    "Level": 87,
+    "Nickname": "三葉蟲",
+    "Tier": 4,
+    "Rank": 287,
+    "BestRankingPoint": 94519760,
+    "BestRankingPointDetail": 94519760.2476573
+  },
+  {
+    "AccountId": 12133920,
+    "Level": 87,
+    "Nickname": "ΑΝΑΓΚΗ",
+    "Tier": 4,
+    "Rank": 288,
+    "BestRankingPoint": 94519505,
+    "BestRankingPointDetail": 94519505.2048307
+  },
+  {
+    "AccountId": 15085525,
+    "Level": 87,
+    "Nickname": "錢小源",
+    "Tier": 4,
+    "Rank": 289,
+    "BestRankingPoint": 94519056,
+    "BestRankingPointDetail": 94519056.2243578
+  },
+  {
+    "AccountId": 11531910,
+    "Level": 87,
+    "Nickname": "aaaaa",
+    "Tier": 4,
+    "Rank": 290,
+    "BestRankingPoint": 94517471,
+    "BestRankingPointDetail": 94517471.2245764
+  },
+  {
+    "AccountId": 64669,
+    "Level": 87,
+    "Nickname": "喵都同分异构体",
+    "Tier": 4,
+    "Rank": 291,
+    "BestRankingPoint": 94516942,
+    "BestRankingPointDetail": 94516942.2069382
+  },
+  {
+    "AccountId": 13575738,
+    "Level": 87,
+    "Nickname": "不道德天尊",
+    "Tier": 4,
+    "Rank": 292,
+    "BestRankingPoint": 94516641,
+    "BestRankingPointDetail": 94516641.2287957
+  },
+  {
+    "AccountId": 12755599,
+    "Level": 87,
+    "Nickname": "Seele",
+    "Tier": 4,
+    "Rank": 293,
+    "BestRankingPoint": 94515536,
+    "BestRankingPointDetail": 94515536.2363814
+  },
+  {
+    "AccountId": 10558409,
+    "Level": 87,
+    "Nickname": "姚蒙你木似了",
+    "Tier": 4,
+    "Rank": 294,
+    "BestRankingPoint": 94513726,
+    "BestRankingPointDetail": 94513726.2087057
+  },
+  {
+    "AccountId": 12052136,
+    "Level": 87,
+    "Nickname": "玖玖里",
+    "Tier": 4,
+    "Rank": 295,
+    "BestRankingPoint": 94512687,
+    "BestRankingPointDetail": 94512687.20615
+  },
+  {
+    "AccountId": 12217179,
+    "Level": 87,
+    "Nickname": "Dearlize",
+    "Tier": 4,
+    "Rank": 296,
+    "BestRankingPoint": 94512097,
+    "BestRankingPointDetail": 94512097.2161973
+  },
+  {
+    "AccountId": 1682499,
+    "Level": 87,
+    "Nickname": "nekopunch",
+    "Tier": 4,
+    "Rank": 297,
+    "BestRankingPoint": 94512030,
+    "BestRankingPointDetail": 94512030.2228316
+  },
+  {
+    "AccountId": 14564937,
+    "Level": 87,
+    "Nickname": "无名",
+    "Tier": 4,
+    "Rank": 298,
+    "BestRankingPoint": 94511952,
+    "BestRankingPointDetail": 94511952.2458313
+  },
+  {
+    "AccountId": 12489084,
+    "Level": 87,
+    "Nickname": "MIO",
+    "Tier": 4,
+    "Rank": 299,
+    "BestRankingPoint": 94511777,
+    "BestRankingPointDetail": 94511777.2107288
+  },
+  {
+    "AccountId": 11675930,
+    "Level": 87,
+    "Nickname": "羈絆選阿爾緹娜",
+    "Tier": 4,
+    "Rank": 300,
+    "BestRankingPoint": 94511696,
+    "BestRankingPointDetail": 94511696.2034541
+  },
+  {
+    "AccountId": 983819,
+    "Level": 87,
+    "Nickname": "冰冰炭",
+    "Tier": 4,
+    "Rank": 301,
+    "BestRankingPoint": 94511520,
+    "BestRankingPointDetail": 94511520.2181854
+  },
+  {
+    "AccountId": 368778,
+    "Level": 87,
+    "Nickname": "风铃",
+    "Tier": 4,
+    "Rank": 302,
+    "BestRankingPoint": 94511422,
+    "BestRankingPointDetail": 94511422.2140828
+  },
+  {
+    "AccountId": 13808014,
+    "Level": 87,
+    "Nickname": "Kelv",
+    "Tier": 4,
+    "Rank": 303,
+    "BestRankingPoint": 94511329,
+    "BestRankingPointDetail": 94511329.2366626
+  },
+  {
+    "AccountId": 10920491,
+    "Level": 87,
+    "Nickname": "Anta",
+    "Tier": 4,
+    "Rank": 304,
+    "BestRankingPoint": 94511137,
+    "BestRankingPointDetail": 94511137.2138492
+  },
+  {
+    "AccountId": 14221330,
+    "Level": 87,
+    "Nickname": "Derek",
+    "Tier": 4,
+    "Rank": 305,
+    "BestRankingPoint": 94509135,
+    "BestRankingPointDetail": 94509135.2373231
+  },
+  {
+    "AccountId": 15367605,
+    "Level": 87,
+    "Nickname": "满足桑",
+    "Tier": 4,
+    "Rank": 306,
+    "BestRankingPoint": 94508993,
+    "BestRankingPointDetail": 94508993.2544469
+  },
+  {
+    "AccountId": 12769049,
+    "Level": 87,
+    "Nickname": "Subuh",
+    "Tier": 4,
+    "Rank": 307,
+    "BestRankingPoint": 94508960,
+    "BestRankingPointDetail": 94508960.2211717
+  },
+  {
+    "AccountId": 13686970,
+    "Level": 87,
+    "Nickname": "豆子",
+    "Tier": 4,
+    "Rank": 308,
+    "BestRankingPoint": 94508194,
+    "BestRankingPointDetail": 94508194.2388749
+  },
+  {
+    "AccountId": 7561740,
+    "Level": 87,
+    "Nickname": "北城",
+    "Tier": 4,
+    "Rank": 309,
+    "BestRankingPoint": 94507201,
+    "BestRankingPointDetail": 94507201.2470767
+  },
+  {
+    "AccountId": 466985,
+    "Level": 87,
+    "Nickname": "水千世suki",
+    "Tier": 4,
+    "Rank": 310,
+    "BestRankingPoint": 94506608,
+    "BestRankingPointDetail": 94506608.2034396
+  },
+  {
+    "AccountId": 11250664,
+    "Level": 87,
+    "Nickname": "晴雪",
+    "Tier": 4,
+    "Rank": 311,
+    "BestRankingPoint": 94504689,
+    "BestRankingPointDetail": 94504689.2414431
+  },
+  {
+    "AccountId": 13216293,
+    "Level": 87,
+    "Nickname": "在天愿作比翼鸟在地愿为玲纱厨",
+    "Tier": 4,
+    "Rank": 312,
+    "BestRankingPoint": 94502173,
+    "BestRankingPointDetail": 94502173.2148984
+  },
+  {
+    "AccountId": 8807078,
+    "Level": 87,
+    "Nickname": "花去春还在草飞小心奈",
+    "Tier": 4,
+    "Rank": 313,
+    "BestRankingPoint": 94501761,
+    "BestRankingPointDetail": 94501761.2568417
+  },
+  {
+    "AccountId": 14089250,
+    "Level": 87,
+    "Nickname": "白凝残月",
+    "Tier": 4,
+    "Rank": 314,
+    "BestRankingPoint": 94500848,
+    "BestRankingPointDetail": 94500848.225326
+  },
+  {
+    "AccountId": 11069870,
+    "Level": 87,
+    "Nickname": "Yu",
+    "Tier": 4,
+    "Rank": 315,
+    "BestRankingPoint": 94500512,
+    "BestRankingPointDetail": 94500512.220201
+  },
+  {
+    "AccountId": 10850733,
+    "Level": 87,
+    "Nickname": "Atri",
+    "Tier": 4,
+    "Rank": 316,
+    "BestRankingPoint": 94499858,
+    "BestRankingPointDetail": 94499858.2188487
+  },
+  {
+    "AccountId": 14940601,
+    "Level": 87,
+    "Nickname": "小刀",
+    "Tier": 4,
+    "Rank": 317,
+    "BestRankingPoint": 94497649,
+    "BestRankingPointDetail": 94497649.2196659
+  },
+  {
+    "AccountId": 6376439,
+    "Level": 87,
+    "Nickname": "柴柴",
+    "Tier": 4,
+    "Rank": 318,
+    "BestRankingPoint": 94496463,
+    "BestRankingPointDetail": 94496463.2024895
+  },
+  {
+    "AccountId": 12415672,
+    "Level": 87,
+    "Nickname": "卷不动了",
+    "Tier": 4,
+    "Rank": 319,
+    "BestRankingPoint": 94495857,
+    "BestRankingPointDetail": 94495857.2222215
+  },
+  {
+    "AccountId": 12891551,
+    "Level": 87,
+    "Nickname": "曾許人間第一流",
+    "Tier": 4,
+    "Rank": 320,
+    "BestRankingPoint": 94495568,
+    "BestRankingPointDetail": 94495568.2241005
+  },
+  {
+    "AccountId": 8418316,
+    "Level": 87,
+    "Nickname": "可愛哈比",
+    "Tier": 4,
+    "Rank": 321,
+    "BestRankingPoint": 94495023,
+    "BestRankingPointDetail": 94495023.2337851
+  },
+  {
+    "AccountId": 13823367,
+    "Level": 87,
+    "Nickname": "月下",
+    "Tier": 4,
+    "Rank": 322,
+    "BestRankingPoint": 94494862,
+    "BestRankingPointDetail": 94494862.2459409
+  },
+  {
+    "AccountId": 13868042,
+    "Level": 87,
+    "Nickname": "BladeSinger",
+    "Tier": 4,
+    "Rank": 323,
+    "BestRankingPoint": 94494833,
+    "BestRankingPointDetail": 94494833.2131601
+  },
+  {
+    "AccountId": 13404891,
+    "Level": 87,
+    "Nickname": "紫夏",
+    "Tier": 4,
+    "Rank": 324,
+    "BestRankingPoint": 94494241,
+    "BestRankingPointDetail": 94494241.220614
+  },
+  {
+    "AccountId": 12364593,
+    "Level": 87,
+    "Nickname": "Me7e0ra",
+    "Tier": 4,
+    "Rank": 325,
+    "BestRankingPoint": 94494044,
+    "BestRankingPointDetail": 94494044.2290192
+  },
+  {
+    "AccountId": 11585093,
+    "Level": 87,
+    "Nickname": "shirofox",
+    "Tier": 4,
+    "Rank": 326,
+    "BestRankingPoint": 94493487,
+    "BestRankingPointDetail": 94493487.2347442
+  },
+  {
+    "AccountId": 12353396,
+    "Level": 87,
+    "Nickname": "neko",
+    "Tier": 4,
+    "Rank": 327,
+    "BestRankingPoint": 94493486,
+    "BestRankingPointDetail": 94493486.2020717
+  },
+  {
+    "AccountId": 10805763,
+    "Level": 87,
+    "Nickname": "大混子说的就是我",
+    "Tier": 4,
+    "Rank": 328,
+    "BestRankingPoint": 94493072,
+    "BestRankingPointDetail": 94493072.2551547
+  },
+  {
+    "AccountId": 144817,
+    "Level": 87,
+    "Nickname": "小町ノノ",
+    "Tier": 4,
+    "Rank": 329,
+    "BestRankingPoint": 94491828,
+    "BestRankingPointDetail": 94491828.215543
+  },
+  {
+    "AccountId": 12855629,
+    "Level": 87,
+    "Nickname": "mochi",
+    "Tier": 4,
+    "Rank": 330,
+    "BestRankingPoint": 94491649,
+    "BestRankingPointDetail": 94491649.2211964
+  },
+  {
+    "AccountId": 12556550,
+    "Level": 87,
+    "Nickname": "音无",
+    "Tier": 4,
+    "Rank": 331,
+    "BestRankingPoint": 94491648,
+    "BestRankingPointDetail": 94491648.2450754
+  },
+  {
+    "AccountId": 13546019,
+    "Level": 87,
+    "Nickname": "慰懶檔案玩家",
+    "Tier": 4,
+    "Rank": 332,
+    "BestRankingPoint": 94491504,
+    "BestRankingPointDetail": 94491504.2217085
+  },
+  {
+    "AccountId": 8027384,
+    "Level": 87,
+    "Nickname": "千世小小的香香的軟軟的甜甜的",
+    "Tier": 4,
+    "Rank": 333,
+    "BestRankingPoint": 94491331,
+    "BestRankingPointDetail": 94491331.2502245
+  },
+  {
+    "AccountId": 16177458,
+    "Level": 87,
+    "Nickname": "Dr.D",
+    "Tier": 4,
+    "Rank": 334,
+    "BestRankingPoint": 94490415,
+    "BestRankingPointDetail": 94490415.2136975
+  },
+  {
+    "AccountId": 3162551,
+    "Level": 87,
+    "Nickname": "夏麥",
+    "Tier": 4,
+    "Rank": 335,
+    "BestRankingPoint": 94489603,
+    "BestRankingPointDetail": 94489603.2296556
+  },
+  {
+    "AccountId": 12599462,
+    "Level": 87,
+    "Nickname": "Q798937351群主女装",
+    "Tier": 4,
+    "Rank": 336,
+    "BestRankingPoint": 94489121,
+    "BestRankingPointDetail": 94489121.249333
+  },
+  {
+    "AccountId": 14766579,
+    "Level": 87,
+    "Nickname": "南念",
+    "Tier": 4,
+    "Rank": 337,
+    "BestRankingPoint": 94488927,
+    "BestRankingPointDetail": 94488927.2528149
+  },
+  {
+    "AccountId": 2826579,
+    "Level": 87,
+    "Nickname": "摸",
+    "Tier": 4,
+    "Rank": 338,
+    "BestRankingPoint": 94486974,
+    "BestRankingPointDetail": 94486974.2372721
+  },
+  {
+    "AccountId": 7657250,
+    "Level": 87,
+    "Nickname": "水原佑樹",
+    "Tier": 4,
+    "Rank": 339,
+    "BestRankingPoint": 94485615,
+    "BestRankingPointDetail": 94485615.2183553
+  },
+  {
+    "AccountId": 8992870,
+    "Level": 87,
+    "Nickname": "胡桃のあ",
+    "Tier": 4,
+    "Rank": 340,
+    "BestRankingPoint": 94485488,
+    "BestRankingPointDetail": 94485488.2460114
+  },
+  {
+    "AccountId": 11124760,
+    "Level": 87,
+    "Nickname": "红豆泥红豆糕",
+    "Tier": 4,
+    "Rank": 341,
+    "BestRankingPoint": 94485390,
+    "BestRankingPointDetail": 94485390.2284042
+  },
+  {
+    "AccountId": 12695490,
+    "Level": 87,
+    "Nickname": "violet",
+    "Tier": 4,
+    "Rank": 342,
+    "BestRankingPoint": 94484658,
+    "BestRankingPointDetail": 94484658.2060492
+  },
+  {
+    "AccountId": 13024705,
+    "Level": 87,
+    "Nickname": "UYA",
+    "Tier": 4,
+    "Rank": 343,
+    "BestRankingPoint": 94484542,
+    "BestRankingPointDetail": 94484542.2476265
+  },
+  {
+    "AccountId": 11931342,
+    "Level": 87,
+    "Nickname": "ジュンコのなく頃に",
+    "Tier": 4,
+    "Rank": 344,
+    "BestRankingPoint": 94483952,
+    "BestRankingPointDetail": 94483952.2296729
+  },
+  {
+    "AccountId": 8046284,
+    "Level": 87,
+    "Nickname": "hina",
+    "Tier": 4,
+    "Rank": 345,
+    "BestRankingPoint": 94483278,
+    "BestRankingPointDetail": 94483278.2568426
+  },
+  {
+    "AccountId": 441901,
+    "Level": 87,
+    "Nickname": "谢安宜",
+    "Tier": 4,
+    "Rank": 346,
+    "BestRankingPoint": 94482402,
+    "BestRankingPointDetail": 94482402.238252
+  },
+  {
+    "AccountId": 11616191,
+    "Level": 87,
+    "Nickname": "Match",
+    "Tier": 4,
+    "Rank": 347,
+    "BestRankingPoint": 94482289,
+    "BestRankingPointDetail": 94482289.2414279
+  },
+  {
+    "AccountId": 8561806,
+    "Level": 87,
+    "Nickname": "ìndulgeდAlgaró",
+    "Tier": 4,
+    "Rank": 348,
+    "BestRankingPoint": 94481377,
+    "BestRankingPointDetail": 94481377.2196256
+  },
+  {
+    "AccountId": 225202,
+    "Level": 87,
+    "Nickname": "澪",
+    "Tier": 4,
+    "Rank": 349,
+    "BestRankingPoint": 94480977,
+    "BestRankingPointDetail": 94480977.2420931
+  },
+  {
+    "AccountId": 10721614,
+    "Level": 87,
+    "Nickname": "yuuki",
+    "Tier": 4,
+    "Rank": 350,
+    "BestRankingPoint": 94479744,
+    "BestRankingPointDetail": 94479744.2491657
+  },
+  {
+    "AccountId": 1586580,
+    "Level": 87,
+    "Nickname": "mochi",
+    "Tier": 4,
+    "Rank": 351,
+    "BestRankingPoint": 94479632,
+    "BestRankingPointDetail": 94479632.2533077
+  },
+  {
+    "AccountId": 12623378,
+    "Level": 87,
+    "Nickname": "fake",
+    "Tier": 4,
+    "Rank": 352,
+    "BestRankingPoint": 94478752,
+    "BestRankingPointDetail": 94478752.2574227
+  },
+  {
+    "AccountId": 12289,
+    "Level": 87,
+    "Nickname": "奧古斯都",
+    "Tier": 4,
+    "Rank": 353,
+    "BestRankingPoint": 94478289,
+    "BestRankingPointDetail": 94478289.2252843
+  },
+  {
+    "AccountId": 10874252,
+    "Level": 87,
+    "Nickname": "WeiLan",
+    "Tier": 4,
+    "Rank": 354,
+    "BestRankingPoint": 94476833,
+    "BestRankingPointDetail": 94476833.2198297
+  },
+  {
+    "AccountId": 13220626,
+    "Level": 87,
+    "Nickname": "晓晗（欢迎报考浙江大学",
+    "Tier": 4,
+    "Rank": 355,
+    "BestRankingPoint": 94476304,
+    "BestRankingPointDetail": 94476304.2311716
+  },
+  {
+    "AccountId": 15797978,
+    "Level": 87,
+    "Nickname": "我的",
+    "Tier": 4,
+    "Rank": 356,
+    "BestRankingPoint": 94475568,
+    "BestRankingPointDetail": 94475568.2442262
+  },
+  {
+    "AccountId": 323046,
+    "Level": 87,
+    "Nickname": "时雨",
+    "Tier": 4,
+    "Rank": 357,
+    "BestRankingPoint": 94475506,
+    "BestRankingPointDetail": 94475506.2132767
+  },
+  {
+    "AccountId": 756302,
+    "Level": 87,
+    "Nickname": "小點",
+    "Tier": 4,
+    "Rank": 358,
+    "BestRankingPoint": 94475410,
+    "BestRankingPointDetail": 94475410.2013249
+  },
+  {
+    "AccountId": 12843404,
+    "Level": 87,
+    "Nickname": "AL-1S",
+    "Tier": 4,
+    "Rank": 359,
+    "BestRankingPoint": 94474946,
+    "BestRankingPointDetail": 94474946.2498147
+  },
+  {
+    "AccountId": 13131888,
+    "Level": 87,
+    "Nickname": "春潮帶雨晚來急落花彌香嗅殘馨",
+    "Tier": 4,
+    "Rank": 360,
+    "BestRankingPoint": 94472369,
+    "BestRankingPointDetail": 94472369.2220506
+  },
+  {
+    "AccountId": 15135281,
+    "Level": 87,
+    "Nickname": "提前半年備戰女僕愛麗絲愛用品",
+    "Tier": 4,
+    "Rank": 361,
+    "BestRankingPoint": 94471983,
+    "BestRankingPointDetail": 94471983.2026654
+  },
+  {
+    "AccountId": 8585183,
+    "Level": 87,
+    "Nickname": "藍莓味yui",
+    "Tier": 4,
+    "Rank": 362,
+    "BestRankingPoint": 94471776,
+    "BestRankingPointDetail": 94471776.247369
+  },
+  {
+    "AccountId": 12673693,
+    "Level": 87,
+    "Nickname": "名啊難起啊",
+    "Tier": 4,
+    "Rank": 363,
+    "BestRankingPoint": 94470353,
+    "BestRankingPointDetail": 94470353.2284359
+  },
+  {
+    "AccountId": 12335595,
+    "Level": 87,
+    "Nickname": "400抽0up不愧是你",
+    "Tier": 4,
+    "Rank": 364,
+    "BestRankingPoint": 94469807,
+    "BestRankingPointDetail": 94469807.2556499
+  },
+  {
+    "AccountId": 11147555,
+    "Level": 87,
+    "Nickname": "君のTheresa",
+    "Tier": 4,
+    "Rank": 365,
+    "BestRankingPoint": 94469039,
+    "BestRankingPointDetail": 94469039.2116529
+  },
+  {
+    "AccountId": 12706079,
+    "Level": 87,
+    "Nickname": "ココロゼロ",
+    "Tier": 4,
+    "Rank": 366,
+    "BestRankingPoint": 94467919,
+    "BestRankingPointDetail": 94467919.2107864
+  },
+  {
+    "AccountId": 7773988,
+    "Level": 87,
+    "Nickname": "趴基",
+    "Tier": 4,
+    "Rank": 367,
+    "BestRankingPoint": 94467731,
+    "BestRankingPointDetail": 94467731.2022147
+  },
+  {
+    "AccountId": 12508983,
+    "Level": 87,
+    "Nickname": "紳士聯盟",
+    "Tier": 4,
+    "Rank": 368,
+    "BestRankingPoint": 94466496,
+    "BestRankingPointDetail": 94466496.2023605
+  },
+  {
+    "AccountId": 13764093,
+    "Level": 87,
+    "Nickname": "兔球",
+    "Tier": 4,
+    "Rank": 369,
+    "BestRankingPoint": 94465440,
+    "BestRankingPointDetail": 94465440.2021867
+  },
+  {
+    "AccountId": 10935987,
+    "Level": 87,
+    "Nickname": "美遊",
+    "Tier": 4,
+    "Rank": 370,
+    "BestRankingPoint": 94464862,
+    "BestRankingPointDetail": 94464862.2374081
+  },
+  {
+    "AccountId": 10682736,
+    "Level": 87,
+    "Nickname": "日日摸鱼",
+    "Tier": 4,
+    "Rank": 371,
+    "BestRankingPoint": 94464688,
+    "BestRankingPointDetail": 94464688.2548214
+  },
+  {
+    "AccountId": 1861637,
+    "Level": 87,
+    "Nickname": "TaB",
+    "Tier": 4,
+    "Rank": 372,
+    "BestRankingPoint": 94463984,
+    "BestRankingPointDetail": 94463984.2487006
+  },
+  {
+    "AccountId": 15644413,
+    "Level": 87,
+    "Nickname": "平",
+    "Tier": 4,
+    "Rank": 373,
+    "BestRankingPoint": 94463888,
+    "BestRankingPointDetail": 94463888.2066295
+  },
+  {
+    "AccountId": 13267825,
+    "Level": 87,
+    "Nickname": "tenshou",
+    "Tier": 4,
+    "Rank": 374,
+    "BestRankingPoint": 94463775,
+    "BestRankingPointDetail": 94463775.239887
+  },
+  {
+    "AccountId": 327234,
+    "Level": 87,
+    "Nickname": "HKmario",
+    "Tier": 4,
+    "Rank": 375,
+    "BestRankingPoint": 94463744,
+    "BestRankingPointDetail": 94463744.2055213
+  },
+  {
+    "AccountId": 8793506,
+    "Level": 87,
+    "Nickname": "LFSC",
+    "Tier": 4,
+    "Rank": 376,
+    "BestRankingPoint": 94463598,
+    "BestRankingPointDetail": 94463598.2218635
+  },
+  {
+    "AccountId": 8230428,
+    "Level": 87,
+    "Nickname": "佛心公司",
+    "Tier": 4,
+    "Rank": 377,
+    "BestRankingPoint": 94463201,
+    "BestRankingPointDetail": 94463201.2290501
+  },
+  {
+    "AccountId": 10866775,
+    "Level": 87,
+    "Nickname": "馮•希德",
+    "Tier": 4,
+    "Rank": 378,
+    "BestRankingPoint": 94460689,
+    "BestRankingPointDetail": 94460689.2191285
+  },
+  {
+    "AccountId": 12489108,
+    "Level": 87,
+    "Nickname": "紅毛糰籽",
+    "Tier": 4,
+    "Rank": 379,
+    "BestRankingPoint": 94460192,
+    "BestRankingPointDetail": 94460192.2205852
+  },
+  {
+    "AccountId": 11044597,
+    "Level": 87,
+    "Nickname": "夕阳233",
+    "Tier": 4,
+    "Rank": 380,
+    "BestRankingPoint": 94460000,
+    "BestRankingPointDetail": 94460000.203189
+  },
+  {
+    "AccountId": 12728097,
+    "Level": 87,
+    "Nickname": "Markus",
+    "Tier": 4,
+    "Rank": 381,
+    "BestRankingPoint": 94459746,
+    "BestRankingPointDetail": 94459746.2119352
+  },
+  {
+    "AccountId": 12674940,
+    "Level": 87,
+    "Nickname": "千秋",
+    "Tier": 4,
+    "Rank": 382,
+    "BestRankingPoint": 94458831,
+    "BestRankingPointDetail": 94458831.2015961
+  },
+  {
+    "AccountId": 12996149,
+    "Level": 87,
+    "Nickname": "快阁东西倚晚晴",
+    "Tier": 4,
+    "Rank": 383,
+    "BestRankingPoint": 94458574,
+    "BestRankingPointDetail": 94458574.2110339
+  },
+  {
+    "AccountId": 13345887,
+    "Level": 87,
+    "Nickname": "xuan十四",
+    "Tier": 4,
+    "Rank": 384,
+    "BestRankingPoint": 94458512,
+    "BestRankingPointDetail": 94458512.2309735
+  },
+  {
+    "AccountId": 12502746,
+    "Level": 87,
+    "Nickname": "野兔一味",
+    "Tier": 4,
+    "Rank": 385,
+    "BestRankingPoint": 94458367,
+    "BestRankingPointDetail": 94458367.2100392
+  },
+  {
+    "AccountId": 11979247,
+    "Level": 87,
+    "Nickname": "奈川子",
+    "Tier": 4,
+    "Rank": 386,
+    "BestRankingPoint": 94458111,
+    "BestRankingPointDetail": 94458111.220165
+  },
+  {
+    "AccountId": 14243313,
+    "Level": 87,
+    "Nickname": "芒果慕斯雪泡",
+    "Tier": 4,
+    "Rank": 387,
+    "BestRankingPoint": 94457873,
+    "BestRankingPointDetail": 94457873.2449548
+  },
+  {
+    "AccountId": 10635013,
+    "Level": 87,
+    "Nickname": "病床牢師不会梦见肘擊王哈基野",
+    "Tier": 4,
+    "Rank": 388,
+    "BestRankingPoint": 94456942,
+    "BestRankingPointDetail": 94456942.2486883
+  },
+  {
+    "AccountId": 1123279,
+    "Level": 87,
+    "Nickname": "Amyda",
+    "Tier": 4,
+    "Rank": 389,
+    "BestRankingPoint": 94454897,
+    "BestRankingPointDetail": 94454897.2574288
+  },
+  {
+    "AccountId": 8605859,
+    "Level": 87,
+    "Nickname": "Yukino",
+    "Tier": 4,
+    "Rank": 390,
+    "BestRankingPoint": 94454687,
+    "BestRankingPointDetail": 94454687.2121483
+  },
+  {
+    "AccountId": 13931412,
+    "Level": 87,
+    "Nickname": "michio",
+    "Tier": 4,
+    "Rank": 391,
+    "BestRankingPoint": 94454417,
+    "BestRankingPointDetail": 94454417.2223512
+  },
+  {
+    "AccountId": 11386014,
+    "Level": 87,
+    "Nickname": "永恆",
+    "Tier": 4,
+    "Rank": 392,
+    "BestRankingPoint": 94454351,
+    "BestRankingPointDetail": 94454351.211093
+  },
+  {
+    "AccountId": 7892952,
+    "Level": 87,
+    "Nickname": "狼師奶茶",
+    "Tier": 4,
+    "Rank": 393,
+    "BestRankingPoint": 94454227,
+    "BestRankingPointDetail": 94454227.2105256
+  },
+  {
+    "AccountId": 8776712,
+    "Level": 87,
+    "Nickname": "好想没有早八",
+    "Tier": 4,
+    "Rank": 394,
+    "BestRankingPoint": 94454209,
+    "BestRankingPointDetail": 94454209.2201198
+  },
+  {
+    "AccountId": 14222755,
+    "Level": 87,
+    "Nickname": "furioso",
+    "Tier": 4,
+    "Rank": 395,
+    "BestRankingPoint": 94454142,
+    "BestRankingPointDetail": 94454142.2030548
+  },
+  {
+    "AccountId": 513,
+    "Level": 87,
+    "Nickname": "泪笑丶",
+    "Tier": 4,
+    "Rank": 396,
+    "BestRankingPoint": 94452368,
+    "BestRankingPointDetail": 94452368.2289675
+  },
+  {
+    "AccountId": 15461196,
+    "Level": 87,
+    "Nickname": "无法拒绝黑兔",
+    "Tier": 4,
+    "Rank": 397,
+    "BestRankingPoint": 94452273,
+    "BestRankingPointDetail": 94452273.2211831
+  },
+  {
+    "AccountId": 12823670,
+    "Level": 87,
+    "Nickname": "晴與千秋",
+    "Tier": 4,
+    "Rank": 398,
+    "BestRankingPoint": 94452147,
+    "BestRankingPointDetail": 94452147.2214335
+  },
+  {
+    "AccountId": 15780010,
+    "Level": 87,
+    "Nickname": "曲奇",
+    "Tier": 4,
+    "Rank": 399,
+    "BestRankingPoint": 94451696,
+    "BestRankingPointDetail": 94451696.2137854
+  },
+  {
+    "AccountId": 11204076,
+    "Level": 87,
+    "Nickname": "青灵鸟",
+    "Tier": 4,
+    "Rank": 400,
+    "BestRankingPoint": 94450914,
+    "BestRankingPointDetail": 94450914.2508832
+  },
+  {
+    "AccountId": 12912193,
+    "Level": 87,
+    "Nickname": "真红",
+    "Tier": 4,
+    "Rank": 401,
+    "BestRankingPoint": 94450895,
+    "BestRankingPointDetail": 94450895.2286594
+  },
+  {
+    "AccountId": 13569549,
+    "Level": 87,
+    "Nickname": "Acerola",
+    "Tier": 4,
+    "Rank": 402,
+    "BestRankingPoint": 94449985,
+    "BestRankingPointDetail": 94449985.2564546
+  },
+  {
+    "AccountId": 15089944,
+    "Level": 87,
+    "Nickname": "meil",
+    "Tier": 4,
+    "Rank": 403,
+    "BestRankingPoint": 94447632,
+    "BestRankingPointDetail": 94447632.2110703
+  },
+  {
+    "AccountId": 12030793,
+    "Level": 87,
+    "Nickname": "风又音理",
+    "Tier": 4,
+    "Rank": 404,
+    "BestRankingPoint": 94447602,
+    "BestRankingPointDetail": 94447602.2201782
+  },
+  {
+    "AccountId": 13816982,
+    "Level": 87,
+    "Nickname": "兮兮",
+    "Tier": 4,
+    "Rank": 405,
+    "BestRankingPoint": 94446735,
+    "BestRankingPointDetail": 94446735.2414185
+  },
+  {
+    "AccountId": 11660416,
+    "Level": 87,
+    "Nickname": "接天莲叶无穷碧家有野宫药难医",
+    "Tier": 4,
+    "Rank": 406,
+    "BestRankingPoint": 94446688,
+    "BestRankingPointDetail": 94446688.2192141
+  },
+  {
+    "AccountId": 398744,
+    "Level": 87,
+    "Nickname": "Arcueid",
+    "Tier": 4,
+    "Rank": 407,
+    "BestRankingPoint": 94446466,
+    "BestRankingPointDetail": 94446466.2060501
+  },
+  {
+    "AccountId": 8713195,
+    "Level": 87,
+    "Nickname": "桜小路ルナ",
+    "Tier": 4,
+    "Rank": 408,
+    "BestRankingPoint": 94445487,
+    "BestRankingPointDetail": 94445487.2018098
+  },
+  {
+    "AccountId": 8104605,
+    "Level": 87,
+    "Nickname": "阿波",
+    "Tier": 4,
+    "Rank": 409,
+    "BestRankingPoint": 94444963,
+    "BestRankingPointDetail": 94444963.214629
+  },
+  {
+    "AccountId": 107581,
+    "Level": 87,
+    "Nickname": "-x-\"",
+    "Tier": 4,
+    "Rank": 410,
+    "BestRankingPoint": 94444642,
+    "BestRankingPointDetail": 94444642.250473
+  },
+  {
+    "AccountId": 11658326,
+    "Level": 87,
+    "Nickname": "Kevinの暮雪",
+    "Tier": 4,
+    "Rank": 411,
+    "BestRankingPoint": 94444335,
+    "BestRankingPointDetail": 94444335.2366042
+  },
+  {
+    "AccountId": 11001766,
+    "Level": 87,
+    "Nickname": "Martini",
+    "Tier": 4,
+    "Rank": 412,
+    "BestRankingPoint": 94444144,
+    "BestRankingPointDetail": 94444144.2537846
+  },
+  {
+    "AccountId": 11683844,
+    "Level": 87,
+    "Nickname": "熒惑星",
+    "Tier": 4,
+    "Rank": 413,
+    "BestRankingPoint": 94443360,
+    "BestRankingPointDetail": 94443360.218379
+  },
+  {
+    "AccountId": 72720,
+    "Level": 87,
+    "Nickname": "柯基",
+    "Tier": 4,
+    "Rank": 414,
+    "BestRankingPoint": 94443344,
+    "BestRankingPointDetail": 94443344.2314967
+  },
+  {
+    "AccountId": 11563029,
+    "Level": 87,
+    "Nickname": "咸鱼",
+    "Tier": 4,
+    "Rank": 415,
+    "BestRankingPoint": 94443310,
+    "BestRankingPointDetail": 94443310.2109873
+  },
+  {
+    "AccountId": 12782954,
+    "Level": 87,
+    "Nickname": "ASoRe",
+    "Tier": 4,
+    "Rank": 416,
+    "BestRankingPoint": 94443027,
+    "BestRankingPointDetail": 94443027.2540337
+  },
+  {
+    "AccountId": 4755315,
+    "Level": 87,
+    "Nickname": "鐵華團中央",
+    "Tier": 4,
+    "Rank": 417,
+    "BestRankingPoint": 94442495,
+    "BestRankingPointDetail": 94442495.213624
+  },
+  {
+    "AccountId": 9295262,
+    "Level": 87,
+    "Nickname": "又双叒叕子",
+    "Tier": 4,
+    "Rank": 418,
+    "BestRankingPoint": 94440848,
+    "BestRankingPointDetail": 94440848.2291956
+  },
+  {
+    "AccountId": 329574,
+    "Level": 87,
+    "Nickname": "あかば",
+    "Tier": 4,
+    "Rank": 419,
+    "BestRankingPoint": 94440319,
+    "BestRankingPointDetail": 94440319.2114103
+  },
+  {
+    "AccountId": 14499235,
+    "Level": 87,
+    "Nickname": "納奇",
+    "Tier": 4,
+    "Rank": 420,
+    "BestRankingPoint": 94440096,
+    "BestRankingPointDetail": 94440096.2384101
+  },
+  {
+    "AccountId": 13651521,
+    "Level": 87,
+    "Nickname": "循环",
+    "Tier": 4,
+    "Rank": 421,
+    "BestRankingPoint": 94439919,
+    "BestRankingPointDetail": 94439919.2129639
+  },
+  {
+    "AccountId": 13321784,
+    "Level": 87,
+    "Nickname": "バナナ味噌汁",
+    "Tier": 4,
+    "Rank": 422,
+    "BestRankingPoint": 94439615,
+    "BestRankingPointDetail": 94439615.214177
+  },
+  {
+    "AccountId": 11805234,
+    "Level": 87,
+    "Nickname": "月雪宫子",
+    "Tier": 4,
+    "Rank": 423,
+    "BestRankingPoint": 94438974,
+    "BestRankingPointDetail": 94438974.2385933
+  },
+  {
+    "AccountId": 14249724,
+    "Level": 87,
+    "Nickname": "佑树",
+    "Tier": 4,
+    "Rank": 424,
+    "BestRankingPoint": 94438529,
+    "BestRankingPointDetail": 94438529.2294427
+  },
+  {
+    "AccountId": 13617605,
+    "Level": 87,
+    "Nickname": "leepear",
+    "Tier": 4,
+    "Rank": 425,
+    "BestRankingPoint": 94436561,
+    "BestRankingPointDetail": 94436561.2548389
+  },
+  {
+    "AccountId": 8603988,
+    "Level": 87,
+    "Nickname": "超级玛丽享受者",
+    "Tier": 4,
+    "Rank": 426,
+    "BestRankingPoint": 94436417,
+    "BestRankingPointDetail": 94436417.2016372
+  },
+  {
+    "AccountId": 12647202,
+    "Level": 87,
+    "Nickname": "哲学自由人",
+    "Tier": 4,
+    "Rank": 427,
+    "BestRankingPoint": 94435440,
+    "BestRankingPointDetail": 94435440.237534
+  },
+  {
+    "AccountId": 6577441,
+    "Level": 87,
+    "Nickname": "辛☆味☆增",
+    "Tier": 4,
+    "Rank": 428,
+    "BestRankingPoint": 94435312,
+    "BestRankingPointDetail": 94435312.2134233
+  },
+  {
+    "AccountId": 12406500,
+    "Level": 87,
+    "Nickname": "空軍",
+    "Tier": 4,
+    "Rank": 429,
+    "BestRankingPoint": 94435263,
+    "BestRankingPointDetail": 94435263.2214437
+  },
+  {
+    "AccountId": 16480370,
+    "Level": 87,
+    "Nickname": "游戏领域大神",
+    "Tier": 4,
+    "Rank": 430,
+    "BestRankingPoint": 94435023,
+    "BestRankingPointDetail": 94435023.2028721
+  },
+  {
+    "AccountId": 14081307,
+    "Level": 87,
+    "Nickname": "QVAND",
+    "Tier": 4,
+    "Rank": 431,
+    "BestRankingPoint": 94434766,
+    "BestRankingPointDetail": 94434766.2464464
+  },
+  {
+    "AccountId": 7640886,
+    "Level": 87,
+    "Nickname": "andyliuqq",
+    "Tier": 4,
+    "Rank": 432,
+    "BestRankingPoint": 94434334,
+    "BestRankingPointDetail": 94434334.2049594
+  },
+  {
+    "AccountId": 13426123,
+    "Level": 87,
+    "Nickname": "鼠八堇的快乐",
+    "Tier": 4,
+    "Rank": 433,
+    "BestRankingPoint": 94433502,
+    "BestRankingPointDetail": 94433502.2317388
+  },
+  {
+    "AccountId": 14100241,
+    "Level": 87,
+    "Nickname": "Amiho",
+    "Tier": 4,
+    "Rank": 434,
+    "BestRankingPoint": 94433105,
+    "BestRankingPointDetail": 94433105.2026159
+  },
+  {
+    "AccountId": 12848537,
+    "Level": 87,
+    "Nickname": "玉火焚聖",
+    "Tier": 4,
+    "Rank": 435,
+    "BestRankingPoint": 94431360,
+    "BestRankingPointDetail": 94431360.2102074
+  },
+  {
+    "AccountId": 16516116,
+    "Level": 87,
+    "Nickname": "一安王",
+    "Tier": 4,
+    "Rank": 436,
+    "BestRankingPoint": 94431229,
+    "BestRankingPointDetail": 94431229.205591
+  },
+  {
+    "AccountId": 10944434,
+    "Level": 87,
+    "Nickname": "セリナの星燁",
+    "Tier": 4,
+    "Rank": 437,
+    "BestRankingPoint": 94431187,
+    "BestRankingPointDetail": 94431187.2118289
+  },
+  {
+    "AccountId": 5789931,
+    "Level": 87,
+    "Nickname": "今夜偏知春气暖心奈钻我被窝晚",
+    "Tier": 4,
+    "Rank": 438,
+    "BestRankingPoint": 94430722,
+    "BestRankingPointDetail": 94430722.2061807
+  },
+  {
+    "AccountId": 8791833,
+    "Level": 87,
+    "Nickname": "inknoblue",
+    "Tier": 4,
+    "Rank": 439,
+    "BestRankingPoint": 94430432,
+    "BestRankingPointDetail": 94430432.2280797
+  },
+  {
+    "AccountId": 15817520,
+    "Level": 87,
+    "Nickname": "晓晴",
+    "Tier": 4,
+    "Rank": 440,
+    "BestRankingPoint": 94429793,
+    "BestRankingPointDetail": 94429793.2201215
+  },
+  {
+    "AccountId": 11784834,
+    "Level": 87,
+    "Nickname": "Zefa",
+    "Tier": 4,
+    "Rank": 441,
+    "BestRankingPoint": 94429472,
+    "BestRankingPointDetail": 94429472.2498772
+  },
+  {
+    "AccountId": 14975129,
+    "Level": 87,
+    "Nickname": "Kuprin",
+    "Tier": 4,
+    "Rank": 442,
+    "BestRankingPoint": 94429312,
+    "BestRankingPointDetail": 94429312.2302678
+  },
+  {
+    "AccountId": 12770565,
+    "Level": 87,
+    "Nickname": "Leon",
+    "Tier": 4,
+    "Rank": 443,
+    "BestRankingPoint": 94429152,
+    "BestRankingPointDetail": 94429152.2089803
+  },
+  {
+    "AccountId": 4465301,
+    "Level": 87,
+    "Nickname": "pinII",
+    "Tier": 4,
+    "Rank": 444,
+    "BestRankingPoint": 94429056,
+    "BestRankingPointDetail": 94429056.2115216
+  },
+  {
+    "AccountId": 2507828,
+    "Level": 87,
+    "Nickname": "Megumin",
+    "Tier": 4,
+    "Rank": 445,
+    "BestRankingPoint": 94428783,
+    "BestRankingPointDetail": 94428783.2237976
+  },
+  {
+    "AccountId": 12063397,
+    "Level": 87,
+    "Nickname": "黑白不单调",
+    "Tier": 4,
+    "Rank": 446,
+    "BestRankingPoint": 94427601,
+    "BestRankingPointDetail": 94427601.2080825
+  },
+  {
+    "AccountId": 10744725,
+    "Level": 87,
+    "Nickname": "琴",
+    "Tier": 4,
+    "Rank": 447,
+    "BestRankingPoint": 94427600,
+    "BestRankingPointDetail": 94427600.2463946
+  },
+  {
+    "AccountId": 8321540,
+    "Level": 87,
+    "Nickname": "仁焉",
+    "Tier": 4,
+    "Rank": 448,
+    "BestRankingPoint": 94426800,
+    "BestRankingPointDetail": 94426800.2378142
+  },
+  {
+    "AccountId": 12731910,
+    "Level": 87,
+    "Nickname": "嘈嘈切切错杂弹星野玉足手里盘",
+    "Tier": 4,
+    "Rank": 449,
+    "BestRankingPoint": 94426784,
+    "BestRankingPointDetail": 94426784.2232202
+  },
+  {
+    "AccountId": 10546617,
+    "Level": 87,
+    "Nickname": "七夜",
+    "Tier": 4,
+    "Rank": 450,
+    "BestRankingPoint": 94425503,
+    "BestRankingPointDetail": 94425503.2243031
+  },
+  {
+    "AccountId": 12950515,
+    "Level": 87,
+    "Nickname": "杂鱼～❤️杂鱼～❤️",
+    "Tier": 4,
+    "Rank": 451,
+    "BestRankingPoint": 94423679,
+    "BestRankingPointDetail": 94423679.2224681
+  },
+  {
+    "AccountId": 12742525,
+    "Level": 87,
+    "Nickname": "iicvia",
+    "Tier": 4,
+    "Rank": 452,
+    "BestRankingPoint": 94421857,
+    "BestRankingPointDetail": 94421857.2253663
+  },
+  {
+    "AccountId": 13895188,
+    "Level": 87,
+    "Nickname": "小林音遊",
+    "Tier": 4,
+    "Rank": 453,
+    "BestRankingPoint": 94421408,
+    "BestRankingPointDetail": 94421408.2364007
+  },
+  {
+    "AccountId": 6634220,
+    "Level": 87,
+    "Nickname": "焚風",
+    "Tier": 4,
+    "Rank": 454,
+    "BestRankingPoint": 94421232,
+    "BestRankingPointDetail": 94421232.2350299
+  },
+  {
+    "AccountId": 8497938,
+    "Level": 87,
+    "Nickname": "Azure",
+    "Tier": 4,
+    "Rank": 455,
+    "BestRankingPoint": 94421106,
+    "BestRankingPointDetail": 94421106.2125044
+  },
+  {
+    "AccountId": 13767916,
+    "Level": 87,
+    "Nickname": "娜娜",
+    "Tier": 4,
+    "Rank": 456,
+    "BestRankingPoint": 94420385,
+    "BestRankingPointDetail": 94420385.2113523
+  },
+  {
+    "AccountId": 13522674,
+    "Level": 87,
+    "Nickname": "白峰雪野",
+    "Tier": 4,
+    "Rank": 457,
+    "BestRankingPoint": 94420254,
+    "BestRankingPointDetail": 94420254.2411022
+  },
+  {
+    "AccountId": 12961987,
+    "Level": 87,
+    "Nickname": "波奇",
+    "Tier": 4,
+    "Rank": 458,
+    "BestRankingPoint": 94418897,
+    "BestRankingPointDetail": 94418897.2287921
+  },
+  {
+    "AccountId": 9118739,
+    "Level": 87,
+    "Nickname": "Van·Darkride",
+    "Tier": 4,
+    "Rank": 459,
+    "BestRankingPoint": 94418177,
+    "BestRankingPointDetail": 94418177.2033165
+  },
+  {
+    "AccountId": 12363562,
+    "Level": 87,
+    "Nickname": "DuAn",
+    "Tier": 4,
+    "Rank": 460,
+    "BestRankingPoint": 94417165,
+    "BestRankingPointDetail": 94417165.2213877
+  },
+  {
+    "AccountId": 6873052,
+    "Level": 87,
+    "Nickname": "陰間運氣",
+    "Tier": 4,
+    "Rank": 461,
+    "BestRankingPoint": 94416989,
+    "BestRankingPointDetail": 94416989.2158159
+  },
+  {
+    "AccountId": 9218641,
+    "Level": 87,
+    "Nickname": "w",
+    "Tier": 4,
+    "Rank": 462,
+    "BestRankingPoint": 94416626,
+    "BestRankingPointDetail": 94416626.2108397
+  },
+  {
+    "AccountId": 14681313,
+    "Level": 87,
+    "Nickname": "MIui",
+    "Tier": 4,
+    "Rank": 463,
+    "BestRankingPoint": 94416225,
+    "BestRankingPointDetail": 94416225.2199517
+  },
+  {
+    "AccountId": 14531916,
+    "Level": 87,
+    "Nickname": "Feline",
+    "Tier": 4,
+    "Rank": 464,
+    "BestRankingPoint": 94415827,
+    "BestRankingPointDetail": 94415827.2322536
+  },
+  {
+    "AccountId": 16435002,
+    "Level": 87,
+    "Nickname": "Unicorn汐音",
+    "Tier": 4,
+    "Rank": 465,
+    "BestRankingPoint": 94415760,
+    "BestRankingPointDetail": 94415760.2203877
+  },
+  {
+    "AccountId": 8664463,
+    "Level": 87,
+    "Nickname": "nagisa单推人",
+    "Tier": 4,
+    "Rank": 466,
+    "BestRankingPoint": 94415441,
+    "BestRankingPointDetail": 94415441.2575577
+  },
+  {
+    "AccountId": 8473133,
+    "Level": 87,
+    "Nickname": "Seia",
+    "Tier": 4,
+    "Rank": 467,
+    "BestRankingPoint": 94415328,
+    "BestRankingPointDetail": 94415328.2015365
+  },
+  {
+    "AccountId": 12828135,
+    "Level": 87,
+    "Nickname": "公羽寒",
+    "Tier": 4,
+    "Rank": 468,
+    "BestRankingPoint": 94413826,
+    "BestRankingPointDetail": 94413826.2021644
+  },
+  {
+    "AccountId": 11805132,
+    "Level": 87,
+    "Nickname": "佐仓杏子沙耶加",
+    "Tier": 4,
+    "Rank": 469,
+    "BestRankingPoint": 94413071,
+    "BestRankingPointDetail": 94413071.2146062
+  },
+  {
+    "AccountId": 14043977,
+    "Level": 87,
+    "Nickname": "玄不救非，氪不改命",
+    "Tier": 4,
+    "Rank": 470,
+    "BestRankingPoint": 94412561,
+    "BestRankingPointDetail": 94412561.2118028
+  },
+  {
+    "AccountId": 8501701,
+    "Level": 87,
+    "Nickname": "キララ",
+    "Tier": 4,
+    "Rank": 471,
+    "BestRankingPoint": 94411664,
+    "BestRankingPointDetail": 94411664.2297699
+  },
+  {
+    "AccountId": 8500134,
+    "Level": 87,
+    "Nickname": "风",
+    "Tier": 4,
+    "Rank": 472,
+    "BestRankingPoint": 94410768,
+    "BestRankingPointDetail": 94410768.2026345
+  },
+  {
+    "AccountId": 10531561,
+    "Level": 87,
+    "Nickname": "Arisu",
+    "Tier": 4,
+    "Rank": 473,
+    "BestRankingPoint": 94410607,
+    "BestRankingPointDetail": 94410607.2063121
+  },
+  {
+    "AccountId": 10947943,
+    "Level": 87,
+    "Nickname": "furuunya",
+    "Tier": 4,
+    "Rank": 474,
+    "BestRankingPoint": 94410368,
+    "BestRankingPointDetail": 94410368.2014296
+  },
+  {
+    "AccountId": 16228248,
+    "Level": 87,
+    "Nickname": "Pao",
+    "Tier": 4,
+    "Rank": 475,
+    "BestRankingPoint": 94409456,
+    "BestRankingPointDetail": 94409456.2330342
+  },
+  {
+    "AccountId": 12295216,
+    "Level": 87,
+    "Nickname": "逍遥",
+    "Tier": 4,
+    "Rank": 476,
+    "BestRankingPoint": 94408767,
+    "BestRankingPointDetail": 94408767.2046884
+  },
+  {
+    "AccountId": 11067080,
+    "Level": 87,
+    "Nickname": "單身狸貓",
+    "Tier": 4,
+    "Rank": 477,
+    "BestRankingPoint": 94408738,
+    "BestRankingPointDetail": 94408738.2333533
+  },
+  {
+    "AccountId": 8048854,
+    "Level": 87,
+    "Nickname": "无语Sora",
+    "Tier": 4,
+    "Rank": 478,
+    "BestRankingPoint": 94407584,
+    "BestRankingPointDetail": 94407584.2403344
+  },
+  {
+    "AccountId": 10571816,
+    "Level": 87,
+    "Nickname": "老友老油老游",
+    "Tier": 4,
+    "Rank": 479,
+    "BestRankingPoint": 94406866,
+    "BestRankingPointDetail": 94406866.2332582
+  },
+  {
+    "AccountId": 12968913,
+    "Level": 87,
+    "Nickname": "123",
+    "Tier": 4,
+    "Rank": 480,
+    "BestRankingPoint": 94406239,
+    "BestRankingPointDetail": 94406239.2111513
+  },
+  {
+    "AccountId": 6500195,
+    "Level": 87,
+    "Nickname": "Echo",
+    "Tier": 4,
+    "Rank": 481,
+    "BestRankingPoint": 94406098,
+    "BestRankingPointDetail": 94406098.2563776
+  },
+  {
+    "AccountId": 8245040,
+    "Level": 87,
+    "Nickname": "花火",
+    "Tier": 4,
+    "Rank": 482,
+    "BestRankingPoint": 94405201,
+    "BestRankingPointDetail": 94405201.2199416
+  },
+  {
+    "AccountId": 13051992,
+    "Level": 87,
+    "Nickname": "苇莺",
+    "Tier": 4,
+    "Rank": 483,
+    "BestRankingPoint": 94405134,
+    "BestRankingPointDetail": 94405134.2137531
+  },
+  {
+    "AccountId": 16184912,
+    "Level": 87,
+    "Nickname": "字典",
+    "Tier": 4,
+    "Rank": 484,
+    "BestRankingPoint": 94405006,
+    "BestRankingPointDetail": 94405006.2227812
+  },
+  {
+    "AccountId": 14356269,
+    "Level": 87,
+    "Nickname": "努估誰唷",
+    "Tier": 4,
+    "Rank": 485,
+    "BestRankingPoint": 94403394,
+    "BestRankingPointDetail": 94403394.238192
+  },
+  {
+    "AccountId": 7705461,
+    "Level": 87,
+    "Nickname": "FCYM",
+    "Tier": 4,
+    "Rank": 486,
+    "BestRankingPoint": 94402575,
+    "BestRankingPointDetail": 94402575.2124771
+  },
+  {
+    "AccountId": 14425871,
+    "Level": 87,
+    "Nickname": "Cagura",
+    "Tier": 4,
+    "Rank": 487,
+    "BestRankingPoint": 94401821,
+    "BestRankingPointDetail": 94401821.2127865
+  },
+  {
+    "AccountId": 12575385,
+    "Level": 87,
+    "Nickname": "暗光",
+    "Tier": 4,
+    "Rank": 488,
+    "BestRankingPoint": 94401663,
+    "BestRankingPointDetail": 94401663.2281053
+  },
+  {
+    "AccountId": 11937373,
+    "Level": 87,
+    "Nickname": "冷泉院",
+    "Tier": 4,
+    "Rank": 489,
+    "BestRankingPoint": 94401633,
+    "BestRankingPointDetail": 94401633.213421
+  },
+  {
+    "AccountId": 125328,
+    "Level": 87,
+    "Nickname": "abdisun",
+    "Tier": 4,
+    "Rank": 490,
+    "BestRankingPoint": 94401617,
+    "BestRankingPointDetail": 94401617.2117133
+  },
+  {
+    "AccountId": 10785751,
+    "Level": 87,
+    "Nickname": "沐如風",
+    "Tier": 4,
+    "Rank": 491,
+    "BestRankingPoint": 94400961,
+    "BestRankingPointDetail": 94400961.2527091
+  },
+  {
+    "AccountId": 12669078,
+    "Level": 87,
+    "Nickname": "默神教徒叁号",
+    "Tier": 4,
+    "Rank": 492,
+    "BestRankingPoint": 94400335,
+    "BestRankingPointDetail": 94400335.2462638
+  },
+  {
+    "AccountId": 10744630,
+    "Level": 87,
+    "Nickname": "大脸脸脸脸",
+    "Tier": 4,
+    "Rank": 493,
+    "BestRankingPoint": 94399827,
+    "BestRankingPointDetail": 94399827.2194458
+  },
+  {
+    "AccountId": 166947,
+    "Level": 87,
+    "Nickname": "天若离歌",
+    "Tier": 4,
+    "Rank": 494,
+    "BestRankingPoint": 94399745,
+    "BestRankingPointDetail": 94399745.2030646
+  },
+  {
+    "AccountId": 8551915,
+    "Level": 87,
+    "Nickname": "遊戲真棒",
+    "Tier": 4,
+    "Rank": 495,
+    "BestRankingPoint": 94399422,
+    "BestRankingPointDetail": 94399422.2045474
+  },
+  {
+    "AccountId": 11999722,
+    "Level": 87,
+    "Nickname": "流雨星夜",
+    "Tier": 4,
+    "Rank": 496,
+    "BestRankingPoint": 94398992,
+    "BestRankingPointDetail": 94398992.2207322
+  },
+  {
+    "AccountId": 11774303,
+    "Level": 87,
+    "Nickname": "Kagami",
+    "Tier": 4,
+    "Rank": 497,
+    "BestRankingPoint": 94397518,
+    "BestRankingPointDetail": 94397518.2474266
+  },
+  {
+    "AccountId": 6482144,
+    "Level": 87,
+    "Nickname": "月雪ミヤコ的狗",
+    "Tier": 4,
+    "Rank": 498,
+    "BestRankingPoint": 94397328,
+    "BestRankingPointDetail": 94397328.2015696
+  },
+  {
+    "AccountId": 12385493,
+    "Level": 87,
+    "Nickname": "守护姚姚公主1万辈子",
+    "Tier": 4,
+    "Rank": 499,
+    "BestRankingPoint": 94397247,
+    "BestRankingPointDetail": 94397247.2111179
+  },
+  {
+    "AccountId": 802653,
+    "Level": 87,
+    "Nickname": "停車坐愛楓林晚羽留奈在車上喘",
+    "Tier": 4,
+    "Rank": 500,
+    "BestRankingPoint": 94397199,
+    "BestRankingPointDetail": 94397199.2290905
+  },
+  {
+    "AccountId": 739205,
+    "Level": 87,
+    "Nickname": "시로카미",
+    "Tier": 4,
+    "Rank": 501,
+    "BestRankingPoint": 94396801,
+    "BestRankingPointDetail": 94396801.2018031
+  },
+  {
+    "AccountId": 12346821,
+    "Level": 87,
+    "Nickname": "抜刀",
+    "Tier": 4,
+    "Rank": 502,
+    "BestRankingPoint": 94395759,
+    "BestRankingPointDetail": 94395759.2334069
+  },
+  {
+    "AccountId": 171068,
+    "Level": 87,
+    "Nickname": "紹華",
+    "Tier": 4,
+    "Rank": 503,
+    "BestRankingPoint": 94395475,
+    "BestRankingPointDetail": 94395475.2024363
+  },
+  {
+    "AccountId": 12386594,
+    "Level": 87,
+    "Nickname": "五羊",
+    "Tier": 4,
+    "Rank": 504,
+    "BestRankingPoint": 94393950,
+    "BestRankingPointDetail": 94393950.2047941
+  },
+  {
+    "AccountId": 11476024,
+    "Level": 87,
+    "Nickname": "指星落玄隼，目野尽荒原",
+    "Tier": 4,
+    "Rank": 505,
+    "BestRankingPoint": 94393919,
+    "BestRankingPointDetail": 94393919.2102188
+  },
+  {
+    "AccountId": 8986545,
+    "Level": 87,
+    "Nickname": "Limbo_Vek",
+    "Tier": 4,
+    "Rank": 506,
+    "BestRankingPoint": 94393200,
+    "BestRankingPointDetail": 94393200.2133238
+  },
+  {
+    "AccountId": 345199,
+    "Level": 87,
+    "Nickname": "elfin",
+    "Tier": 4,
+    "Rank": 507,
+    "BestRankingPoint": 94392804,
+    "BestRankingPointDetail": 94392804.2197245
+  },
+  {
+    "AccountId": 8049813,
+    "Level": 87,
+    "Nickname": "雪乃",
+    "Tier": 4,
+    "Rank": 508,
+    "BestRankingPoint": 94392543,
+    "BestRankingPointDetail": 94392543.2381051
+  },
+  {
+    "AccountId": 13430252,
+    "Level": 87,
+    "Nickname": "k",
+    "Tier": 4,
+    "Rank": 509,
+    "BestRankingPoint": 94392082,
+    "BestRankingPointDetail": 94392082.2409092
+  },
+  {
+    "AccountId": 13743406,
+    "Level": 87,
+    "Nickname": "歐藤",
+    "Tier": 4,
+    "Rank": 510,
+    "BestRankingPoint": 94391535,
+    "BestRankingPointDetail": 94391535.2178072
+  },
+  {
+    "AccountId": 494201,
+    "Level": 87,
+    "Nickname": "蔚藍檔案是個堅韌不拔的紀錄片",
+    "Tier": 4,
+    "Rank": 511,
+    "BestRankingPoint": 94390926,
+    "BestRankingPointDetail": 94390926.2277318
+  },
+  {
+    "AccountId": 12607968,
+    "Level": 87,
+    "Nickname": "Beta",
+    "Tier": 4,
+    "Rank": 512,
+    "BestRankingPoint": 94390896,
+    "BestRankingPointDetail": 94390896.2559491
+  },
+  {
+    "AccountId": 12907309,
+    "Level": 87,
+    "Nickname": "很酷，不暴擊",
+    "Tier": 4,
+    "Rank": 513,
+    "BestRankingPoint": 94390752,
+    "BestRankingPointDetail": 94390752.2384527
+  },
+  {
+    "AccountId": 700998,
+    "Level": 87,
+    "Nickname": "Mikami",
+    "Tier": 4,
+    "Rank": 514,
+    "BestRankingPoint": 94389807,
+    "BestRankingPointDetail": 94389807.2512289
+  },
+  {
+    "AccountId": 15648288,
+    "Level": 87,
+    "Nickname": "泽川",
+    "Tier": 4,
+    "Rank": 515,
+    "BestRankingPoint": 94389264,
+    "BestRankingPointDetail": 94389264.2572666
+  },
+  {
+    "AccountId": 12260183,
+    "Level": 87,
+    "Nickname": "楓",
+    "Tier": 4,
+    "Rank": 516,
+    "BestRankingPoint": 94389217,
+    "BestRankingPointDetail": 94389217.240612
+  },
+  {
+    "AccountId": 12375896,
+    "Level": 87,
+    "Nickname": "烂泥",
+    "Tier": 4,
+    "Rank": 517,
+    "BestRankingPoint": 94388879,
+    "BestRankingPointDetail": 94388879.2030444
+  },
+  {
+    "AccountId": 13060984,
+    "Level": 87,
+    "Nickname": "遇到困难摆大烂",
+    "Tier": 4,
+    "Rank": 518,
+    "BestRankingPoint": 94388845,
+    "BestRankingPointDetail": 94388845.2539374
+  },
+  {
+    "AccountId": 12491171,
+    "Level": 87,
+    "Nickname": "恋愛脳",
+    "Tier": 4,
+    "Rank": 519,
+    "BestRankingPoint": 94387618,
+    "BestRankingPointDetail": 94387618.2573276
+  },
+  {
+    "AccountId": 16072971,
+    "Level": 87,
+    "Nickname": "秋",
+    "Tier": 4,
+    "Rank": 520,
+    "BestRankingPoint": 94386831,
+    "BestRankingPointDetail": 94386831.2214761
+  },
+  {
+    "AccountId": 15081828,
+    "Level": 87,
+    "Nickname": "ツフィナー",
+    "Tier": 4,
+    "Rank": 521,
+    "BestRankingPoint": 94386448,
+    "BestRankingPointDetail": 94386448.2054156
+  },
+  {
+    "AccountId": 338641,
+    "Level": 87,
+    "Nickname": "星群映氵",
+    "Tier": 4,
+    "Rank": 522,
+    "BestRankingPoint": 94386317,
+    "BestRankingPointDetail": 94386317.2459707
+  },
+  {
+    "AccountId": 8639959,
+    "Level": 87,
+    "Nickname": "抒情歌鸲",
+    "Tier": 4,
+    "Rank": 523,
+    "BestRankingPoint": 94386146,
+    "BestRankingPointDetail": 94386146.2567594
+  },
+  {
+    "AccountId": 12850621,
+    "Level": 87,
+    "Nickname": "Menreiki",
+    "Tier": 4,
+    "Rank": 524,
+    "BestRankingPoint": 94385138,
+    "BestRankingPointDetail": 94385138.2478736
+  },
+  {
+    "AccountId": 14013322,
+    "Level": 87,
+    "Nickname": "age(ユウカ)",
+    "Tier": 4,
+    "Rank": 525,
+    "BestRankingPoint": 94383778,
+    "BestRankingPointDetail": 94383778.2142955
+  },
+  {
+    "AccountId": 13050422,
+    "Level": 87,
+    "Nickname": "藍",
+    "Tier": 4,
+    "Rank": 526,
+    "BestRankingPoint": 94383778,
+    "BestRankingPointDetail": 94383778.206281
+  },
+  {
+    "AccountId": 13839450,
+    "Level": 87,
+    "Nickname": "yoziming",
+    "Tier": 4,
+    "Rank": 527,
+    "BestRankingPoint": 94383168,
+    "BestRankingPointDetail": 94383168.2222089
+  },
+  {
+    "AccountId": 12624180,
+    "Level": 87,
+    "Nickname": "Sky",
+    "Tier": 4,
+    "Rank": 528,
+    "BestRankingPoint": 94382577,
+    "BestRankingPointDetail": 94382577.2033259
+  },
+  {
+    "AccountId": 12558545,
+    "Level": 87,
+    "Nickname": "叶自修",
+    "Tier": 4,
+    "Rank": 529,
+    "BestRankingPoint": 94382146,
+    "BestRankingPointDetail": 94382146.2285603
+  },
+  {
+    "AccountId": 8073923,
+    "Level": 87,
+    "Nickname": "四夕丸子",
+    "Tier": 4,
+    "Rank": 530,
+    "BestRankingPoint": 94381904,
+    "BestRankingPointDetail": 94381904.2291956
+  },
+  {
+    "AccountId": 1476674,
+    "Level": 87,
+    "Nickname": "柔薰",
+    "Tier": 4,
+    "Rank": 531,
+    "BestRankingPoint": 94381729,
+    "BestRankingPointDetail": 94381729.2082735
+  },
+  {
+    "AccountId": 14791627,
+    "Level": 87,
+    "Nickname": "JIE",
+    "Tier": 4,
+    "Rank": 532,
+    "BestRankingPoint": 94381551,
+    "BestRankingPointDetail": 94381551.2193557
+  },
+  {
+    "AccountId": 381423,
+    "Level": 87,
+    "Nickname": "帥軒",
+    "Tier": 4,
+    "Rank": 533,
+    "BestRankingPoint": 94380687,
+    "BestRankingPointDetail": 94380687.2464788
+  },
+  {
+    "AccountId": 1566647,
+    "Level": 87,
+    "Nickname": "Native",
+    "Tier": 4,
+    "Rank": 534,
+    "BestRankingPoint": 94379921,
+    "BestRankingPointDetail": 94379921.2109923
+  },
+  {
+    "AccountId": 13078955,
+    "Level": 87,
+    "Nickname": "Chris",
+    "Tier": 4,
+    "Rank": 535,
+    "BestRankingPoint": 94379761,
+    "BestRankingPointDetail": 94379761.2150536
+  },
+  {
+    "AccountId": 14696789,
+    "Level": 87,
+    "Nickname": "安泽",
+    "Tier": 4,
+    "Rank": 536,
+    "BestRankingPoint": 94379759,
+    "BestRankingPointDetail": 94379759.2396889
+  },
+  {
+    "AccountId": 12204516,
+    "Level": 87,
+    "Nickname": "熊頭人",
+    "Tier": 4,
+    "Rank": 537,
+    "BestRankingPoint": 94379759,
+    "BestRankingPointDetail": 94379759.2107686
+  },
+  {
+    "AccountId": 3877543,
+    "Level": 87,
+    "Nickname": "雀士",
+    "Tier": 4,
+    "Rank": 538,
+    "BestRankingPoint": 94379633,
+    "BestRankingPointDetail": 94379633.2126372
+  },
+  {
+    "AccountId": 13799673,
+    "Level": 87,
+    "Nickname": "Domain",
+    "Tier": 4,
+    "Rank": 539,
+    "BestRankingPoint": 94379088,
+    "BestRankingPointDetail": 94379088.2565486
+  },
+  {
+    "AccountId": 15757102,
+    "Level": 87,
+    "Nickname": "在原七海",
+    "Tier": 4,
+    "Rank": 540,
+    "BestRankingPoint": 94378799,
+    "BestRankingPointDetail": 94378799.2217416
+  },
+  {
+    "AccountId": 12974550,
+    "Level": 87,
+    "Nickname": "兔兔OuO",
+    "Tier": 4,
+    "Rank": 541,
+    "BestRankingPoint": 94378688,
+    "BestRankingPointDetail": 94378688.2201088
+  },
+  {
+    "AccountId": 13232527,
+    "Level": 87,
+    "Nickname": "一只时雨貂i",
+    "Tier": 4,
+    "Rank": 542,
+    "BestRankingPoint": 94378624,
+    "BestRankingPointDetail": 94378624.2019851
+  },
+  {
+    "AccountId": 10911159,
+    "Level": 87,
+    "Nickname": "明",
+    "Tier": 4,
+    "Rank": 543,
+    "BestRankingPoint": 94377872,
+    "BestRankingPointDetail": 94377872.2380892
+  },
+  {
+    "AccountId": 12407613,
+    "Level": 87,
+    "Nickname": "Griffin",
+    "Tier": 4,
+    "Rank": 544,
+    "BestRankingPoint": 94377761,
+    "BestRankingPointDetail": 94377761.2386095
+  },
+  {
+    "AccountId": 15157634,
+    "Level": 87,
+    "Nickname": "Rex",
+    "Tier": 4,
+    "Rank": 545,
+    "BestRankingPoint": 94377039,
+    "BestRankingPointDetail": 94377039.2550498
+  },
+  {
+    "AccountId": 10682478,
+    "Level": 87,
+    "Nickname": "liyky",
+    "Tier": 4,
+    "Rank": 546,
+    "BestRankingPoint": 94375501,
+    "BestRankingPointDetail": 94375501.2067363
+  },
+  {
+    "AccountId": 12054799,
+    "Level": 87,
+    "Nickname": "violet",
+    "Tier": 4,
+    "Rank": 547,
+    "BestRankingPoint": 94372990,
+    "BestRankingPointDetail": 94372990.2140419
+  },
+  {
+    "AccountId": 126193,
+    "Level": 87,
+    "Nickname": "匿影",
+    "Tier": 4,
+    "Rank": 548,
+    "BestRankingPoint": 94372738,
+    "BestRankingPointDetail": 94372738.2027905
+  },
+  {
+    "AccountId": 2449979,
+    "Level": 87,
+    "Nickname": "ChisaTaki",
+    "Tier": 4,
+    "Rank": 549,
+    "BestRankingPoint": 94372079,
+    "BestRankingPointDetail": 94372079.2045676
+  },
+  {
+    "AccountId": 11652790,
+    "Level": 87,
+    "Nickname": "nZ",
+    "Tier": 4,
+    "Rank": 550,
+    "BestRankingPoint": 94371489,
+    "BestRankingPointDetail": 94371489.2127517
+  },
+  {
+    "AccountId": 14799565,
+    "Level": 87,
+    "Nickname": "stubborn",
+    "Tier": 4,
+    "Rank": 551,
+    "BestRankingPoint": 94371297,
+    "BestRankingPointDetail": 94371297.2547819
+  },
+  {
+    "AccountId": 3282064,
+    "Level": 87,
+    "Nickname": "kita",
+    "Tier": 4,
+    "Rank": 552,
+    "BestRankingPoint": 94370976,
+    "BestRankingPointDetail": 94370976.2146403
+  },
+  {
+    "AccountId": 4046806,
+    "Level": 87,
+    "Nickname": "agent47",
+    "Tier": 4,
+    "Rank": 553,
+    "BestRankingPoint": 94370095,
+    "BestRankingPointDetail": 94370095.2130926
+  },
+  {
+    "AccountId": 567764,
+    "Level": 87,
+    "Nickname": "小學生博士",
+    "Tier": 4,
+    "Rank": 554,
+    "BestRankingPoint": 94369007,
+    "BestRankingPointDetail": 94369007.2242596
+  },
+  {
+    "AccountId": 10651987,
+    "Level": 87,
+    "Nickname": "綜合酸汁糖果",
+    "Tier": 4,
+    "Rank": 555,
+    "BestRankingPoint": 94367680,
+    "BestRankingPointDetail": 94367680.2312487
+  },
+  {
+    "AccountId": 12273204,
+    "Level": 87,
+    "Nickname": "布里",
+    "Tier": 4,
+    "Rank": 556,
+    "BestRankingPoint": 94366750,
+    "BestRankingPointDetail": 94366750.2484503
+  },
+  {
+    "AccountId": 606026,
+    "Level": 87,
+    "Nickname": "飄雪凌風",
+    "Tier": 4,
+    "Rank": 557,
+    "BestRankingPoint": 94366674,
+    "BestRankingPointDetail": 94366674.2215176
+  },
+  {
+    "AccountId": 9789005,
+    "Level": 87,
+    "Nickname": "厨娘厨娘厨",
+    "Tier": 4,
+    "Rank": 558,
+    "BestRankingPoint": 94366644,
+    "BestRankingPointDetail": 94366644.2373327
+  },
+  {
+    "AccountId": 14502544,
+    "Level": 87,
+    "Nickname": "单通道图",
+    "Tier": 4,
+    "Rank": 559,
+    "BestRankingPoint": 94366032,
+    "BestRankingPointDetail": 94366032.2465596
+  },
+  {
+    "AccountId": 12385023,
+    "Level": 87,
+    "Nickname": "敘詩憾",
+    "Tier": 4,
+    "Rank": 560,
+    "BestRankingPoint": 94365582,
+    "BestRankingPointDetail": 94365582.2233541
+  },
+  {
+    "AccountId": 1788437,
+    "Level": 87,
+    "Nickname": "MANiA",
+    "Tier": 4,
+    "Rank": 561,
+    "BestRankingPoint": 94365488,
+    "BestRankingPointDetail": 94365488.2520286
+  },
+  {
+    "AccountId": 12879231,
+    "Level": 87,
+    "Nickname": "Huang_tang",
+    "Tier": 4,
+    "Rank": 562,
+    "BestRankingPoint": 94364751,
+    "BestRankingPointDetail": 94364751.2309345
+  },
+  {
+    "AccountId": 8537194,
+    "Level": 87,
+    "Nickname": "Mikalily",
+    "Tier": 4,
+    "Rank": 563,
+    "BestRankingPoint": 94364593,
+    "BestRankingPointDetail": 94364593.2128685
+  },
+  {
+    "AccountId": 12113163,
+    "Level": 87,
+    "Nickname": "竹游人",
+    "Tier": 4,
+    "Rank": 564,
+    "BestRankingPoint": 94363552,
+    "BestRankingPointDetail": 94363552.20344
+  },
+  {
+    "AccountId": 12992790,
+    "Level": 87,
+    "Nickname": "唯爱",
+    "Tier": 4,
+    "Rank": 565,
+    "BestRankingPoint": 94363489,
+    "BestRankingPointDetail": 94363489.2035694
+  },
+  {
+    "AccountId": 13628795,
+    "Level": 87,
+    "Nickname": "火之意志继承者",
+    "Tier": 4,
+    "Rank": 566,
+    "BestRankingPoint": 94362911,
+    "BestRankingPointDetail": 94362911.222394
+  },
+  {
+    "AccountId": 7622648,
+    "Level": 87,
+    "Nickname": "噗噗个噗",
+    "Tier": 4,
+    "Rank": 567,
+    "BestRankingPoint": 94362862,
+    "BestRankingPointDetail": 94362862.2410886
+  },
+  {
+    "AccountId": 8039941,
+    "Level": 87,
+    "Nickname": "bglsd",
+    "Tier": 4,
+    "Rank": 568,
+    "BestRankingPoint": 94362464,
+    "BestRankingPointDetail": 94362464.2113193
+  },
+  {
+    "AccountId": 5096655,
+    "Level": 87,
+    "Nickname": "風花雪月",
+    "Tier": 4,
+    "Rank": 569,
+    "BestRankingPoint": 94361648,
+    "BestRankingPointDetail": 94361648.2310388
+  },
+  {
+    "AccountId": 14521440,
+    "Level": 87,
+    "Nickname": "为九而琉",
+    "Tier": 4,
+    "Rank": 570,
+    "BestRankingPoint": 94361648,
+    "BestRankingPointDetail": 94361648.2215569
+  },
+  {
+    "AccountId": 580611,
+    "Level": 87,
+    "Nickname": "Leonid_小梓有夠可愛",
+    "Tier": 4,
+    "Rank": 571,
+    "BestRankingPoint": 94361343,
+    "BestRankingPointDetail": 94361343.2561756
+  },
+  {
+    "AccountId": 13689428,
+    "Level": 87,
+    "Nickname": "Leric51",
+    "Tier": 4,
+    "Rank": 572,
+    "BestRankingPoint": 94360368,
+    "BestRankingPointDetail": 94360368.201813
+  },
+  {
+    "AccountId": 14256417,
+    "Level": 87,
+    "Nickname": "Restt",
+    "Tier": 4,
+    "Rank": 573,
+    "BestRankingPoint": 94360080,
+    "BestRankingPointDetail": 94360080.2542045
+  },
+  {
+    "AccountId": 12428602,
+    "Level": 87,
+    "Nickname": "星落みはく",
+    "Tier": 4,
+    "Rank": 574,
+    "BestRankingPoint": 94359408,
+    "BestRankingPointDetail": 94359408.2234438
+  },
+  {
+    "AccountId": 13526196,
+    "Level": 87,
+    "Nickname": "Haxilo(給大佬爆金幣)",
+    "Tier": 4,
+    "Rank": 575,
+    "BestRankingPoint": 94358526,
+    "BestRankingPointDetail": 94358526.2487949
+  },
+  {
+    "AccountId": 12596771,
+    "Level": 87,
+    "Nickname": "鞠",
+    "Tier": 4,
+    "Rank": 576,
+    "BestRankingPoint": 94353565,
+    "BestRankingPointDetail": 94353565.2370419
+  },
+  {
+    "AccountId": 13071321,
+    "Level": 87,
+    "Nickname": "夏头男",
+    "Tier": 4,
+    "Rank": 577,
+    "BestRankingPoint": 94352912,
+    "BestRankingPointDetail": 94352912.2480263
+  },
+  {
+    "AccountId": 1348289,
+    "Level": 87,
+    "Nickname": "KAii",
+    "Tier": 4,
+    "Rank": 578,
+    "BestRankingPoint": 94352430,
+    "BestRankingPointDetail": 94352430.2177616
+  },
+  {
+    "AccountId": 13194632,
+    "Level": 87,
+    "Nickname": "de3BDJMH",
+    "Tier": 4,
+    "Rank": 579,
+    "BestRankingPoint": 94352382,
+    "BestRankingPointDetail": 94352382.2469916
+  },
+  {
+    "AccountId": 13930148,
+    "Level": 87,
+    "Nickname": "Zarsh",
+    "Tier": 4,
+    "Rank": 580,
+    "BestRankingPoint": 94352302,
+    "BestRankingPointDetail": 94352302.2017009
+  },
+  {
+    "AccountId": 10688523,
+    "Level": 87,
+    "Nickname": "絹旗最愛",
+    "Tier": 4,
+    "Rank": 581,
+    "BestRankingPoint": 94351551,
+    "BestRankingPointDetail": 94351551.2207348
+  },
+  {
+    "AccountId": 10897704,
+    "Level": 87,
+    "Nickname": "佑米子",
+    "Tier": 4,
+    "Rank": 582,
+    "BestRankingPoint": 94350321,
+    "BestRankingPointDetail": 94350321.253415
+  },
+  {
+    "AccountId": 11090921,
+    "Level": 87,
+    "Nickname": "金屋妆成娇侍夜狂嗦若藻小菊茓",
+    "Tier": 4,
+    "Rank": 583,
+    "BestRankingPoint": 94350288,
+    "BestRankingPointDetail": 94350288.214668
+  },
+  {
+    "AccountId": 3467849,
+    "Level": 87,
+    "Nickname": "ak",
+    "Tier": 4,
+    "Rank": 584,
+    "BestRankingPoint": 94349950,
+    "BestRankingPointDetail": 94349950.2475513
+  },
+  {
+    "AccountId": 16771381,
+    "Level": 87,
+    "Nickname": "天真",
+    "Tier": 4,
+    "Rank": 585,
+    "BestRankingPoint": 94349744,
+    "BestRankingPointDetail": 94349744.2142507
+  },
+  {
+    "AccountId": 12245120,
+    "Level": 87,
+    "Nickname": "三遇還素琴",
+    "Tier": 4,
+    "Rank": 586,
+    "BestRankingPoint": 94349666,
+    "BestRankingPointDetail": 94349666.2199367
+  },
+  {
+    "AccountId": 13747614,
+    "Level": 87,
+    "Nickname": "橘橘ԾωԾ✿",
+    "Tier": 4,
+    "Rank": 587,
+    "BestRankingPoint": 94348912,
+    "BestRankingPointDetail": 94348912.2476938
+  },
+  {
+    "AccountId": 11664685,
+    "Level": 87,
+    "Nickname": "自由の光",
+    "Tier": 4,
+    "Rank": 588,
+    "BestRankingPoint": 94348415,
+    "BestRankingPointDetail": 94348415.2403182
+  },
+  {
+    "AccountId": 11058544,
+    "Level": 87,
+    "Nickname": "Cheng",
+    "Tier": 4,
+    "Rank": 589,
+    "BestRankingPoint": 94347791,
+    "BestRankingPointDetail": 94347791.2272511
+  },
+  {
+    "AccountId": 8863885,
+    "Level": 87,
+    "Nickname": "控飘",
+    "Tier": 4,
+    "Rank": 590,
+    "BestRankingPoint": 94347504,
+    "BestRankingPointDetail": 94347504.2077759
+  },
+  {
+    "AccountId": 1499492,
+    "Level": 87,
+    "Nickname": "Ca.Venus",
+    "Tier": 4,
+    "Rank": 591,
+    "BestRankingPoint": 94347294,
+    "BestRankingPointDetail": 94347294.2043083
+  },
+  {
+    "AccountId": 8747605,
+    "Level": 87,
+    "Nickname": "Rimne",
+    "Tier": 4,
+    "Rank": 592,
+    "BestRankingPoint": 94347136,
+    "BestRankingPointDetail": 94347136.2038166
+  },
+  {
+    "AccountId": 268166,
+    "Level": 87,
+    "Nickname": "希爾維婭",
+    "Tier": 4,
+    "Rank": 593,
+    "BestRankingPoint": 94346670,
+    "BestRankingPointDetail": 94346670.2018025
+  },
+  {
+    "AccountId": 179563,
+    "Level": 87,
+    "Nickname": "イナ",
+    "Tier": 4,
+    "Rank": 594,
+    "BestRankingPoint": 94346576,
+    "BestRankingPointDetail": 94346576.2143872
+  },
+  {
+    "AccountId": 12280002,
+    "Level": 87,
+    "Nickname": "桂木桂马",
+    "Tier": 4,
+    "Rank": 595,
+    "BestRankingPoint": 94346176,
+    "BestRankingPointDetail": 94346176.2568526
+  },
+  {
+    "AccountId": 13946821,
+    "Level": 87,
+    "Nickname": "宫崎英高拐角被蝎子偷袭一套带",
+    "Tier": 4,
+    "Rank": 596,
+    "BestRankingPoint": 94345794,
+    "BestRankingPointDetail": 94345794.2469761
+  },
+  {
+    "AccountId": 12141649,
+    "Level": 87,
+    "Nickname": "兔茗十一",
+    "Tier": 4,
+    "Rank": 597,
+    "BestRankingPoint": 94345551,
+    "BestRankingPointDetail": 94345551.205503
+  },
+  {
+    "AccountId": 13603920,
+    "Level": 87,
+    "Nickname": "佐倉槍口向右五釐米",
+    "Tier": 4,
+    "Rank": 598,
+    "BestRankingPoint": 94345153,
+    "BestRankingPointDetail": 94345153.2576707
+  },
+  {
+    "AccountId": 12884768,
+    "Level": 87,
+    "Nickname": "见习女仆勇者爱丽丝",
+    "Tier": 4,
+    "Rank": 599,
+    "BestRankingPoint": 94344366,
+    "BestRankingPointDetail": 94344366.2151694
+  },
+  {
+    "AccountId": 10997648,
+    "Level": 87,
+    "Nickname": "saepe",
+    "Tier": 4,
+    "Rank": 600,
+    "BestRankingPoint": 94343984,
+    "BestRankingPointDetail": 94343984.2134965
+  },
+  {
+    "AccountId": 12595743,
+    "Level": 87,
+    "Nickname": "毁灭菌",
+    "Tier": 4,
+    "Rank": 601,
+    "BestRankingPoint": 94343347,
+    "BestRankingPointDetail": 94343347.2277818
+  },
+  {
+    "AccountId": 13383442,
+    "Level": 87,
+    "Nickname": "Liunng",
+    "Tier": 4,
+    "Rank": 602,
+    "BestRankingPoint": 94343249,
+    "BestRankingPointDetail": 94343249.2305757
+  },
+  {
+    "AccountId": 15100835,
+    "Level": 87,
+    "Nickname": "Naoya",
+    "Tier": 4,
+    "Rank": 603,
+    "BestRankingPoint": 94343009,
+    "BestRankingPointDetail": 94343009.2477223
+  },
+  {
+    "AccountId": 8491937,
+    "Level": 87,
+    "Nickname": "Afen645",
+    "Tier": 4,
+    "Rank": 604,
+    "BestRankingPoint": 94342399,
+    "BestRankingPointDetail": 94342399.2371093
+  },
+  {
+    "AccountId": 13210309,
+    "Level": 87,
+    "Nickname": "春眠不觉晓我嗦日奈脚",
+    "Tier": 4,
+    "Rank": 605,
+    "BestRankingPoint": 94342256,
+    "BestRankingPointDetail": 94342256.222495
+  },
+  {
+    "AccountId": 13264703,
+    "Level": 87,
+    "Nickname": "fbixx50",
+    "Tier": 4,
+    "Rank": 606,
+    "BestRankingPoint": 94341312,
+    "BestRankingPointDetail": 94341312.2493935
+  },
+  {
+    "AccountId": 13825548,
+    "Level": 87,
+    "Nickname": "柴郡猫",
+    "Tier": 4,
+    "Rank": 607,
+    "BestRankingPoint": 94341216,
+    "BestRankingPointDetail": 94341216.2471604
+  },
+  {
+    "AccountId": 3028654,
+    "Level": 87,
+    "Nickname": "Last炫神、",
+    "Tier": 4,
+    "Rank": 608,
+    "BestRankingPoint": 94340864,
+    "BestRankingPointDetail": 94340864.219699
+  },
+  {
+    "AccountId": 277341,
+    "Level": 87,
+    "Nickname": "鬼神",
+    "Tier": 4,
+    "Rank": 609,
+    "BestRankingPoint": 94340835,
+    "BestRankingPointDetail": 94340835.2375668
+  },
+  {
+    "AccountId": 265047,
+    "Level": 87,
+    "Nickname": "C",
+    "Tier": 4,
+    "Rank": 610,
+    "BestRankingPoint": 94340271,
+    "BestRankingPointDetail": 94340271.2456885
+  },
+  {
+    "AccountId": 13690068,
+    "Level": 87,
+    "Nickname": "白零P",
+    "Tier": 4,
+    "Rank": 611,
+    "BestRankingPoint": 94339311,
+    "BestRankingPointDetail": 94339311.2028381
+  },
+  {
+    "AccountId": 13855927,
+    "Level": 87,
+    "Nickname": "嘈嘈切切错杂弹小夏小脚嘴里含",
+    "Tier": 4,
+    "Rank": 612,
+    "BestRankingPoint": 94338595,
+    "BestRankingPointDetail": 94338595.2309955
+  },
+  {
+    "AccountId": 12384074,
+    "Level": 87,
+    "Nickname": "深海少女",
+    "Tier": 4,
+    "Rank": 613,
+    "BestRankingPoint": 94338511,
+    "BestRankingPointDetail": 94338511.2424215
+  },
+  {
+    "AccountId": 12616182,
+    "Level": 87,
+    "Nickname": "Primarychick",
+    "Tier": 4,
+    "Rank": 614,
+    "BestRankingPoint": 94338142,
+    "BestRankingPointDetail": 94338142.2266269
+  },
+  {
+    "AccountId": 12619265,
+    "Level": 87,
+    "Nickname": "失忆の我勿忘",
+    "Tier": 4,
+    "Rank": 615,
+    "BestRankingPoint": 94336414,
+    "BestRankingPointDetail": 94336414.2291104
+  },
+  {
+    "AccountId": 14215807,
+    "Level": 87,
+    "Nickname": "我是下面那個",
+    "Tier": 4,
+    "Rank": 616,
+    "BestRankingPoint": 94335956,
+    "BestRankingPointDetail": 94335956.2553373
+  },
+  {
+    "AccountId": 12709699,
+    "Level": 87,
+    "Nickname": "aeiou",
+    "Tier": 4,
+    "Rank": 617,
+    "BestRankingPoint": 94335727,
+    "BestRankingPointDetail": 94335727.2401438
+  },
+  {
+    "AccountId": 11469374,
+    "Level": 87,
+    "Nickname": "归于蝶",
+    "Tier": 4,
+    "Rank": 618,
+    "BestRankingPoint": 94335473,
+    "BestRankingPointDetail": 94335473.2158425
+  },
+  {
+    "AccountId": 13051444,
+    "Level": 87,
+    "Nickname": "你说得对",
+    "Tier": 4,
+    "Rank": 619,
+    "BestRankingPoint": 94335120,
+    "BestRankingPointDetail": 94335120.2124078
+  },
+  {
+    "AccountId": 14793301,
+    "Level": 87,
+    "Nickname": "落",
+    "Tier": 4,
+    "Rank": 620,
+    "BestRankingPoint": 94335024,
+    "BestRankingPointDetail": 94335024.2335343
+  },
+  {
+    "AccountId": 13529866,
+    "Level": 87,
+    "Nickname": "竹外桃花三两枝我扣圣娅穴已湿",
+    "Tier": 4,
+    "Rank": 621,
+    "BestRankingPoint": 94333952,
+    "BestRankingPointDetail": 94333952.2105196
+  },
+  {
+    "AccountId": 3802065,
+    "Level": 87,
+    "Nickname": "桐生戦兎",
+    "Tier": 4,
+    "Rank": 622,
+    "BestRankingPoint": 94333697,
+    "BestRankingPointDetail": 94333697.2570852
+  },
+  {
+    "AccountId": 12373348,
+    "Level": 87,
+    "Nickname": "Ayachinene",
+    "Tier": 4,
+    "Rank": 623,
+    "BestRankingPoint": 94333647,
+    "BestRankingPointDetail": 94333647.2572477
+  },
+  {
+    "AccountId": 3101326,
+    "Level": 87,
+    "Nickname": "夏洛特",
+    "Tier": 4,
+    "Rank": 624,
+    "BestRankingPoint": 94333586,
+    "BestRankingPointDetail": 94333586.2218317
+  },
+  {
+    "AccountId": 1103118,
+    "Level": 87,
+    "Nickname": "空弦",
+    "Tier": 4,
+    "Rank": 625,
+    "BestRankingPoint": 94333376,
+    "BestRankingPointDetail": 94333376.2121257
+  },
+  {
+    "AccountId": 950017,
+    "Level": 87,
+    "Nickname": "almostsank",
+    "Tier": 4,
+    "Rank": 626,
+    "BestRankingPoint": 94333217,
+    "BestRankingPointDetail": 94333217.2020515
+  },
+  {
+    "AccountId": 8741671,
+    "Level": 87,
+    "Nickname": "念头通达昱落落",
+    "Tier": 4,
+    "Rank": 627,
+    "BestRankingPoint": 94331697,
+    "BestRankingPointDetail": 94331697.2379074
+  },
+  {
+    "AccountId": 14709457,
+    "Level": 87,
+    "Nickname": "又要睡觉了",
+    "Tier": 4,
+    "Rank": 628,
+    "BestRankingPoint": 94331153,
+    "BestRankingPointDetail": 94331153.2559362
+  },
+  {
+    "AccountId": 12122209,
+    "Level": 87,
+    "Nickname": "DefultA",
+    "Tier": 4,
+    "Rank": 629,
+    "BestRankingPoint": 94331022,
+    "BestRankingPointDetail": 94331022.2458272
+  },
+  {
+    "AccountId": 7999651,
+    "Level": 87,
+    "Nickname": "TedezaRize",
+    "Tier": 4,
+    "Rank": 630,
+    "BestRankingPoint": 94330960,
+    "BestRankingPointDetail": 94330960.2022926
+  },
+  {
+    "AccountId": 13563426,
+    "Level": 87,
+    "Nickname": "女兒",
+    "Tier": 4,
+    "Rank": 631,
+    "BestRankingPoint": 94329982,
+    "BestRankingPointDetail": 94329982.2406263
+  },
+  {
+    "AccountId": 13498665,
+    "Level": 87,
+    "Nickname": "大珠小珠落玉盘泉奈小脚我把玩",
+    "Tier": 4,
+    "Rank": 632,
+    "BestRankingPoint": 94329536,
+    "BestRankingPointDetail": 94329536.2401955
+  },
+  {
+    "AccountId": 13081935,
+    "Level": 87,
+    "Nickname": "sakura",
+    "Tier": 4,
+    "Rank": 633,
+    "BestRankingPoint": 94329246,
+    "BestRankingPointDetail": 94329246.2071777
+  },
+  {
+    "AccountId": 13851036,
+    "Level": 87,
+    "Nickname": "saki",
+    "Tier": 4,
+    "Rank": 634,
+    "BestRankingPoint": 94329072,
+    "BestRankingPointDetail": 94329072.2389849
+  },
+  {
+    "AccountId": 1415142,
+    "Level": 87,
+    "Nickname": "bowcar",
+    "Tier": 4,
+    "Rank": 635,
+    "BestRankingPoint": 94328256,
+    "BestRankingPointDetail": 94328256.2035556
+  },
+  {
+    "AccountId": 8627397,
+    "Level": 87,
+    "Nickname": "Acloud",
+    "Tier": 4,
+    "Rank": 636,
+    "BestRankingPoint": 94328113,
+    "BestRankingPointDetail": 94328113.2063174
+  },
+  {
+    "AccountId": 49434,
+    "Level": 87,
+    "Nickname": "rf7g",
+    "Tier": 4,
+    "Rank": 637,
+    "BestRankingPoint": 94328079,
+    "BestRankingPointDetail": 94328079.205079
+  },
+  {
+    "AccountId": 165938,
+    "Level": 87,
+    "Nickname": "蛋糕",
+    "Tier": 4,
+    "Rank": 638,
+    "BestRankingPoint": 94327922,
+    "BestRankingPointDetail": 94327922.2106832
+  },
+  {
+    "AccountId": 23392,
+    "Level": 87,
+    "Nickname": "纱雾",
+    "Tier": 4,
+    "Rank": 639,
+    "BestRankingPoint": 94326804,
+    "BestRankingPointDetail": 94326804.2417714
+  },
+  {
+    "AccountId": 11583356,
+    "Level": 87,
+    "Nickname": "牡蛎牡蛎",
+    "Tier": 4,
+    "Rank": 640,
+    "BestRankingPoint": 94326593,
+    "BestRankingPointDetail": 94326593.2319853
+  },
+  {
+    "AccountId": 2885592,
+    "Level": 87,
+    "Nickname": "弗魯卡特",
+    "Tier": 4,
+    "Rank": 641,
+    "BestRankingPoint": 94326511,
+    "BestRankingPointDetail": 94326511.2230153
+  },
+  {
+    "AccountId": 15105732,
+    "Level": 87,
+    "Nickname": "East",
+    "Tier": 4,
+    "Rank": 642,
+    "BestRankingPoint": 94326416,
+    "BestRankingPointDetail": 94326416.2130406
+  },
+  {
+    "AccountId": 53571,
+    "Level": 87,
+    "Nickname": "柔軟的貓",
+    "Tier": 4,
+    "Rank": 643,
+    "BestRankingPoint": 94326031,
+    "BestRankingPointDetail": 94326031.2029492
+  },
+  {
+    "AccountId": 345635,
+    "Level": 87,
+    "Nickname": "アオイ",
+    "Tier": 4,
+    "Rank": 644,
+    "BestRankingPoint": 94325919,
+    "BestRankingPointDetail": 94325919.2140277
+  },
+  {
+    "AccountId": 1716937,
+    "Level": 87,
+    "Nickname": "EricRC",
+    "Tier": 4,
+    "Rank": 645,
+    "BestRankingPoint": 94325502,
+    "BestRankingPointDetail": 94325502.2222167
+  },
+  {
+    "AccountId": 12758880,
+    "Level": 87,
+    "Nickname": "楠枫",
+    "Tier": 4,
+    "Rank": 646,
+    "BestRankingPoint": 94325199,
+    "BestRankingPointDetail": 94325199.2133374
+  },
+  {
+    "AccountId": 15599090,
+    "Level": 87,
+    "Nickname": "的點點滴滴的",
+    "Tier": 4,
+    "Rank": 647,
+    "BestRankingPoint": 94324654,
+    "BestRankingPointDetail": 94324654.2023301
+  },
+  {
+    "AccountId": 10813069,
+    "Level": 87,
+    "Nickname": "ww1122wp",
+    "Tier": 4,
+    "Rank": 648,
+    "BestRankingPoint": 94324289,
+    "BestRankingPointDetail": 94324289.2280383
+  },
+  {
+    "AccountId": 10639360,
+    "Level": 87,
+    "Nickname": "熊貓賢者",
+    "Tier": 4,
+    "Rank": 649,
+    "BestRankingPoint": 94323743,
+    "BestRankingPointDetail": 94323743.211286
+  },
+  {
+    "AccountId": 13756269,
+    "Level": 87,
+    "Nickname": "Hasu",
+    "Tier": 4,
+    "Rank": 650,
+    "BestRankingPoint": 94323184,
+    "BestRankingPointDetail": 94323184.2105103
+  },
+  {
+    "AccountId": 12368173,
+    "Level": 87,
+    "Nickname": "修白",
+    "Tier": 4,
+    "Rank": 651,
+    "BestRankingPoint": 94323104,
+    "BestRankingPointDetail": 94323104.2113879
+  },
+  {
+    "AccountId": 13820992,
+    "Level": 87,
+    "Nickname": "Namele22",
+    "Tier": 4,
+    "Rank": 652,
+    "BestRankingPoint": 94322961,
+    "BestRankingPointDetail": 94322961.2379938
+  },
+  {
+    "AccountId": 17431986,
+    "Level": 87,
+    "Nickname": "Me1oN",
+    "Tier": 4,
+    "Rank": 653,
+    "BestRankingPoint": 94322894,
+    "BestRankingPointDetail": 94322894.2025674
+  },
+  {
+    "AccountId": 1881239,
+    "Level": 87,
+    "Nickname": "傑",
+    "Tier": 4,
+    "Rank": 654,
+    "BestRankingPoint": 94322849,
+    "BestRankingPointDetail": 94322849.210199
+  },
+  {
+    "AccountId": 13742188,
+    "Level": 87,
+    "Nickname": "以撒",
+    "Tier": 4,
+    "Rank": 655,
+    "BestRankingPoint": 94322765,
+    "BestRankingPointDetail": 94322765.2467008
+  },
+  {
+    "AccountId": 88829,
+    "Level": 87,
+    "Nickname": "蝸牛",
+    "Tier": 4,
+    "Rank": 656,
+    "BestRankingPoint": 94322545,
+    "BestRankingPointDetail": 94322545.2527092
+  },
+  {
+    "AccountId": 7386836,
+    "Level": 87,
+    "Nickname": "柚子炒飯",
+    "Tier": 4,
+    "Rank": 657,
+    "BestRankingPoint": 94322528,
+    "BestRankingPointDetail": 94322528.2027952
+  },
+  {
+    "AccountId": 12741515,
+    "Level": 87,
+    "Nickname": "音雲",
+    "Tier": 4,
+    "Rank": 658,
+    "BestRankingPoint": 94322110,
+    "BestRankingPointDetail": 94322110.2033211
+  },
+  {
+    "AccountId": 13955493,
+    "Level": 87,
+    "Nickname": "ᕕ(◠ڼ◠)ᕗ​hina",
+    "Tier": 4,
+    "Rank": 659,
+    "BestRankingPoint": 94321952,
+    "BestRankingPointDetail": 94321952.2403988
+  },
+  {
+    "AccountId": 14366802,
+    "Level": 87,
+    "Nickname": "北故箫声",
+    "Tier": 4,
+    "Rank": 660,
+    "BestRankingPoint": 94321171,
+    "BestRankingPointDetail": 94321171.2560376
+  },
+  {
+    "AccountId": 12622635,
+    "Level": 87,
+    "Nickname": "Lin",
+    "Tier": 4,
+    "Rank": 661,
+    "BestRankingPoint": 94319792,
+    "BestRankingPointDetail": 94319792.2058685
+  },
+  {
+    "AccountId": 11361528,
+    "Level": 87,
+    "Nickname": "駿",
+    "Tier": 4,
+    "Rank": 662,
+    "BestRankingPoint": 94319744,
+    "BestRankingPointDetail": 94319744.2464533
+  },
+  {
+    "AccountId": 11898244,
+    "Level": 87,
+    "Nickname": "MaxPika",
+    "Tier": 4,
+    "Rank": 663,
+    "BestRankingPoint": 94319519,
+    "BestRankingPointDetail": 94319519.2213003
+  },
+  {
+    "AccountId": 8785393,
+    "Level": 87,
+    "Nickname": "接天莲叶无穷碧看到未花就会力",
+    "Tier": 4,
+    "Rank": 664,
+    "BestRankingPoint": 94317872,
+    "BestRankingPointDetail": 94317872.2326695
+  },
+  {
+    "AccountId": 6812861,
+    "Level": 87,
+    "Nickname": "琴濑",
+    "Tier": 4,
+    "Rank": 665,
+    "BestRankingPoint": 94317040,
+    "BestRankingPointDetail": 94317040.2189443
+  },
+  {
+    "AccountId": 13545524,
+    "Level": 87,
+    "Nickname": "春奈，動起來！為什麼不動了？",
+    "Tier": 4,
+    "Rank": 666,
+    "BestRankingPoint": 94316129,
+    "BestRankingPointDetail": 94316129.2031411
+  },
+  {
+    "AccountId": 16513981,
+    "Level": 87,
+    "Nickname": "ZZhengyu",
+    "Tier": 4,
+    "Rank": 667,
+    "BestRankingPoint": 94314336,
+    "BestRankingPointDetail": 94314336.2197129
+  },
+  {
+    "AccountId": 12879562,
+    "Level": 87,
+    "Nickname": "我们需要更多的大可爱～",
+    "Tier": 4,
+    "Rank": 668,
+    "BestRankingPoint": 94312350,
+    "BestRankingPointDetail": 94312350.2182618
+  },
+  {
+    "AccountId": 10972487,
+    "Level": 87,
+    "Nickname": "包不同",
+    "Tier": 4,
+    "Rank": 669,
+    "BestRankingPoint": 94312112,
+    "BestRankingPointDetail": 94312112.2455175
+  },
+  {
+    "AccountId": 10891712,
+    "Level": 87,
+    "Nickname": "nastu",
+    "Tier": 4,
+    "Rank": 670,
+    "BestRankingPoint": 94312080,
+    "BestRankingPointDetail": 94312080.2112239
+  },
+  {
+    "AccountId": 2528718,
+    "Level": 87,
+    "Nickname": "fufu",
+    "Tier": 4,
+    "Rank": 671,
+    "BestRankingPoint": 94312032,
+    "BestRankingPointDetail": 94312032.202952
+  },
+  {
+    "AccountId": 7520341,
+    "Level": 87,
+    "Nickname": "円香的口罩",
+    "Tier": 4,
+    "Rank": 672,
+    "BestRankingPoint": 94312000,
+    "BestRankingPointDetail": 94312000.220309
+  },
+  {
+    "AccountId": 7412422,
+    "Level": 87,
+    "Nickname": "saku",
+    "Tier": 4,
+    "Rank": 673,
+    "BestRankingPoint": 94311823,
+    "BestRankingPointDetail": 94311823.2529203
+  },
+  {
+    "AccountId": 8549598,
+    "Level": 87,
+    "Nickname": "未花酱",
+    "Tier": 4,
+    "Rank": 674,
+    "BestRankingPoint": 94311232,
+    "BestRankingPointDetail": 94311232.2403456
+  },
+  {
+    "AccountId": 13361256,
+    "Level": 87,
+    "Nickname": "凶真",
+    "Tier": 4,
+    "Rank": 675,
+    "BestRankingPoint": 94310803,
+    "BestRankingPointDetail": 94310803.2137803
+  },
+  {
+    "AccountId": 11963918,
+    "Level": 87,
+    "Nickname": "璀璨天星",
+    "Tier": 4,
+    "Rank": 676,
+    "BestRankingPoint": 94310751,
+    "BestRankingPointDetail": 94310751.2545848
+  },
+  {
+    "AccountId": 14236810,
+    "Level": 87,
+    "Nickname": "名称",
+    "Tier": 4,
+    "Rank": 677,
+    "BestRankingPoint": 94309616,
+    "BestRankingPointDetail": 94309616.2378211
+  },
+  {
+    "AccountId": 13278956,
+    "Level": 87,
+    "Nickname": "Tayko",
+    "Tier": 4,
+    "Rank": 678,
+    "BestRankingPoint": 94309119,
+    "BestRankingPointDetail": 94309119.2573492
+  },
+  {
+    "AccountId": 8368895,
+    "Level": 87,
+    "Nickname": "Saber",
+    "Tier": 4,
+    "Rank": 679,
+    "BestRankingPoint": 94308785,
+    "BestRankingPointDetail": 94308785.2305385
+  },
+  {
+    "AccountId": 12573781,
+    "Level": 87,
+    "Nickname": "陈冬临",
+    "Tier": 4,
+    "Rank": 680,
+    "BestRankingPoint": 94308000,
+    "BestRankingPointDetail": 94308000.2502423
+  },
+  {
+    "AccountId": 15740163,
+    "Level": 87,
+    "Nickname": "铃雪银",
+    "Tier": 4,
+    "Rank": 681,
+    "BestRankingPoint": 94307950,
+    "BestRankingPointDetail": 94307950.257832
+  },
+  {
+    "AccountId": 14264819,
+    "Level": 87,
+    "Nickname": "城戶真司",
+    "Tier": 4,
+    "Rank": 682,
+    "BestRankingPoint": 94307774,
+    "BestRankingPointDetail": 94307774.2402756
+  },
+  {
+    "AccountId": 12569197,
+    "Level": 87,
+    "Nickname": "不可以打美咕嚕",
+    "Tier": 4,
+    "Rank": 683,
+    "BestRankingPoint": 94307652,
+    "BestRankingPointDetail": 94307652.2269455
+  },
+  {
+    "AccountId": 3922927,
+    "Level": 87,
+    "Nickname": "HolyHIGH",
+    "Tier": 4,
+    "Rank": 684,
+    "BestRankingPoint": 94307056,
+    "BestRankingPointDetail": 94307056.2426682
+  },
+  {
+    "AccountId": 8638416,
+    "Level": 87,
+    "Nickname": "蝴蝶飞",
+    "Tier": 4,
+    "Rank": 685,
+    "BestRankingPoint": 94307039,
+    "BestRankingPointDetail": 94307039.2314824
+  },
+  {
+    "AccountId": 32550,
+    "Level": 87,
+    "Nickname": "双音",
+    "Tier": 4,
+    "Rank": 686,
+    "BestRankingPoint": 94306752,
+    "BestRankingPointDetail": 94306752.2243719
+  },
+  {
+    "AccountId": 1846523,
+    "Level": 87,
+    "Nickname": "紫心玄月",
+    "Tier": 4,
+    "Rank": 687,
+    "BestRankingPoint": 94306541,
+    "BestRankingPointDetail": 94306541.2164368
+  },
+  {
+    "AccountId": 13737671,
+    "Level": 87,
+    "Nickname": "蜜瓜",
+    "Tier": 4,
+    "Rank": 688,
+    "BestRankingPoint": 94306514,
+    "BestRankingPointDetail": 94306514.2078587
+  },
+  {
+    "AccountId": 12585224,
+    "Level": 87,
+    "Nickname": "久田豆浆",
+    "Tier": 4,
+    "Rank": 689,
+    "BestRankingPoint": 94306367,
+    "BestRankingPointDetail": 94306367.2189432
+  },
+  {
+    "AccountId": 16118847,
+    "Level": 87,
+    "Nickname": "不會飛的魚",
+    "Tier": 4,
+    "Rank": 690,
+    "BestRankingPoint": 94306302,
+    "BestRankingPointDetail": 94306302.2495926
+  },
+  {
+    "AccountId": 10790961,
+    "Level": 87,
+    "Nickname": "雷丘佐檸檬",
+    "Tier": 4,
+    "Rank": 691,
+    "BestRankingPoint": 94305919,
+    "BestRankingPointDetail": 94305919.2486044
+  },
+  {
+    "AccountId": 60296,
+    "Level": 87,
+    "Nickname": "羊大",
+    "Tier": 4,
+    "Rank": 692,
+    "BestRankingPoint": 94305567,
+    "BestRankingPointDetail": 94305567.2309736
+  },
+  {
+    "AccountId": 12293925,
+    "Level": 87,
+    "Nickname": "聆风寂",
+    "Tier": 4,
+    "Rank": 693,
+    "BestRankingPoint": 94305389,
+    "BestRankingPointDetail": 94305389.2111369
+  },
+  {
+    "AccountId": 12152812,
+    "Level": 87,
+    "Nickname": "血鵑",
+    "Tier": 4,
+    "Rank": 694,
+    "BestRankingPoint": 94305040,
+    "BestRankingPointDetail": 94305040.2025912
+  },
+  {
+    "AccountId": 13650134,
+    "Level": 87,
+    "Nickname": "czkh",
+    "Tier": 4,
+    "Rank": 695,
+    "BestRankingPoint": 94304914,
+    "BestRankingPointDetail": 94304914.2560769
+  },
+  {
+    "AccountId": 13507172,
+    "Level": 87,
+    "Nickname": "没有存在感",
+    "Tier": 4,
+    "Rank": 696,
+    "BestRankingPoint": 94304864,
+    "BestRankingPointDetail": 94304864.2322013
+  },
+  {
+    "AccountId": 15585267,
+    "Level": 87,
+    "Nickname": "赛利卡",
+    "Tier": 4,
+    "Rank": 697,
+    "BestRankingPoint": 94304753,
+    "BestRankingPointDetail": 94304753.2467944
+  },
+  {
+    "AccountId": 8638814,
+    "Level": 87,
+    "Nickname": "西米露",
+    "Tier": 4,
+    "Rank": 698,
+    "BestRankingPoint": 94304703,
+    "BestRankingPointDetail": 94304703.2015909
+  },
+  {
+    "AccountId": 14634477,
+    "Level": 87,
+    "Nickname": "枫糖假人",
+    "Tier": 4,
+    "Rank": 699,
+    "BestRankingPoint": 94304513,
+    "BestRankingPointDetail": 94304513.2220076
+  },
+  {
+    "AccountId": 5644151,
+    "Level": 87,
+    "Nickname": "活在夢裡",
+    "Tier": 4,
+    "Rank": 700,
+    "BestRankingPoint": 94304336,
+    "BestRankingPointDetail": 94304336.2023275
+  },
+  {
+    "AccountId": 8647508,
+    "Level": 87,
+    "Nickname": "翹翹兒",
+    "Tier": 4,
+    "Rank": 701,
+    "BestRankingPoint": 94304146,
+    "BestRankingPointDetail": 94304146.2200341
+  },
+  {
+    "AccountId": 13051141,
+    "Level": 87,
+    "Nickname": "毁灭凤凰人",
+    "Tier": 4,
+    "Rank": 702,
+    "BestRankingPoint": 94304083,
+    "BestRankingPointDetail": 94304083.2381507
+  },
+  {
+    "AccountId": 12006447,
+    "Level": 87,
+    "Nickname": "不想买票",
+    "Tier": 4,
+    "Rank": 703,
+    "BestRankingPoint": 94303952,
+    "BestRankingPointDetail": 94303952.2221561
+  },
+  {
+    "AccountId": 15701192,
+    "Level": 87,
+    "Nickname": "Rosemary",
+    "Tier": 4,
+    "Rank": 704,
+    "BestRankingPoint": 94303743,
+    "BestRankingPointDetail": 94303743.2407239
+  },
+  {
+    "AccountId": 111436,
+    "Level": 87,
+    "Nickname": "包包",
+    "Tier": 4,
+    "Rank": 705,
+    "BestRankingPoint": 94302881,
+    "BestRankingPointDetail": 94302881.2231541
+  },
+  {
+    "AccountId": 12520840,
+    "Level": 87,
+    "Nickname": "浅浅",
+    "Tier": 4,
+    "Rank": 706,
+    "BestRankingPoint": 94302543,
+    "BestRankingPointDetail": 94302543.2381384
+  },
+  {
+    "AccountId": 193708,
+    "Level": 87,
+    "Nickname": "孙笑川258",
+    "Tier": 4,
+    "Rank": 707,
+    "BestRankingPoint": 94302159,
+    "BestRankingPointDetail": 94302159.2579385
+  },
+  {
+    "AccountId": 11014750,
+    "Level": 87,
+    "Nickname": "Hana",
+    "Tier": 4,
+    "Rank": 708,
+    "BestRankingPoint": 94302142,
+    "BestRankingPointDetail": 94302142.2467464
+  },
+  {
+    "AccountId": 15752549,
+    "Level": 87,
+    "Nickname": "好厚米",
+    "Tier": 4,
+    "Rank": 709,
+    "BestRankingPoint": 94301649,
+    "BestRankingPointDetail": 94301649.2573463
+  },
+  {
+    "AccountId": 12284132,
+    "Level": 87,
+    "Nickname": "Noble",
+    "Tier": 4,
+    "Rank": 710,
+    "BestRankingPoint": 94301488,
+    "BestRankingPointDetail": 94301488.2470471
+  },
+  {
+    "AccountId": 13174221,
+    "Level": 87,
+    "Nickname": "黄金树之影？黄金数值赢！",
+    "Tier": 4,
+    "Rank": 711,
+    "BestRankingPoint": 94300527,
+    "BestRankingPointDetail": 94300527.2508269
+  },
+  {
+    "AccountId": 12942829,
+    "Level": 87,
+    "Nickname": "让我们问问圣娅什么时候落地",
+    "Tier": 4,
+    "Rank": 712,
+    "BestRankingPoint": 94300192,
+    "BestRankingPointDetail": 94300192.2061718
+  },
+  {
+    "AccountId": 12883670,
+    "Level": 87,
+    "Nickname": "hamuru",
+    "Tier": 4,
+    "Rank": 713,
+    "BestRankingPoint": 94300143,
+    "BestRankingPointDetail": 94300143.2037591
+  },
+  {
+    "AccountId": 5270,
+    "Level": 87,
+    "Nickname": "ShiroNeko",
+    "Tier": 4,
+    "Rank": 714,
+    "BestRankingPoint": 94299921,
+    "BestRankingPointDetail": 94299921.2198425
+  },
+  {
+    "AccountId": 12464902,
+    "Level": 87,
+    "Nickname": "qiangxiao",
+    "Tier": 4,
+    "Rank": 715,
+    "BestRankingPoint": 94299776,
+    "BestRankingPointDetail": 94299776.2337287
+  },
+  {
+    "AccountId": 3331284,
+    "Level": 87,
+    "Nickname": "Saku",
+    "Tier": 4,
+    "Rank": 716,
+    "BestRankingPoint": 94299713,
+    "BestRankingPointDetail": 94299713.2052477
+  },
+  {
+    "AccountId": 13274027,
+    "Level": 87,
+    "Nickname": "AN",
+    "Tier": 4,
+    "Rank": 717,
+    "BestRankingPoint": 94299327,
+    "BestRankingPointDetail": 94299327.2015274
+  },
+  {
+    "AccountId": 14567160,
+    "Level": 87,
+    "Nickname": "吾好梦中超爱丽丝",
+    "Tier": 4,
+    "Rank": 718,
+    "BestRankingPoint": 94299264,
+    "BestRankingPointDetail": 94299264.2038067
+  },
+  {
+    "AccountId": 2410530,
+    "Level": 87,
+    "Nickname": "熊熊",
+    "Tier": 4,
+    "Rank": 719,
+    "BestRankingPoint": 94298288,
+    "BestRankingPointDetail": 94298288.2539465
+  },
+  {
+    "AccountId": 17813301,
+    "Level": 87,
+    "Nickname": "Horn",
+    "Tier": 4,
+    "Rank": 720,
+    "BestRankingPoint": 94298270,
+    "BestRankingPointDetail": 94298270.2183448
+  },
+  {
+    "AccountId": 13072816,
+    "Level": 87,
+    "Nickname": "LCW11",
+    "Tier": 4,
+    "Rank": 721,
+    "BestRankingPoint": 94298129,
+    "BestRankingPointDetail": 94298129.2122634
+  },
+  {
+    "AccountId": 12786864,
+    "Level": 87,
+    "Nickname": "yens",
+    "Tier": 4,
+    "Rank": 722,
+    "BestRankingPoint": 94298064,
+    "BestRankingPointDetail": 94298064.2025445
+  },
+  {
+    "AccountId": 12637567,
+    "Level": 87,
+    "Nickname": "天道流年",
+    "Tier": 4,
+    "Rank": 723,
+    "BestRankingPoint": 94298001,
+    "BestRankingPointDetail": 94298001.2142551
+  },
+  {
+    "AccountId": 10967619,
+    "Level": 87,
+    "Nickname": "MeowNeko",
+    "Tier": 4,
+    "Rank": 724,
+    "BestRankingPoint": 94297840,
+    "BestRankingPointDetail": 94297840.2495101
+  },
+  {
+    "AccountId": 13434404,
+    "Level": 87,
+    "Nickname": "拉斯飄霞",
+    "Tier": 4,
+    "Rank": 725,
+    "BestRankingPoint": 94297712,
+    "BestRankingPointDetail": 94297712.2102344
+  },
+  {
+    "AccountId": 16286278,
+    "Level": 87,
+    "Nickname": "頭D機台天龍人",
+    "Tier": 4,
+    "Rank": 726,
+    "BestRankingPoint": 94297361,
+    "BestRankingPointDetail": 94297361.2061466
+  },
+  {
+    "AccountId": 15889478,
+    "Level": 87,
+    "Nickname": "热带风味冰红茶爱好者",
+    "Tier": 4,
+    "Rank": 727,
+    "BestRankingPoint": 94297167,
+    "BestRankingPointDetail": 94297167.2335673
+  },
+  {
+    "AccountId": 16545735,
+    "Level": 87,
+    "Nickname": "Fuvi",
+    "Tier": 4,
+    "Rank": 728,
+    "BestRankingPoint": 94296767,
+    "BestRankingPointDetail": 94296767.2280661
+  },
+  {
+    "AccountId": 8898546,
+    "Level": 87,
+    "Nickname": "明年",
+    "Tier": 4,
+    "Rank": 729,
+    "BestRankingPoint": 94296192,
+    "BestRankingPointDetail": 94296192.2379311
+  },
+  {
+    "AccountId": 13876928,
+    "Level": 87,
+    "Nickname": "aaaaaa",
+    "Tier": 4,
+    "Rank": 730,
+    "BestRankingPoint": 94295904,
+    "BestRankingPointDetail": 94295904.2232014
+  },
+  {
+    "AccountId": 9660992,
+    "Level": 87,
+    "Nickname": "小荷才露尖尖角艹的泉奈嗷嗷叫",
+    "Tier": 4,
+    "Rank": 731,
+    "BestRankingPoint": 94295474,
+    "BestRankingPointDetail": 94295474.2377134
+  },
+  {
+    "AccountId": 11758591,
+    "Level": 87,
+    "Nickname": "悠星姚畜金畜你们妈全死了",
+    "Tier": 4,
+    "Rank": 732,
+    "BestRankingPoint": 94295441,
+    "BestRankingPointDetail": 94295441.2301225
+  },
+  {
+    "AccountId": 13201136,
+    "Level": 87,
+    "Nickname": "Yurite",
+    "Tier": 4,
+    "Rank": 733,
+    "BestRankingPoint": 94295425,
+    "BestRankingPointDetail": 94295425.2578071
+  },
+  {
+    "AccountId": 16304708,
+    "Level": 87,
+    "Nickname": "一花老公",
+    "Tier": 4,
+    "Rank": 734,
+    "BestRankingPoint": 94295406,
+    "BestRankingPointDetail": 94295406.2289845
+  },
+  {
+    "AccountId": 331644,
+    "Level": 87,
+    "Nickname": "ヴラディレーナ・ミリーゼ",
+    "Tier": 4,
+    "Rank": 735,
+    "BestRankingPoint": 94295153,
+    "BestRankingPointDetail": 94295153.2551827
+  },
+  {
+    "AccountId": 210439,
+    "Level": 87,
+    "Nickname": "NanashiMumei",
+    "Tier": 4,
+    "Rank": 736,
+    "BestRankingPoint": 94294991,
+    "BestRankingPointDetail": 94294991.2549785
+  },
+  {
+    "AccountId": 13720788,
+    "Level": 87,
+    "Nickname": "羽毛",
+    "Tier": 4,
+    "Rank": 737,
+    "BestRankingPoint": 94294881,
+    "BestRankingPointDetail": 94294881.2510395
+  },
+  {
+    "AccountId": 7060412,
+    "Level": 87,
+    "Nickname": "蘑菇",
+    "Tier": 4,
+    "Rank": 738,
+    "BestRankingPoint": 94294304,
+    "BestRankingPointDetail": 94294304.2461803
+  },
+  {
+    "AccountId": 13207571,
+    "Level": 87,
+    "Nickname": "倫滴",
+    "Tier": 4,
+    "Rank": 739,
+    "BestRankingPoint": 94294179,
+    "BestRankingPointDetail": 94294179.2281807
+  },
+  {
+    "AccountId": 13315009,
+    "Level": 87,
+    "Nickname": "hotdog",
+    "Tier": 4,
+    "Rank": 740,
+    "BestRankingPoint": 94293838,
+    "BestRankingPointDetail": 94293838.2263517
+  },
+  {
+    "AccountId": 13683664,
+    "Level": 87,
+    "Nickname": "SoSoLife",
+    "Tier": 4,
+    "Rank": 741,
+    "BestRankingPoint": 94293744,
+    "BestRankingPointDetail": 94293744.247172
+  },
+  {
+    "AccountId": 11905809,
+    "Level": 87,
+    "Nickname": "玖",
+    "Tier": 4,
+    "Rank": 742,
+    "BestRankingPoint": 94292624,
+    "BestRankingPointDetail": 94292624.2501065
+  },
+  {
+    "AccountId": 13948830,
+    "Level": 87,
+    "Nickname": "xiaos",
+    "Tier": 4,
+    "Rank": 743,
+    "BestRankingPoint": 94292207,
+    "BestRankingPointDetail": 94292207.2220307
+  },
+  {
+    "AccountId": 7109172,
+    "Level": 87,
+    "Nickname": "可怜的肯尼",
+    "Tier": 4,
+    "Rank": 744,
+    "BestRankingPoint": 94291887,
+    "BestRankingPointDetail": 94291887.2473093
+  },
+  {
+    "AccountId": 283027,
+    "Level": 87,
+    "Nickname": "hx",
+    "Tier": 4,
+    "Rank": 745,
+    "BestRankingPoint": 94291618,
+    "BestRankingPointDetail": 94291618.2038404
+  },
+  {
+    "AccountId": 8456831,
+    "Level": 87,
+    "Nickname": "月红",
+    "Tier": 4,
+    "Rank": 746,
+    "BestRankingPoint": 94291537,
+    "BestRankingPointDetail": 94291537.2054291
+  },
+  {
+    "AccountId": 12297745,
+    "Level": 87,
+    "Nickname": "kotori",
+    "Tier": 4,
+    "Rank": 747,
+    "BestRankingPoint": 94291311,
+    "BestRankingPointDetail": 94291311.2480191
+  },
+  {
+    "AccountId": 15856818,
+    "Level": 87,
+    "Nickname": "teihunzi",
+    "Tier": 4,
+    "Rank": 748,
+    "BestRankingPoint": 94290848,
+    "BestRankingPointDetail": 94290848.202332
+  },
+  {
+    "AccountId": 13894355,
+    "Level": 87,
+    "Nickname": "落",
+    "Tier": 4,
+    "Rank": 749,
+    "BestRankingPoint": 94289984,
+    "BestRankingPointDetail": 94289984.2451913
+  },
+  {
+    "AccountId": 13972324,
+    "Level": 87,
+    "Nickname": "天绫绫地宁宁",
+    "Tier": 4,
+    "Rank": 750,
+    "BestRankingPoint": 94289391,
+    "BestRankingPointDetail": 94289391.2391933
+  },
+  {
+    "AccountId": 10630048,
+    "Level": 87,
+    "Nickname": "龍龍加血",
+    "Tier": 4,
+    "Rank": 751,
+    "BestRankingPoint": 94289218,
+    "BestRankingPointDetail": 94289218.2453252
+  },
+  {
+    "AccountId": 13512737,
+    "Level": 87,
+    "Nickname": "喜多",
+    "Tier": 4,
+    "Rank": 752,
+    "BestRankingPoint": 94289151,
+    "BestRankingPointDetail": 94289151.2397426
+  },
+  {
+    "AccountId": 84925,
+    "Level": 87,
+    "Nickname": "每天瘋狂玩弄花子的歐馬口",
+    "Tier": 4,
+    "Rank": 753,
+    "BestRankingPoint": 94287665,
+    "BestRankingPointDetail": 94287665.2295336
+  },
+  {
+    "AccountId": 14488404,
+    "Level": 87,
+    "Nickname": "星落城心",
+    "Tier": 4,
+    "Rank": 754,
+    "BestRankingPoint": 94287150,
+    "BestRankingPointDetail": 94287150.2061206
+  },
+  {
+    "AccountId": 269058,
+    "Level": 87,
+    "Nickname": "會WIN哦",
+    "Tier": 4,
+    "Rank": 755,
+    "BestRankingPoint": 94286786,
+    "BestRankingPointDetail": 94286786.2023845
+  },
+  {
+    "AccountId": 11054266,
+    "Level": 87,
+    "Nickname": "超巨型龍貓",
+    "Tier": 4,
+    "Rank": 756,
+    "BestRankingPoint": 94285519,
+    "BestRankingPointDetail": 94285519.2551486
+  },
+  {
+    "AccountId": 12962447,
+    "Level": 87,
+    "Nickname": "星",
+    "Tier": 4,
+    "Rank": 757,
+    "BestRankingPoint": 94285028,
+    "BestRankingPointDetail": 94285028.2191547
+  },
+  {
+    "AccountId": 11892734,
+    "Level": 87,
+    "Nickname": "圆神凛绪",
+    "Tier": 4,
+    "Rank": 758,
+    "BestRankingPoint": 94284992,
+    "BestRankingPointDetail": 94284992.2575994
+  },
+  {
+    "AccountId": 15524147,
+    "Level": 87,
+    "Nickname": "空界",
+    "Tier": 4,
+    "Rank": 759,
+    "BestRankingPoint": 94284814,
+    "BestRankingPointDetail": 94284814.2320922
+  },
+  {
+    "AccountId": 8493203,
+    "Level": 87,
+    "Nickname": "蒼咲雫",
+    "Tier": 4,
+    "Rank": 760,
+    "BestRankingPoint": 94284720,
+    "BestRankingPointDetail": 94284720.2229289
+  },
+  {
+    "AccountId": 13839793,
+    "Level": 87,
+    "Nickname": "口木口隹",
+    "Tier": 4,
+    "Rank": 761,
+    "BestRankingPoint": 94284687,
+    "BestRankingPointDetail": 94284687.2015922
+  },
+  {
+    "AccountId": 802036,
+    "Level": 87,
+    "Nickname": "Zero",
+    "Tier": 4,
+    "Rank": 762,
+    "BestRankingPoint": 94284511,
+    "BestRankingPointDetail": 94284511.2374999
+  },
+  {
+    "AccountId": 13163453,
+    "Level": 87,
+    "Nickname": "牛蛙",
+    "Tier": 4,
+    "Rank": 763,
+    "BestRankingPoint": 94284369,
+    "BestRankingPointDetail": 94284369.2197089
+  },
+  {
+    "AccountId": 15677640,
+    "Level": 87,
+    "Nickname": "K街",
+    "Tier": 4,
+    "Rank": 764,
+    "BestRankingPoint": 94283936,
+    "BestRankingPointDetail": 94283936.2379866
+  },
+  {
+    "AccountId": 10541546,
+    "Level": 87,
+    "Nickname": "葦名子夜",
+    "Tier": 4,
+    "Rank": 765,
+    "BestRankingPoint": 94283792,
+    "BestRankingPointDetail": 94283792.201798
+  },
+  {
+    "AccountId": 1826124,
+    "Level": 87,
+    "Nickname": "口哈嚕",
+    "Tier": 4,
+    "Rank": 766,
+    "BestRankingPoint": 94283569,
+    "BestRankingPointDetail": 94283569.2303604
+  },
+  {
+    "AccountId": 11589760,
+    "Level": 87,
+    "Nickname": "残梦",
+    "Tier": 4,
+    "Rank": 767,
+    "BestRankingPoint": 94283556,
+    "BestRankingPointDetail": 94283556.2125761
+  },
+  {
+    "AccountId": 10858712,
+    "Level": 87,
+    "Nickname": "Bla_Dragon",
+    "Tier": 4,
+    "Rank": 768,
+    "BestRankingPoint": 94283009,
+    "BestRankingPointDetail": 94283009.2130101
+  },
+  {
+    "AccountId": 12928762,
+    "Level": 87,
+    "Nickname": "AntiquaDLA",
+    "Tier": 4,
+    "Rank": 769,
+    "BestRankingPoint": 94282561,
+    "BestRankingPointDetail": 94282561.2535464
+  },
+  {
+    "AccountId": 725860,
+    "Level": 87,
+    "Nickname": "律",
+    "Tier": 4,
+    "Rank": 770,
+    "BestRankingPoint": 94281791,
+    "BestRankingPointDetail": 94281791.2014325
+  },
+  {
+    "AccountId": 10989103,
+    "Level": 87,
+    "Nickname": "幻想",
+    "Tier": 4,
+    "Rank": 771,
+    "BestRankingPoint": 94281774,
+    "BestRankingPointDetail": 94281774.2294064
+  },
+  {
+    "AccountId": 12062454,
+    "Level": 87,
+    "Nickname": "豆沙包",
+    "Tier": 4,
+    "Rank": 772,
+    "BestRankingPoint": 94281492,
+    "BestRankingPointDetail": 94281492.2465622
+  },
+  {
+    "AccountId": 11153461,
+    "Level": 87,
+    "Nickname": "へんたい不审者",
+    "Tier": 4,
+    "Rank": 773,
+    "BestRankingPoint": 94280609,
+    "BestRankingPointDetail": 94280609.2189316
+  },
+  {
+    "AccountId": 13081731,
+    "Level": 87,
+    "Nickname": "Lurvig_Katt",
+    "Tier": 4,
+    "Rank": 774,
+    "BestRankingPoint": 94280050,
+    "BestRankingPointDetail": 94280050.2144065
+  },
+  {
+    "AccountId": 2523972,
+    "Level": 87,
+    "Nickname": "咕嚕",
+    "Tier": 4,
+    "Rank": 775,
+    "BestRankingPoint": 94279422,
+    "BestRankingPointDetail": 94279422.2153857
+  },
+  {
+    "AccountId": 11789531,
+    "Level": 87,
+    "Nickname": "JT",
+    "Tier": 4,
+    "Rank": 776,
+    "BestRankingPoint": 94279088,
+    "BestRankingPointDetail": 94279088.2117963
+  },
+  {
+    "AccountId": 12532971,
+    "Level": 87,
+    "Nickname": "姚畜的妈妈里侧除外",
+    "Tier": 4,
+    "Rank": 777,
+    "BestRankingPoint": 94278977,
+    "BestRankingPointDetail": 94278977.2499802
+  },
+  {
+    "AccountId": 12176790,
+    "Level": 87,
+    "Nickname": "想和实梨一起恰猪排饭",
+    "Tier": 4,
+    "Rank": 778,
+    "BestRankingPoint": 94278846,
+    "BestRankingPointDetail": 94278846.2252337
+  },
+  {
+    "AccountId": 12267085,
+    "Level": 87,
+    "Nickname": "凋零",
+    "Tier": 4,
+    "Rank": 779,
+    "BestRankingPoint": 94278544,
+    "BestRankingPointDetail": 94278544.2370185
+  },
+  {
+    "AccountId": 12010720,
+    "Level": 87,
+    "Nickname": "天雨-蝦墮-潛伏蝦影狩獵蝦人",
+    "Tier": 4,
+    "Rank": 780,
+    "BestRankingPoint": 94278448,
+    "BestRankingPointDetail": 94278448.2157142
+  },
+  {
+    "AccountId": 14061297,
+    "Level": 87,
+    "Nickname": "LiAN",
+    "Tier": 4,
+    "Rank": 781,
+    "BestRankingPoint": 94278367,
+    "BestRankingPointDetail": 94278367.2295019
+  },
+  {
+    "AccountId": 13926671,
+    "Level": 87,
+    "Nickname": "Hsin",
+    "Tier": 4,
+    "Rank": 782,
+    "BestRankingPoint": 94278335,
+    "BestRankingPointDetail": 94278335.2507214
+  },
+  {
+    "AccountId": 12340425,
+    "Level": 87,
+    "Nickname": "不动の大图书馆",
+    "Tier": 4,
+    "Rank": 783,
+    "BestRankingPoint": 94278064,
+    "BestRankingPointDetail": 94278064.2502248
+  },
+  {
+    "AccountId": 15869791,
+    "Level": 87,
+    "Nickname": "沃若",
+    "Tier": 4,
+    "Rank": 784,
+    "BestRankingPoint": 94277664,
+    "BestRankingPointDetail": 94277664.2313616
+  },
+  {
+    "AccountId": 7313255,
+    "Level": 87,
+    "Nickname": "文九反",
+    "Tier": 4,
+    "Rank": 785,
+    "BestRankingPoint": 94277314,
+    "BestRankingPointDetail": 94277314.2368154
+  },
+  {
+    "AccountId": 14673693,
+    "Level": 87,
+    "Nickname": "就喜歡小女孩",
+    "Tier": 4,
+    "Rank": 786,
+    "BestRankingPoint": 94277216,
+    "BestRankingPointDetail": 94277216.2225524
+  },
+  {
+    "AccountId": 13610701,
+    "Level": 87,
+    "Nickname": "天譴的超級皓瑋",
+    "Tier": 4,
+    "Rank": 787,
+    "BestRankingPoint": 94276912,
+    "BestRankingPointDetail": 94276912.2459929
+  },
+  {
+    "AccountId": 13826478,
+    "Level": 87,
+    "Nickname": "o.O",
+    "Tier": 4,
+    "Rank": 788,
+    "BestRankingPoint": 94276738,
+    "BestRankingPointDetail": 94276738.2130807
+  },
+  {
+    "AccountId": 12552000,
+    "Level": 87,
+    "Nickname": "應該派出SRT的",
+    "Tier": 4,
+    "Rank": 789,
+    "BestRankingPoint": 94276337,
+    "BestRankingPointDetail": 94276337.2476048
+  },
+  {
+    "AccountId": 35632,
+    "Level": 87,
+    "Nickname": "嘿呀",
+    "Tier": 4,
+    "Rank": 790,
+    "BestRankingPoint": 94276274,
+    "BestRankingPointDetail": 94276274.2017951
+  },
+  {
+    "AccountId": 11436690,
+    "Level": 87,
+    "Nickname": "KhatumHHW",
+    "Tier": 4,
+    "Rank": 791,
+    "BestRankingPoint": 94276095,
+    "BestRankingPointDetail": 94276095.2038044
+  },
+  {
+    "AccountId": 12738383,
+    "Level": 87,
+    "Nickname": "zedking",
+    "Tier": 4,
+    "Rank": 792,
+    "BestRankingPoint": 94276052,
+    "BestRankingPointDetail": 94276052.230271
+  },
+  {
+    "AccountId": 12051668,
+    "Level": 87,
+    "Nickname": "虹咲學園偶像同好會",
+    "Tier": 4,
+    "Rank": 793,
+    "BestRankingPoint": 94276031,
+    "BestRankingPointDetail": 94276031.2435052
+  },
+  {
+    "AccountId": 12710098,
+    "Level": 87,
+    "Nickname": "早！",
+    "Tier": 4,
+    "Rank": 794,
+    "BestRankingPoint": 94275473,
+    "BestRankingPointDetail": 94275473.241292
+  },
+  {
+    "AccountId": 144585,
+    "Level": 87,
+    "Nickname": "七沢りん",
+    "Tier": 4,
+    "Rank": 795,
+    "BestRankingPoint": 94275310,
+    "BestRankingPointDetail": 94275310.2477547
+  },
+  {
+    "AccountId": 12756943,
+    "Level": 87,
+    "Nickname": "一品放心肉",
+    "Tier": 4,
+    "Rank": 796,
+    "BestRankingPoint": 94275168,
+    "BestRankingPointDetail": 94275168.2572041
+  },
+  {
+    "AccountId": 43470,
+    "Level": 87,
+    "Nickname": "綻放花戀",
+    "Tier": 4,
+    "Rank": 797,
+    "BestRankingPoint": 94274446,
+    "BestRankingPointDetail": 94274446.201852
+  },
+  {
+    "AccountId": 880028,
+    "Level": 87,
+    "Nickname": "雾岛雫",
+    "Tier": 4,
+    "Rank": 798,
+    "BestRankingPoint": 94274146,
+    "BestRankingPointDetail": 94274146.2417508
+  },
+  {
+    "AccountId": 12653902,
+    "Level": 87,
+    "Nickname": "朔夜",
+    "Tier": 4,
+    "Rank": 799,
+    "BestRankingPoint": 94273955,
+    "BestRankingPointDetail": 94273955.2257393
+  },
+  {
+    "AccountId": 8636030,
+    "Level": 87,
+    "Nickname": "Sagume",
+    "Tier": 4,
+    "Rank": 800,
+    "BestRankingPoint": 94273664,
+    "BestRankingPointDetail": 94273664.2551767
+  },
+  {
+    "AccountId": 8732907,
+    "Level": 87,
+    "Nickname": "MejiroPoi",
+    "Tier": 4,
+    "Rank": 801,
+    "BestRankingPoint": 94272464,
+    "BestRankingPointDetail": 94272464.2200871
+  },
+  {
+    "AccountId": 665678,
+    "Level": 87,
+    "Nickname": "凜玥楓",
+    "Tier": 4,
+    "Rank": 802,
+    "BestRankingPoint": 94272274,
+    "BestRankingPointDetail": 94272274.2018446
+  },
+  {
+    "AccountId": 12638502,
+    "Level": 87,
+    "Nickname": "小柏",
+    "Tier": 4,
+    "Rank": 803,
+    "BestRankingPoint": 94272222,
+    "BestRankingPointDetail": 94272222.2094453
+  },
+  {
+    "AccountId": 13438160,
+    "Level": 87,
+    "Nickname": "抹抹茶香",
+    "Tier": 4,
+    "Rank": 804,
+    "BestRankingPoint": 94271952,
+    "BestRankingPointDetail": 94271952.248005
+  },
+  {
+    "AccountId": 3599885,
+    "Level": 87,
+    "Nickname": "違心",
+    "Tier": 4,
+    "Rank": 805,
+    "BestRankingPoint": 94270913,
+    "BestRankingPointDetail": 94270913.2069436
+  },
+  {
+    "AccountId": 12340100,
+    "Level": 87,
+    "Nickname": "deb",
+    "Tier": 4,
+    "Rank": 806,
+    "BestRankingPoint": 94270895,
+    "BestRankingPointDetail": 94270895.2155994
+  },
+  {
+    "AccountId": 12451538,
+    "Level": 87,
+    "Nickname": "ILuvU",
+    "Tier": 4,
+    "Rank": 807,
+    "BestRankingPoint": 94270464,
+    "BestRankingPointDetail": 94270464.2152953
+  },
+  {
+    "AccountId": 12646104,
+    "Level": 87,
+    "Nickname": "ฅ花园百๑ˊωˋ๑合铃喵ฅ",
+    "Tier": 4,
+    "Rank": 808,
+    "BestRankingPoint": 94269839,
+    "BestRankingPointDetail": 94269839.2155756
+  },
+  {
+    "AccountId": 12891826,
+    "Level": 87,
+    "Nickname": "古书馆的魔法师",
+    "Tier": 4,
+    "Rank": 809,
+    "BestRankingPoint": 94269280,
+    "BestRankingPointDetail": 94269280.2066271
+  },
+  {
+    "AccountId": 8368317,
+    "Level": 87,
+    "Nickname": "梓",
+    "Tier": 4,
+    "Rank": 810,
+    "BestRankingPoint": 94269169,
+    "BestRankingPointDetail": 94269169.2044532
+  },
+  {
+    "AccountId": 13561379,
+    "Level": 87,
+    "Nickname": "帕西利斯",
+    "Tier": 4,
+    "Rank": 811,
+    "BestRankingPoint": 94269054,
+    "BestRankingPointDetail": 94269054.210171
+  },
+  {
+    "AccountId": 13330818,
+    "Level": 87,
+    "Nickname": "笙鳴月吟",
+    "Tier": 4,
+    "Rank": 812,
+    "BestRankingPoint": 94268383,
+    "BestRankingPointDetail": 94268383.2302711
+  },
+  {
+    "AccountId": 8534524,
+    "Level": 87,
+    "Nickname": "暗羽",
+    "Tier": 4,
+    "Rank": 813,
+    "BestRankingPoint": 94267745,
+    "BestRankingPointDetail": 94267745.2385858
+  },
+  {
+    "AccountId": 51436,
+    "Level": 87,
+    "Nickname": "烧猪君",
+    "Tier": 4,
+    "Rank": 814,
+    "BestRankingPoint": 94266399,
+    "BestRankingPointDetail": 94266399.2250971
+  },
+  {
+    "AccountId": 14989760,
+    "Level": 87,
+    "Nickname": "Neyun",
+    "Tier": 4,
+    "Rank": 815,
+    "BestRankingPoint": 94265697,
+    "BestRankingPointDetail": 94265697.2583194
+  },
+  {
+    "AccountId": 13676317,
+    "Level": 87,
+    "Nickname": "darkmoon",
+    "Tier": 4,
+    "Rank": 816,
+    "BestRankingPoint": 94265696,
+    "BestRankingPointDetail": 94265696.2202128
+  },
+  {
+    "AccountId": 3433,
+    "Level": 87,
+    "Nickname": "源寺",
+    "Tier": 4,
+    "Rank": 817,
+    "BestRankingPoint": 94265648,
+    "BestRankingPointDetail": 94265648.2297128
+  },
+  {
+    "AccountId": 14934934,
+    "Level": 87,
+    "Nickname": "Halfcoin",
+    "Tier": 4,
+    "Rank": 818,
+    "BestRankingPoint": 94265376,
+    "BestRankingPointDetail": 94265376.2348137
+  },
+  {
+    "AccountId": 12778313,
+    "Level": 87,
+    "Nickname": "Yui",
+    "Tier": 4,
+    "Rank": 819,
+    "BestRankingPoint": 94265343,
+    "BestRankingPointDetail": 94265343.2105813
+  },
+  {
+    "AccountId": 12190330,
+    "Level": 87,
+    "Nickname": "风",
+    "Tier": 4,
+    "Rank": 820,
+    "BestRankingPoint": 94264817,
+    "BestRankingPointDetail": 94264817.20199
+  },
+  {
+    "AccountId": 11239336,
+    "Level": 87,
+    "Nickname": "Rean",
+    "Tier": 4,
+    "Rank": 821,
+    "BestRankingPoint": 94264688,
+    "BestRankingPointDetail": 94264688.2215583
+  },
+  {
+    "AccountId": 10998679,
+    "Level": 87,
+    "Nickname": "三年云玩家",
+    "Tier": 4,
+    "Rank": 822,
+    "BestRankingPoint": 94264640,
+    "BestRankingPointDetail": 94264640.2048721
+  },
+  {
+    "AccountId": 7725285,
+    "Level": 87,
+    "Nickname": "shouko",
+    "Tier": 4,
+    "Rank": 823,
+    "BestRankingPoint": 94264227,
+    "BestRankingPointDetail": 94264227.2213353
+  },
+  {
+    "AccountId": 11780349,
+    "Level": 87,
+    "Nickname": "椒盐金鱼",
+    "Tier": 4,
+    "Rank": 824,
+    "BestRankingPoint": 94264222,
+    "BestRankingPointDetail": 94264222.2459916
+  },
+  {
+    "AccountId": 14271604,
+    "Level": 87,
+    "Nickname": "日向十環十二管阿露八槍不暴擊",
+    "Tier": 4,
+    "Rank": 825,
+    "BestRankingPoint": 94264128,
+    "BestRankingPointDetail": 94264128.2156479
+  },
+  {
+    "AccountId": 12060255,
+    "Level": 87,
+    "Nickname": "正在上位，别打我(T⌓T)",
+    "Tier": 4,
+    "Rank": 826,
+    "BestRankingPoint": 94263026,
+    "BestRankingPointDetail": 94263026.2277206
+  },
+  {
+    "AccountId": 8596777,
+    "Level": 87,
+    "Nickname": "dogg",
+    "Tier": 4,
+    "Rank": 827,
+    "BestRankingPoint": 94262031,
+    "BestRankingPointDetail": 94262031.2368684
+  },
+  {
+    "AccountId": 15360947,
+    "Level": 87,
+    "Nickname": "耐摔王",
+    "Tier": 4,
+    "Rank": 828,
+    "BestRankingPoint": 94261472,
+    "BestRankingPointDetail": 94261472.2245041
+  },
+  {
+    "AccountId": 14280498,
+    "Level": 87,
+    "Nickname": "幻空蝶",
+    "Tier": 4,
+    "Rank": 829,
+    "BestRankingPoint": 94261374,
+    "BestRankingPointDetail": 94261374.23077
+  },
+  {
+    "AccountId": 786415,
+    "Level": 87,
+    "Nickname": "空崎レイジ",
+    "Tier": 4,
+    "Rank": 830,
+    "BestRankingPoint": 94261153,
+    "BestRankingPointDetail": 94261153.2230306
+  },
+  {
+    "AccountId": 8617375,
+    "Level": 87,
+    "Nickname": "愛木須龍",
+    "Tier": 4,
+    "Rank": 831,
+    "BestRankingPoint": 94260689,
+    "BestRankingPointDetail": 94260689.2466387
+  },
+  {
+    "AccountId": 6554236,
+    "Level": 87,
+    "Nickname": "鱼鱼",
+    "Tier": 4,
+    "Rank": 832,
+    "BestRankingPoint": 94260383,
+    "BestRankingPointDetail": 94260383.2138965
+  },
+  {
+    "AccountId": 13015060,
+    "Level": 87,
+    "Nickname": "Rain",
+    "Tier": 4,
+    "Rank": 833,
+    "BestRankingPoint": 94259712,
+    "BestRankingPointDetail": 94259712.2096694
+  },
+  {
+    "AccountId": 12485462,
+    "Level": 87,
+    "Nickname": "鹿鹿超",
+    "Tier": 4,
+    "Rank": 834,
+    "BestRankingPoint": 94259664,
+    "BestRankingPointDetail": 94259664.202384
+  },
+  {
+    "AccountId": 10636096,
+    "Level": 87,
+    "Nickname": "心里永遠是天宮心",
+    "Tier": 4,
+    "Rank": 835,
+    "BestRankingPoint": 94259412,
+    "BestRankingPointDetail": 94259412.2200251
+  },
+  {
+    "AccountId": 3352,
+    "Level": 87,
+    "Nickname": "Fanyee",
+    "Tier": 4,
+    "Rank": 836,
+    "BestRankingPoint": 94257792,
+    "BestRankingPointDetail": 94257792.2415059
+  },
+  {
+    "AccountId": 306523,
+    "Level": 87,
+    "Nickname": "st4ann",
+    "Tier": 4,
+    "Rank": 837,
+    "BestRankingPoint": 94256609,
+    "BestRankingPointDetail": 94256609.2453795
+  },
+  {
+    "AccountId": 8501137,
+    "Level": 87,
+    "Nickname": "木崎阳向",
+    "Tier": 4,
+    "Rank": 838,
+    "BestRankingPoint": 94256432,
+    "BestRankingPointDetail": 94256432.2160375
+  },
+  {
+    "AccountId": 8844842,
+    "Level": 87,
+    "Nickname": "渌水荡漾春原啼",
+    "Tier": 4,
+    "Rank": 839,
+    "BestRankingPoint": 94256352,
+    "BestRankingPointDetail": 94256352.2461009
+  },
+  {
+    "AccountId": 13049739,
+    "Level": 87,
+    "Nickname": "Platinum",
+    "Tier": 4,
+    "Rank": 840,
+    "BestRankingPoint": 94256288,
+    "BestRankingPointDetail": 94256288.2037369
+  },
+  {
+    "AccountId": 16104468,
+    "Level": 87,
+    "Nickname": "1nvalid",
+    "Tier": 4,
+    "Rank": 841,
+    "BestRankingPoint": 94255968,
+    "BestRankingPointDetail": 94255968.202176
+  },
+  {
+    "AccountId": 1422850,
+    "Level": 87,
+    "Nickname": "摸你傻",
+    "Tier": 4,
+    "Rank": 842,
+    "BestRankingPoint": 94255505,
+    "BestRankingPointDetail": 94255505.2364177
+  },
+  {
+    "AccountId": 12701344,
+    "Level": 87,
+    "Nickname": "由岐照美",
+    "Tier": 4,
+    "Rank": 843,
+    "BestRankingPoint": 94255200,
+    "BestRankingPointDetail": 94255200.2126979
+  },
+  {
+    "AccountId": 10523668,
+    "Level": 87,
+    "Nickname": "sky",
+    "Tier": 4,
+    "Rank": 844,
+    "BestRankingPoint": 94255090,
+    "BestRankingPointDetail": 94255090.2131153
+  },
+  {
+    "AccountId": 11648474,
+    "Level": 87,
+    "Nickname": "corsair",
+    "Tier": 4,
+    "Rank": 845,
+    "BestRankingPoint": 94254545,
+    "BestRankingPointDetail": 94254545.2550197
+  },
+  {
+    "AccountId": 9449052,
+    "Level": 87,
+    "Nickname": "欲予求",
+    "Tier": 4,
+    "Rank": 846,
+    "BestRankingPoint": 94254078,
+    "BestRankingPointDetail": 94254078.2040202
+  },
+  {
+    "AccountId": 23646,
+    "Level": 87,
+    "Nickname": "薩門特里克",
+    "Tier": 4,
+    "Rank": 847,
+    "BestRankingPoint": 94253393,
+    "BestRankingPointDetail": 94253393.2115792
+  },
+  {
+    "AccountId": 11033090,
+    "Level": 87,
+    "Nickname": "今天你炸了吗",
+    "Tier": 4,
+    "Rank": 848,
+    "BestRankingPoint": 94252897,
+    "BestRankingPointDetail": 94252897.2211323
+  },
+  {
+    "AccountId": 10942002,
+    "Level": 87,
+    "Nickname": "月下緋想",
+    "Tier": 4,
+    "Rank": 849,
+    "BestRankingPoint": 94252079,
+    "BestRankingPointDetail": 94252079.2209722
+  },
+  {
+    "AccountId": 16020892,
+    "Level": 87,
+    "Nickname": "爱尔兰嘿虎",
+    "Tier": 4,
+    "Rank": 850,
+    "BestRankingPoint": 94251920,
+    "BestRankingPointDetail": 94251920.2147313
+  },
+  {
+    "AccountId": 10833669,
+    "Level": 87,
+    "Nickname": "Myz",
+    "Tier": 4,
+    "Rank": 851,
+    "BestRankingPoint": 94251903,
+    "BestRankingPointDetail": 94251903.2283328
+  },
+  {
+    "AccountId": 12959374,
+    "Level": 87,
+    "Nickname": "下江小春",
+    "Tier": 4,
+    "Rank": 852,
+    "BestRankingPoint": 94251696,
+    "BestRankingPointDetail": 94251696.2142871
+  },
+  {
+    "AccountId": 11392368,
+    "Level": 87,
+    "Nickname": "爱丽丝不喜欢暴击",
+    "Tier": 4,
+    "Rank": 853,
+    "BestRankingPoint": 94251586,
+    "BestRankingPointDetail": 94251586.2038733
+  },
+  {
+    "AccountId": 13845377,
+    "Level": 87,
+    "Nickname": "天文密葬法",
+    "Tier": 4,
+    "Rank": 854,
+    "BestRankingPoint": 94251137,
+    "BestRankingPointDetail": 94251137.2022436
+  },
+  {
+    "AccountId": 13674255,
+    "Level": 87,
+    "Nickname": "優香(體育服)",
+    "Tier": 4,
+    "Rank": 855,
+    "BestRankingPoint": 94250960,
+    "BestRankingPointDetail": 94250960.2017456
+  },
+  {
+    "AccountId": 10600062,
+    "Level": 87,
+    "Nickname": "御風矢",
+    "Tier": 4,
+    "Rank": 856,
+    "BestRankingPoint": 94250319,
+    "BestRankingPointDetail": 94250319.2465165
+  },
+  {
+    "AccountId": 8615543,
+    "Level": 87,
+    "Nickname": "Chika",
+    "Tier": 4,
+    "Rank": 857,
+    "BestRankingPoint": 94250159,
+    "BestRankingPointDetail": 94250159.2106385
+  },
+  {
+    "AccountId": 12929686,
+    "Level": 87,
+    "Nickname": "慕容唐",
+    "Tier": 4,
+    "Rank": 858,
+    "BestRankingPoint": 94249871,
+    "BestRankingPointDetail": 94249871.2483228
+  },
+  {
+    "AccountId": 12463425,
+    "Level": 87,
+    "Nickname": "ysc与你同前行",
+    "Tier": 4,
+    "Rank": 859,
+    "BestRankingPoint": 94249633,
+    "BestRankingPointDetail": 94249633.2040609
+  },
+  {
+    "AccountId": 15882684,
+    "Level": 87,
+    "Nickname": "落劍無痕",
+    "Tier": 4,
+    "Rank": 860,
+    "BestRankingPoint": 94249632,
+    "BestRankingPointDetail": 94249632.2184682
+  },
+  {
+    "AccountId": 13205155,
+    "Level": 87,
+    "Nickname": "来进击ココナの小泬吧",
+    "Tier": 4,
+    "Rank": 861,
+    "BestRankingPoint": 94249279,
+    "BestRankingPointDetail": 94249279.2146282
+  },
+  {
+    "AccountId": 1393372,
+    "Level": 87,
+    "Nickname": "Cocola",
+    "Tier": 4,
+    "Rank": 862,
+    "BestRankingPoint": 94248864,
+    "BestRankingPointDetail": 94248864.2136159
+  },
+  {
+    "AccountId": 12995755,
+    "Level": 87,
+    "Nickname": "Kei",
+    "Tier": 4,
+    "Rank": 863,
+    "BestRankingPoint": 94248176,
+    "BestRankingPointDetail": 94248176.2497672
+  },
+  {
+    "AccountId": 13753595,
+    "Level": 87,
+    "Nickname": "地呱瓜",
+    "Tier": 4,
+    "Rank": 864,
+    "BestRankingPoint": 94248144,
+    "BestRankingPointDetail": 94248144.2197502
+  },
+  {
+    "AccountId": 12125509,
+    "Level": 87,
+    "Nickname": "7777777",
+    "Tier": 4,
+    "Rank": 865,
+    "BestRankingPoint": 94248030,
+    "BestRankingPointDetail": 94248030.2572519
+  },
+  {
+    "AccountId": 8872114,
+    "Level": 87,
+    "Nickname": "浅夏",
+    "Tier": 4,
+    "Rank": 866,
+    "BestRankingPoint": 94247842,
+    "BestRankingPointDetail": 94247842.213749
+  },
+  {
+    "AccountId": 12032948,
+    "Level": 87,
+    "Nickname": "Josh",
+    "Tier": 4,
+    "Rank": 867,
+    "BestRankingPoint": 94247662,
+    "BestRankingPointDetail": 94247662.2534028
+  },
+  {
+    "AccountId": 13056780,
+    "Level": 87,
+    "Nickname": "Pumpkin",
+    "Tier": 4,
+    "Rank": 868,
+    "BestRankingPoint": 94246943,
+    "BestRankingPointDetail": 94246943.202714
+  },
+  {
+    "AccountId": 13070009,
+    "Level": 87,
+    "Nickname": "qimeng",
+    "Tier": 4,
+    "Rank": 869,
+    "BestRankingPoint": 94246819,
+    "BestRankingPointDetail": 94246819.2037232
+  },
+  {
+    "AccountId": 6380527,
+    "Level": 87,
+    "Nickname": "QTER",
+    "Tier": 4,
+    "Rank": 870,
+    "BestRankingPoint": 94246306,
+    "BestRankingPointDetail": 94246306.2538118
+  },
+  {
+    "AccountId": 15938181,
+    "Level": 87,
+    "Nickname": "arcana",
+    "Tier": 4,
+    "Rank": 871,
+    "BestRankingPoint": 94246209,
+    "BestRankingPointDetail": 94246209.2229686
+  },
+  {
+    "AccountId": 16678795,
+    "Level": 87,
+    "Nickname": "小冰貓",
+    "Tier": 4,
+    "Rank": 872,
+    "BestRankingPoint": 94246096,
+    "BestRankingPointDetail": 94246096.2413289
+  },
+  {
+    "AccountId": 10961890,
+    "Level": 87,
+    "Nickname": "Kobuuuuuo",
+    "Tier": 4,
+    "Rank": 873,
+    "BestRankingPoint": 94245917,
+    "BestRankingPointDetail": 94245917.21917
+  },
+  {
+    "AccountId": 12720342,
+    "Level": 87,
+    "Nickname": "kamishiro",
+    "Tier": 4,
+    "Rank": 874,
+    "BestRankingPoint": 94245807,
+    "BestRankingPointDetail": 94245807.2050115
+  },
+  {
+    "AccountId": 25726,
+    "Level": 87,
+    "Nickname": "空空",
+    "Tier": 4,
+    "Rank": 875,
+    "BestRankingPoint": 94245584,
+    "BestRankingPointDetail": 94245584.2045176
+  },
+  {
+    "AccountId": 12270635,
+    "Level": 87,
+    "Nickname": "Akasaka_CCC",
+    "Tier": 4,
+    "Rank": 876,
+    "BestRankingPoint": 94245202,
+    "BestRankingPointDetail": 94245202.2305344
+  },
+  {
+    "AccountId": 10509077,
+    "Level": 87,
+    "Nickname": "花音",
+    "Tier": 4,
+    "Rank": 877,
+    "BestRankingPoint": 94244880,
+    "BestRankingPointDetail": 94244880.2246475
+  },
+  {
+    "AccountId": 13468022,
+    "Level": 87,
+    "Nickname": "奶油o",
+    "Tier": 4,
+    "Rank": 878,
+    "BestRankingPoint": 94244784,
+    "BestRankingPointDetail": 94244784.2109925
+  },
+  {
+    "AccountId": 11087288,
+    "Level": 87,
+    "Nickname": "田所浩四",
+    "Tier": 4,
+    "Rank": 879,
+    "BestRankingPoint": 94244752,
+    "BestRankingPointDetail": 94244752.2496188
+  },
+  {
+    "AccountId": 12052643,
+    "Level": 87,
+    "Nickname": "雨情",
+    "Tier": 4,
+    "Rank": 880,
+    "BestRankingPoint": 94244287,
+    "BestRankingPointDetail": 94244287.2373693
+  },
+  {
+    "AccountId": 8395108,
+    "Level": 87,
+    "Nickname": "Chothlly",
+    "Tier": 4,
+    "Rank": 881,
+    "BestRankingPoint": 94244272,
+    "BestRankingPointDetail": 94244272.2027684
+  },
+  {
+    "AccountId": 133181,
+    "Level": 87,
+    "Nickname": "wish",
+    "Tier": 4,
+    "Rank": 882,
+    "BestRankingPoint": 94244144,
+    "BestRankingPointDetail": 94244144.2375707
+  },
+  {
+    "AccountId": 10117873,
+    "Level": 87,
+    "Nickname": "ooo",
+    "Tier": 4,
+    "Rank": 883,
+    "BestRankingPoint": 94244112,
+    "BestRankingPointDetail": 94244112.2480625
+  },
+  {
+    "AccountId": 12388341,
+    "Level": 87,
+    "Nickname": "白子推~",
+    "Tier": 4,
+    "Rank": 884,
+    "BestRankingPoint": 94244111,
+    "BestRankingPointDetail": 94244111.2196278
+  },
+  {
+    "AccountId": 14655144,
+    "Level": 87,
+    "Nickname": "記憶如可惜",
+    "Tier": 4,
+    "Rank": 885,
+    "BestRankingPoint": 94243793,
+    "BestRankingPointDetail": 94243793.2306213
+  },
+  {
+    "AccountId": 3627914,
+    "Level": 87,
+    "Nickname": "Rdb",
+    "Tier": 4,
+    "Rank": 886,
+    "BestRankingPoint": 94243662,
+    "BestRankingPointDetail": 94243662.2158664
+  },
+  {
+    "AccountId": 80587,
+    "Level": 87,
+    "Nickname": "克萊贝尔",
+    "Tier": 4,
+    "Rank": 887,
+    "BestRankingPoint": 94243601,
+    "BestRankingPointDetail": 94243601.2398175
+  },
+  {
+    "AccountId": 13801333,
+    "Level": 87,
+    "Nickname": "神邪血染",
+    "Tier": 4,
+    "Rank": 888,
+    "BestRankingPoint": 94243361,
+    "BestRankingPointDetail": 94243361.2215849
+  },
+  {
+    "AccountId": 89229,
+    "Level": 87,
+    "Nickname": "Cu",
+    "Tier": 4,
+    "Rank": 889,
+    "BestRankingPoint": 94243232,
+    "BestRankingPointDetail": 94243232.2569331
+  },
+  {
+    "AccountId": 12776760,
+    "Level": 87,
+    "Nickname": "懸壺濟世無妄者",
+    "Tier": 4,
+    "Rank": 890,
+    "BestRankingPoint": 94242992,
+    "BestRankingPointDetail": 94242992.2201566
+  },
+  {
+    "AccountId": 12663548,
+    "Level": 87,
+    "Nickname": "发亮的水果店",
+    "Tier": 4,
+    "Rank": 891,
+    "BestRankingPoint": 94242912,
+    "BestRankingPointDetail": 94242912.2120533
+  },
+  {
+    "AccountId": 12459576,
+    "Level": 87,
+    "Nickname": "米粉王",
+    "Tier": 4,
+    "Rank": 892,
+    "BestRankingPoint": 94242654,
+    "BestRankingPointDetail": 94242654.2372476
+  },
+  {
+    "AccountId": 13487521,
+    "Level": 87,
+    "Nickname": "好似喵",
+    "Tier": 4,
+    "Rank": 893,
+    "BestRankingPoint": 94241983,
+    "BestRankingPointDetail": 94241983.2222445
+  },
+  {
+    "AccountId": 5154559,
+    "Level": 87,
+    "Nickname": "不要卷啦",
+    "Tier": 4,
+    "Rank": 894,
+    "BestRankingPoint": 94241969,
+    "BestRankingPointDetail": 94241969.2066879
+  },
+  {
+    "AccountId": 15822468,
+    "Level": 87,
+    "Nickname": "syy",
+    "Tier": 4,
+    "Rank": 895,
+    "BestRankingPoint": 94241823,
+    "BestRankingPointDetail": 94241823.2510606
+  },
+  {
+    "AccountId": 8556269,
+    "Level": 87,
+    "Nickname": "Yagoo",
+    "Tier": 4,
+    "Rank": 896,
+    "BestRankingPoint": 94241120,
+    "BestRankingPointDetail": 94241120.2330249
+  },
+  {
+    "AccountId": 14447214,
+    "Level": 87,
+    "Nickname": "Septen",
+    "Tier": 4,
+    "Rank": 897,
+    "BestRankingPoint": 94241105,
+    "BestRankingPointDetail": 94241105.2130171
+  },
+  {
+    "AccountId": 10782143,
+    "Level": 87,
+    "Nickname": "何者",
+    "Tier": 4,
+    "Rank": 898,
+    "BestRankingPoint": 94240976,
+    "BestRankingPointDetail": 94240976.2308063
+  },
+  {
+    "AccountId": 7682568,
+    "Level": 87,
+    "Nickname": "殤",
+    "Tier": 4,
+    "Rank": 899,
+    "BestRankingPoint": 94240161,
+    "BestRankingPointDetail": 94240161.2171642
+  },
+  {
+    "AccountId": 10582,
+    "Level": 87,
+    "Nickname": "葱queen",
+    "Tier": 4,
+    "Rank": 900,
+    "BestRankingPoint": 94240063,
+    "BestRankingPointDetail": 94240063.2472225
+  },
+  {
+    "AccountId": 7825196,
+    "Level": 87,
+    "Nickname": "查无此人",
+    "Tier": 4,
+    "Rank": 901,
+    "BestRankingPoint": 94239041,
+    "BestRankingPointDetail": 94239041.2567237
+  },
+  {
+    "AccountId": 13984874,
+    "Level": 87,
+    "Nickname": "温风至",
+    "Tier": 4,
+    "Rank": 902,
+    "BestRankingPoint": 94238606,
+    "BestRankingPointDetail": 94238606.2578471
+  },
+  {
+    "AccountId": 13142243,
+    "Level": 87,
+    "Nickname": "新堂",
+    "Tier": 4,
+    "Rank": 903,
+    "BestRankingPoint": 94238271,
+    "BestRankingPointDetail": 94238271.2495032
+  },
+  {
+    "AccountId": 12305569,
+    "Level": 87,
+    "Nickname": "小杨",
+    "Tier": 4,
+    "Rank": 904,
+    "BestRankingPoint": 94236863,
+    "BestRankingPointDetail": 94236863.2395297
+  },
+  {
+    "AccountId": 204741,
+    "Level": 87,
+    "Nickname": "胡璃晶",
+    "Tier": 4,
+    "Rank": 905,
+    "BestRankingPoint": 94236528,
+    "BestRankingPointDetail": 94236528.2220684
+  },
+  {
+    "AccountId": 10970847,
+    "Level": 87,
+    "Nickname": "响",
+    "Tier": 4,
+    "Rank": 906,
+    "BestRankingPoint": 94236065,
+    "BestRankingPointDetail": 94236065.2047411
+  },
+  {
+    "AccountId": 11982341,
+    "Level": 87,
+    "Nickname": "懒狗",
+    "Tier": 4,
+    "Rank": 907,
+    "BestRankingPoint": 94235742,
+    "BestRankingPointDetail": 94235742.2455189
+  },
+  {
+    "AccountId": 11071877,
+    "Level": 87,
+    "Nickname": "天冰",
+    "Tier": 4,
+    "Rank": 908,
+    "BestRankingPoint": 94235631,
+    "BestRankingPointDetail": 94235631.2511468
+  },
+  {
+    "AccountId": 13696810,
+    "Level": 87,
+    "Nickname": "芝麻",
+    "Tier": 4,
+    "Rank": 909,
+    "BestRankingPoint": 94234288,
+    "BestRankingPointDetail": 94234288.2428644
+  },
+  {
+    "AccountId": 1829596,
+    "Level": 87,
+    "Nickname": "Ealice",
+    "Tier": 4,
+    "Rank": 910,
+    "BestRankingPoint": 94234239,
+    "BestRankingPointDetail": 94234239.2225001
+  },
+  {
+    "AccountId": 11937453,
+    "Level": 87,
+    "Nickname": "有了愛麗絲就可以和ケイ做艾吧",
+    "Tier": 4,
+    "Rank": 911,
+    "BestRankingPoint": 94234097,
+    "BestRankingPointDetail": 94234097.2142356
+  },
+  {
+    "AccountId": 2529019,
+    "Level": 87,
+    "Nickname": "冷萃-櫻之刻-",
+    "Tier": 4,
+    "Rank": 912,
+    "BestRankingPoint": 94233792,
+    "BestRankingPointDetail": 94233792.2308555
+  },
+  {
+    "AccountId": 14288648,
+    "Level": 87,
+    "Nickname": "DX-96",
+    "Tier": 4,
+    "Rank": 913,
+    "BestRankingPoint": 94232911,
+    "BestRankingPointDetail": 94232911.2339176
+  },
+  {
+    "AccountId": 8667016,
+    "Level": 87,
+    "Nickname": "Cocoa",
+    "Tier": 4,
+    "Rank": 914,
+    "BestRankingPoint": 94232862,
+    "BestRankingPointDetail": 94232862.2324045
+  },
+  {
+    "AccountId": 16013633,
+    "Level": 87,
+    "Nickname": "葡萄美酒夜光杯吾掏懶覺茜香吹",
+    "Tier": 4,
+    "Rank": 915,
+    "BestRankingPoint": 94232592,
+    "BestRankingPointDetail": 94232592.2020929
+  },
+  {
+    "AccountId": 13919918,
+    "Level": 87,
+    "Nickname": "Vigna",
+    "Tier": 4,
+    "Rank": 916,
+    "BestRankingPoint": 94231392,
+    "BestRankingPointDetail": 94231392.2109833
+  },
+  {
+    "AccountId": 2726000,
+    "Level": 87,
+    "Nickname": "星白閑",
+    "Tier": 4,
+    "Rank": 917,
+    "BestRankingPoint": 94230898,
+    "BestRankingPointDetail": 94230898.2573479
+  },
+  {
+    "AccountId": 14568839,
+    "Level": 87,
+    "Nickname": "WerKned",
+    "Tier": 4,
+    "Rank": 918,
+    "BestRankingPoint": 94230560,
+    "BestRankingPointDetail": 94230560.2115972
+  },
+  {
+    "AccountId": 13601100,
+    "Level": 87,
+    "Nickname": "幸運之星",
+    "Tier": 4,
+    "Rank": 919,
+    "BestRankingPoint": 94230242,
+    "BestRankingPointDetail": 94230242.2095958
+  },
+  {
+    "AccountId": 16270968,
+    "Level": 87,
+    "Nickname": "XeRn",
+    "Tier": 4,
+    "Rank": 920,
+    "BestRankingPoint": 94230160,
+    "BestRankingPointDetail": 94230160.2103488
+  },
+  {
+    "AccountId": 12222105,
+    "Level": 87,
+    "Nickname": "和解也是一種悔改",
+    "Tier": 4,
+    "Rank": 921,
+    "BestRankingPoint": 94230080,
+    "BestRankingPointDetail": 94230080.224405
+  },
+  {
+    "AccountId": 12706564,
+    "Level": 87,
+    "Nickname": "工口尼姆斯",
+    "Tier": 4,
+    "Rank": 922,
+    "BestRankingPoint": 94230079,
+    "BestRankingPointDetail": 94230079.2110508
+  },
+  {
+    "AccountId": 6280574,
+    "Level": 87,
+    "Nickname": "美琴的男友",
+    "Tier": 4,
+    "Rank": 923,
+    "BestRankingPoint": 94229950,
+    "BestRankingPointDetail": 94229950.2158129
+  },
+  {
+    "AccountId": 15122931,
+    "Level": 87,
+    "Nickname": "TokiDoki",
+    "Tier": 4,
+    "Rank": 924,
+    "BestRankingPoint": 94229425,
+    "BestRankingPointDetail": 94229425.2397495
+  },
+  {
+    "AccountId": 14081029,
+    "Level": 87,
+    "Nickname": "卑卑卑卑",
+    "Tier": 4,
+    "Rank": 925,
+    "BestRankingPoint": 94228863,
+    "BestRankingPointDetail": 94228863.2161933
+  },
+  {
+    "AccountId": 14689288,
+    "Level": 87,
+    "Nickname": "葉子貓",
+    "Tier": 4,
+    "Rank": 926,
+    "BestRankingPoint": 94228654,
+    "BestRankingPointDetail": 94228654.2198088
+  },
+  {
+    "AccountId": 12341299,
+    "Level": 87,
+    "Nickname": "Sylph",
+    "Tier": 4,
+    "Rank": 927,
+    "BestRankingPoint": 94227826,
+    "BestRankingPointDetail": 94227826.2155388
+  },
+  {
+    "AccountId": 1036801,
+    "Level": 87,
+    "Nickname": "Nami",
+    "Tier": 4,
+    "Rank": 928,
+    "BestRankingPoint": 94227582,
+    "BestRankingPointDetail": 94227582.219465
+  },
+  {
+    "AccountId": 12681180,
+    "Level": 87,
+    "Nickname": "維多利加",
+    "Tier": 4,
+    "Rank": 929,
+    "BestRankingPoint": 94227488,
+    "BestRankingPointDetail": 94227488.2323142
+  },
+  {
+    "AccountId": 6852583,
+    "Level": 87,
+    "Nickname": "乾真大",
+    "Tier": 4,
+    "Rank": 930,
+    "BestRankingPoint": 94227279,
+    "BestRankingPointDetail": 94227279.2192541
+  },
+  {
+    "AccountId": 10760,
+    "Level": 87,
+    "Nickname": "Mary",
+    "Tier": 4,
+    "Rank": 931,
+    "BestRankingPoint": 94227215,
+    "BestRankingPointDetail": 94227215.2561854
+  },
+  {
+    "AccountId": 81348,
+    "Level": 87,
+    "Nickname": "四季之死神",
+    "Tier": 4,
+    "Rank": 932,
+    "BestRankingPoint": 94226832,
+    "BestRankingPointDetail": 94226832.2318187
+  },
+  {
+    "AccountId": 12776123,
+    "Level": 87,
+    "Nickname": "TK-她真能打总力战",
+    "Tier": 4,
+    "Rank": 933,
+    "BestRankingPoint": 94226578,
+    "BestRankingPointDetail": 94226578.2194912
+  },
+  {
+    "AccountId": 13537431,
+    "Level": 87,
+    "Nickname": "超天才清楚系病弱美少女",
+    "Tier": 4,
+    "Rank": 934,
+    "BestRankingPoint": 94226400,
+    "BestRankingPointDetail": 94226400.2557948
+  },
+  {
+    "AccountId": 10666004,
+    "Level": 87,
+    "Nickname": "円環少女馒头卡",
+    "Tier": 4,
+    "Rank": 935,
+    "BestRankingPoint": 94226064,
+    "BestRankingPointDetail": 94226064.2363108
+  },
+  {
+    "AccountId": 8411467,
+    "Level": 87,
+    "Nickname": "Kusario",
+    "Tier": 4,
+    "Rank": 936,
+    "BestRankingPoint": 94226047,
+    "BestRankingPointDetail": 94226047.257002
+  },
+  {
+    "AccountId": 540835,
+    "Level": 87,
+    "Nickname": "[00ffff]aro☃️",
+    "Tier": 4,
+    "Rank": 937,
+    "BestRankingPoint": 94225217,
+    "BestRankingPointDetail": 94225217.2025279
+  },
+  {
+    "AccountId": 12254531,
+    "Level": 87,
+    "Nickname": "dream",
+    "Tier": 4,
+    "Rank": 938,
+    "BestRankingPoint": 94225119,
+    "BestRankingPointDetail": 94225119.211405
+  },
+  {
+    "AccountId": 12565323,
+    "Level": 87,
+    "Nickname": "不听",
+    "Tier": 4,
+    "Rank": 939,
+    "BestRankingPoint": 94224641,
+    "BestRankingPointDetail": 94224641.2388481
+  },
+  {
+    "AccountId": 12068703,
+    "Level": 87,
+    "Nickname": "xiaoxiao",
+    "Tier": 4,
+    "Rank": 940,
+    "BestRankingPoint": 94223776,
+    "BestRankingPointDetail": 94223776.2393878
+  },
+  {
+    "AccountId": 14092406,
+    "Level": 87,
+    "Nickname": "烟火丶离殇",
+    "Tier": 4,
+    "Rank": 941,
+    "BestRankingPoint": 94223633,
+    "BestRankingPointDetail": 94223633.2238831
+  },
+  {
+    "AccountId": 14315466,
+    "Level": 87,
+    "Nickname": "Wolke",
+    "Tier": 4,
+    "Rank": 942,
+    "BestRankingPoint": 94223363,
+    "BestRankingPointDetail": 94223363.2151344
+  },
+  {
+    "AccountId": 13681934,
+    "Level": 87,
+    "Nickname": "kusoto",
+    "Tier": 4,
+    "Rank": 943,
+    "BestRankingPoint": 94222992,
+    "BestRankingPointDetail": 94222992.2361908
+  },
+  {
+    "AccountId": 13800644,
+    "Level": 87,
+    "Nickname": "怎那麼香香",
+    "Tier": 4,
+    "Rank": 944,
+    "BestRankingPoint": 94222703,
+    "BestRankingPointDetail": 94222703.2481046
+  },
+  {
+    "AccountId": 12666505,
+    "Level": 87,
+    "Nickname": "小歐",
+    "Tier": 4,
+    "Rank": 945,
+    "BestRankingPoint": 94222495,
+    "BestRankingPointDetail": 94222495.2030715
+  },
+  {
+    "AccountId": 61493,
+    "Level": 87,
+    "Nickname": "琉璃之鸟",
+    "Tier": 4,
+    "Rank": 946,
+    "BestRankingPoint": 94222160,
+    "BestRankingPointDetail": 94222160.2569724
+  },
+  {
+    "AccountId": 12054732,
+    "Level": 87,
+    "Nickname": "葬送的旅秀蓮",
+    "Tier": 4,
+    "Rank": 947,
+    "BestRankingPoint": 94222097,
+    "BestRankingPointDetail": 94222097.2021855
+  },
+  {
+    "AccountId": 14762192,
+    "Level": 87,
+    "Nickname": "木木九",
+    "Tier": 4,
+    "Rank": 948,
+    "BestRankingPoint": 94221950,
+    "BestRankingPointDetail": 94221950.2371125
+  },
+  {
+    "AccountId": 13630084,
+    "Level": 87,
+    "Nickname": "德芙",
+    "Tier": 4,
+    "Rank": 949,
+    "BestRankingPoint": 94221872,
+    "BestRankingPointDetail": 94221872.2569416
+  },
+  {
+    "AccountId": 135104,
+    "Level": 87,
+    "Nickname": "BubbleAdam",
+    "Tier": 4,
+    "Rank": 950,
+    "BestRankingPoint": 94221361,
+    "BestRankingPointDetail": 94221361.2123675
+  },
+  {
+    "AccountId": 2104358,
+    "Level": 87,
+    "Nickname": "夜羽",
+    "Tier": 4,
+    "Rank": 951,
+    "BestRankingPoint": 94221154,
+    "BestRankingPointDetail": 94221154.2119067
+  },
+  {
+    "AccountId": 6671804,
+    "Level": 87,
+    "Nickname": "雪クモ",
+    "Tier": 4,
+    "Rank": 952,
+    "BestRankingPoint": 94221152,
+    "BestRankingPointDetail": 94221152.211601
+  },
+  {
+    "AccountId": 8287643,
+    "Level": 87,
+    "Nickname": "喵喵",
+    "Tier": 4,
+    "Rank": 953,
+    "BestRankingPoint": 94220785,
+    "BestRankingPointDetail": 94220785.2221004
+  },
+  {
+    "AccountId": 13528994,
+    "Level": 87,
+    "Nickname": "捏普捏普",
+    "Tier": 4,
+    "Rank": 954,
+    "BestRankingPoint": 94220405,
+    "BestRankingPointDetail": 94220405.2550931
+  },
+  {
+    "AccountId": 7564,
+    "Level": 87,
+    "Nickname": "叼果子的吱～",
+    "Tier": 4,
+    "Rank": 955,
+    "BestRankingPoint": 94220336,
+    "BestRankingPointDetail": 94220336.2023525
+  },
+  {
+    "AccountId": 11691399,
+    "Level": 87,
+    "Nickname": "Helios",
+    "Tier": 4,
+    "Rank": 956,
+    "BestRankingPoint": 94220272,
+    "BestRankingPointDetail": 94220272.2452359
+  },
+  {
+    "AccountId": 10639049,
+    "Level": 87,
+    "Nickname": "闇",
+    "Tier": 4,
+    "Rank": 957,
+    "BestRankingPoint": 94219841,
+    "BestRankingPointDetail": 94219841.2134611
+  },
+  {
+    "AccountId": 13453974,
+    "Level": 87,
+    "Nickname": "ReTire",
+    "Tier": 4,
+    "Rank": 958,
+    "BestRankingPoint": 94219713,
+    "BestRankingPointDetail": 94219713.2206639
+  },
+  {
+    "AccountId": 15006669,
+    "Level": 87,
+    "Nickname": "Fate",
+    "Tier": 4,
+    "Rank": 959,
+    "BestRankingPoint": 94219407,
+    "BestRankingPointDetail": 94219407.2116519
+  },
+  {
+    "AccountId": 14596283,
+    "Level": 87,
+    "Nickname": "西萌",
+    "Tier": 4,
+    "Rank": 960,
+    "BestRankingPoint": 94217649,
+    "BestRankingPointDetail": 94217649.2397196
+  },
+  {
+    "AccountId": 13385856,
+    "Level": 87,
+    "Nickname": "aoo",
+    "Tier": 4,
+    "Rank": 961,
+    "BestRankingPoint": 94217616,
+    "BestRankingPointDetail": 94217616.2356221
+  },
+  {
+    "AccountId": 12584129,
+    "Level": 87,
+    "Nickname": "不悉",
+    "Tier": 4,
+    "Rank": 962,
+    "BestRankingPoint": 94217456,
+    "BestRankingPointDetail": 94217456.2280365
+  },
+  {
+    "AccountId": 13670996,
+    "Level": 87,
+    "Nickname": "雅鑫",
+    "Tier": 4,
+    "Rank": 963,
+    "BestRankingPoint": 94216977,
+    "BestRankingPointDetail": 94216977.2024241
+  },
+  {
+    "AccountId": 7313404,
+    "Level": 87,
+    "Nickname": "reisen",
+    "Tier": 4,
+    "Rank": 964,
+    "BestRankingPoint": 94216292,
+    "BestRankingPointDetail": 94216292.2135367
+  },
+  {
+    "AccountId": 10958621,
+    "Level": 87,
+    "Nickname": "怜光惜我意",
+    "Tier": 4,
+    "Rank": 965,
+    "BestRankingPoint": 94216144,
+    "BestRankingPointDetail": 94216144.2370952
+  },
+  {
+    "AccountId": 7546852,
+    "Level": 87,
+    "Nickname": "横眉冷对千夫指星野嗦我的牛子",
+    "Tier": 4,
+    "Rank": 966,
+    "BestRankingPoint": 94216047,
+    "BestRankingPointDetail": 94216047.2029472
+  },
+  {
+    "AccountId": 13797960,
+    "Level": 87,
+    "Nickname": "INU",
+    "Tier": 4,
+    "Rank": 967,
+    "BestRankingPoint": 94215776,
+    "BestRankingPointDetail": 94215776.2242807
+  },
+  {
+    "AccountId": 13349937,
+    "Level": 87,
+    "Nickname": "AHSU",
+    "Tier": 4,
+    "Rank": 968,
+    "BestRankingPoint": 94215231,
+    "BestRankingPointDetail": 94215231.2277624
+  },
+  {
+    "AccountId": 15177464,
+    "Level": 87,
+    "Nickname": "尤里",
+    "Tier": 4,
+    "Rank": 969,
+    "BestRankingPoint": 94215152,
+    "BestRankingPointDetail": 94215152.2155254
+  },
+  {
+    "AccountId": 16347119,
+    "Level": 87,
+    "Nickname": "ずっと一緒だよ",
+    "Tier": 4,
+    "Rank": 970,
+    "BestRankingPoint": 94214480,
+    "BestRankingPointDetail": 94214480.2269298
+  },
+  {
+    "AccountId": 12841791,
+    "Level": 87,
+    "Nickname": "Nero",
+    "Tier": 4,
+    "Rank": 971,
+    "BestRankingPoint": 94214129,
+    "BestRankingPointDetail": 94214129.2276852
+  },
+  {
+    "AccountId": 13855186,
+    "Level": 87,
+    "Nickname": "古月",
+    "Tier": 4,
+    "Rank": 972,
+    "BestRankingPoint": 94213697,
+    "BestRankingPointDetail": 94213697.2148848
+  },
+  {
+    "AccountId": 13747544,
+    "Level": 87,
+    "Nickname": "主教",
+    "Tier": 4,
+    "Rank": 973,
+    "BestRankingPoint": 94213520,
+    "BestRankingPointDetail": 94213520.2115664
+  },
+  {
+    "AccountId": 12800694,
+    "Level": 87,
+    "Nickname": "阿爾法瑞斯",
+    "Tier": 4,
+    "Rank": 974,
+    "BestRankingPoint": 94213456,
+    "BestRankingPointDetail": 94213456.2125595
+  },
+  {
+    "AccountId": 596173,
+    "Level": 87,
+    "Nickname": "夜夕",
+    "Tier": 4,
+    "Rank": 975,
+    "BestRankingPoint": 94212944,
+    "BestRankingPointDetail": 94212944.2118221
+  },
+  {
+    "AccountId": 728685,
+    "Level": 87,
+    "Nickname": "Chariot",
+    "Tier": 4,
+    "Rank": 976,
+    "BestRankingPoint": 94212737,
+    "BestRankingPointDetail": 94212737.2527871
+  },
+  {
+    "AccountId": 12458306,
+    "Level": 87,
+    "Nickname": "半只海米",
+    "Tier": 4,
+    "Rank": 977,
+    "BestRankingPoint": 94212511,
+    "BestRankingPointDetail": 94212511.2027683
+  },
+  {
+    "AccountId": 10969720,
+    "Level": 87,
+    "Nickname": "Zzz…",
+    "Tier": 4,
+    "Rank": 978,
+    "BestRankingPoint": 94212130,
+    "BestRankingPointDetail": 94212130.2217739
+  },
+  {
+    "AccountId": 567045,
+    "Level": 87,
+    "Nickname": "qqqqq",
+    "Tier": 4,
+    "Rank": 979,
+    "BestRankingPoint": 94212095,
+    "BestRankingPointDetail": 94212095.2458276
+  },
+  {
+    "AccountId": 11570668,
+    "Level": 87,
+    "Nickname": "不悲花落早唯願茶若藻",
+    "Tier": 4,
+    "Rank": 980,
+    "BestRankingPoint": 94211794,
+    "BestRankingPointDetail": 94211794.2128479
+  },
+  {
+    "AccountId": 15021262,
+    "Level": 87,
+    "Nickname": "Min",
+    "Tier": 4,
+    "Rank": 981,
+    "BestRankingPoint": 94210625,
+    "BestRankingPointDetail": 94210625.2195981
+  },
+  {
+    "AccountId": 10739992,
+    "Level": 87,
+    "Nickname": "久遠",
+    "Tier": 4,
+    "Rank": 982,
+    "BestRankingPoint": 94210225,
+    "BestRankingPointDetail": 94210225.213223
+  },
+  {
+    "AccountId": 16521321,
+    "Level": 87,
+    "Nickname": "世界第一蘿莉控",
+    "Tier": 4,
+    "Rank": 983,
+    "BestRankingPoint": 94210208,
+    "BestRankingPointDetail": 94210208.2272699
+  },
+  {
+    "AccountId": 9467594,
+    "Level": 87,
+    "Nickname": "逆密爾",
+    "Tier": 4,
+    "Rank": 984,
+    "BestRankingPoint": 94209823,
+    "BestRankingPointDetail": 94209823.2107287
+  },
+  {
+    "AccountId": 14545607,
+    "Level": 87,
+    "Nickname": "吉他英雄Bocchi醬",
+    "Tier": 4,
+    "Rank": 985,
+    "BestRankingPoint": 94209330,
+    "BestRankingPointDetail": 94209330.2376835
+  },
+  {
+    "AccountId": 12793890,
+    "Level": 87,
+    "Nickname": "泠",
+    "Tier": 4,
+    "Rank": 986,
+    "BestRankingPoint": 94207920,
+    "BestRankingPointDetail": 94207920.2207246
+  },
+  {
+    "AccountId": 13796044,
+    "Level": 87,
+    "Nickname": "Shiritsuki",
+    "Tier": 4,
+    "Rank": 987,
+    "BestRankingPoint": 94207695,
+    "BestRankingPointDetail": 94207695.2214408
+  },
+  {
+    "AccountId": 8915414,
+    "Level": 87,
+    "Nickname": "002",
+    "Tier": 4,
+    "Rank": 988,
+    "BestRankingPoint": 94207501,
+    "BestRankingPointDetail": 94207501.2328348
+  },
+  {
+    "AccountId": 10837142,
+    "Level": 87,
+    "Nickname": "Ixeya",
+    "Tier": 4,
+    "Rank": 989,
+    "BestRankingPoint": 94206449,
+    "BestRankingPointDetail": 94206449.2443772
+  },
+  {
+    "AccountId": 1317811,
+    "Level": 87,
+    "Nickname": "衣更",
+    "Tier": 4,
+    "Rank": 990,
+    "BestRankingPoint": 94206416,
+    "BestRankingPointDetail": 94206416.20329
+  },
+  {
+    "AccountId": 12287399,
+    "Level": 87,
+    "Nickname": "打一档不需要那两个人吧",
+    "Tier": 4,
+    "Rank": 991,
+    "BestRankingPoint": 94206293,
+    "BestRankingPointDetail": 94206293.2284122
+  },
+  {
+    "AccountId": 10214394,
+    "Level": 87,
+    "Nickname": "Mushroom",
+    "Tier": 4,
+    "Rank": 992,
+    "BestRankingPoint": 94206176,
+    "BestRankingPointDetail": 94206176.2275002
+  },
+  {
+    "AccountId": 12320125,
+    "Level": 87,
+    "Nickname": "15#",
+    "Tier": 4,
+    "Rank": 993,
+    "BestRankingPoint": 94206128,
+    "BestRankingPointDetail": 94206128.2291177
+  },
+  {
+    "AccountId": 6947256,
+    "Level": 87,
+    "Nickname": "Origami",
+    "Tier": 4,
+    "Rank": 994,
+    "BestRankingPoint": 94205921,
+    "BestRankingPointDetail": 94205921.2539824
+  },
+  {
+    "AccountId": 15300555,
+    "Level": 87,
+    "Nickname": "你怎知我家有賢妻良母愛情風華",
+    "Tier": 4,
+    "Rank": 995,
+    "BestRankingPoint": 94205775,
+    "BestRankingPointDetail": 94205775.2024439
+  },
+  {
+    "AccountId": 13973962,
+    "Level": 87,
+    "Nickname": "秦文铦",
+    "Tier": 4,
+    "Rank": 996,
+    "BestRankingPoint": 94205444,
+    "BestRankingPointDetail": 94205444.2028792
+  },
+  {
+    "AccountId": 13030792,
+    "Level": 87,
+    "Nickname": "香草加冰",
+    "Tier": 4,
+    "Rank": 997,
+    "BestRankingPoint": 94205120,
+    "BestRankingPointDetail": 94205120.25611
+  },
+  {
+    "AccountId": 15673398,
+    "Level": 87,
+    "Nickname": "tong.",
+    "Tier": 4,
+    "Rank": 998,
+    "BestRankingPoint": 94205040,
+    "BestRankingPointDetail": 94205040.2296203
+  },
+  {
+    "AccountId": 14204095,
+    "Level": 87,
+    "Nickname": "總之先把我無敵的若藻擺上去",
+    "Tier": 4,
+    "Rank": 999,
+    "BestRankingPoint": 94204543,
+    "BestRankingPointDetail": 94204543.2218961
+  },
+  {
+    "AccountId": 12690093,
+    "Level": 87,
+    "Nickname": "ZIMO",
+    "Tier": 4,
+    "Rank": 1000,
+    "BestRankingPoint": 94204304,
+    "BestRankingPointDetail": 94204304.2052549
+  }
+]
